@@ -1,0 +1,29 @@
+# Data files — never commit raw logs or the compiled database
+data/
+*.db
+*.log
+
+
+# GeoIP database — 70MB binary, distribute separately
+*.mmdb
+
+
+# Power BI files — binary format, hard to diff
+*.pbix
+
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+
+# Intermediate pipeline CSVs
+consolidated_iis_logs.csv
+stage2.csv
+stage3.csv
+
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

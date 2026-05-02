@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+
+# Geolocation (MaxMind GeoLite2 reader)
+geoip2>=4.7.0
+maxminddb>=2.4.0
+
+
+# User-agent parsing
+user-agents>=2.2.0
+ua-parser>=0.16.1
+
+
+# Notebook support
+jupyter>=1.0.0
+ipykernel>=6.25.0
