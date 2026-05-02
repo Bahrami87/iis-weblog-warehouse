@@ -1,0 +1,4283 @@
+status,geoname_id,old_city_name,new_city_name,old_country_name,new_country_name,old_country_code,new_country_code,old_subdivision_codes,new_subdivision_codes
+removed,57723,Gurmeyso,,Somalia,,SO,,JD,
+removed,65785,Afgooye,,Somalia,,SO,,SH,
+removed,71132,,,Yemen,,YE,,SN,
+removed,90150,Tikrit,,Iraq,,IQ,,SD,
+removed,99071,Al Mawşil al Jadīdah,,Iraq,,IQ,,NI,
+removed,100077,Abu Ghraib,,Iraq,,IQ,,BG,
+removed,146286,Mórfou,,Cyprus,,CY,,01,
+removed,146523,Káto Lakatámeia,,Cyprus,,CY,,01,
+removed,146583,Kaimakli,,Cyprus,,CY,,01,
+removed,146619,Aglantzia,,Cyprus,,CY,,01,
+removed,146732,Ayios Dhometios,,Cyprus,,CY,,01,
+removed,146796,Aradhippou,,Cyprus,,CY,,03,
+removed,147269,,,Azerbaijan,,AZ,,SAL,
+removed,147288,Saatlı,,Azerbaijan,,AZ,,SAT,
+removed,147611,Lerik,,Azerbaijan,,AZ,,LER,
+removed,148449,,,Azerbaijan,,AZ,,XCI,
+new,149402,,Tunduma,,Tanzania,,TZ,,
+removed,149658,Tabora,,Tanzania,,TZ,,24,
+removed,149879,Singida,,Tanzania,,TZ,,23,
+removed,153176,Mpanda,,Tanzania,,TZ,,28,
+removed,154380,Mbeya,,Tanzania,,TZ,,14,
+removed,155101,Makumbako,,Tanzania,,TZ,,29,
+removed,157738,Kigoma,,Tanzania,,TZ,,08,
+removed,158027,Kibaha,,Tanzania,,TZ,,19,
+removed,159071,Iringa,,Tanzania,,TZ,,04,
+removed,174255,Ad Dārah,,Syria,,SY,,SU,
+removed,174991,Ararat,,Armenia,,AM,,AR,
+new,186300,,Mombasa,,Kenya,,KE,,18
+removed,193985,Kapsowar,,Kenya,,KE,,05,
+removed,196752,Hola,,Kenya,,KE,,40,
+removed,198452,Emmaloba,,Kenya,,KE,,45,
+removed,201463,Rwamagana,,Rwanda,,RW,,02,
+removed,201521,Ruhengeri,,Rwanda,,RW,,03,
+removed,201865,Nzega,,Rwanda,,RW,,05,
+removed,202065,Kibuye,,Rwanda,,RW,,04,
+removed,202068,Kibungo,,Rwanda,,RW,,02,
+removed,202217,Gitarama,,Rwanda,,RW,,05,
+removed,202326,Cyangugu,,Rwanda,,RW,,04,
+new,202496,,Nyarugenge,,Rwanda,,RW,,01
+removed,202905,Gisenyi,,Rwanda,,RW,,04,
+removed,203104,Byumba,,Rwanda,,RW,,03,
+removed,203112,Butare,,Rwanda,,RW,,05,
+removed,203141,Bugarama,,Rwanda,,RW,,04,
+removed,204405,Uvira,,Congo (DRC),,CD,,SK,
+removed,204953,Tshikapa,,Congo (DRC),,CD,,KS,
+removed,214481,Kananga,,Congo (DRC),,CD,,KC,
+new,217562,,Butembo,,Congo (DRC),,CD,,NK
+removed,221915,Loyada,,Djibouti,,DJ,,DJ,
+removed,222596,Holhol,,Djibouti,,DJ,,AS,
+removed,223773,Dorra,,Djibouti,,DJ,,TA,
+removed,223890,Dikhil,,Djibouti,,DJ,,DI,
+removed,224152,Ḏânan,,Djibouti,,DJ,,AS,
+removed,226234,Soroti,,Uganda,,UG,,"E,211",
+removed,227812,Njeru,,Uganda,,UG,,"C,117",
+removed,228853,Mukono,,Uganda,,UG,,"C,108",
+removed,229278,Mbale,,Uganda,,UG,,"E,209",
+removed,230166,Lira,,Uganda,,UG,,"N,307",
+removed,230893,Kitgum,,Uganda,,UG,,"N,305",
+removed,232066,Kasese,,Uganda,,UG,,"W,406",
+removed,233730,Bwizibwera,,Uganda,,UG,,"W,410",
+removed,235130,Apac,,Uganda,,UG,,"N,302",
+removed,241395,Cascade,,Seychelles,,SC,,11,
+removed,241427,Beau Vallon,,Seychelles,,SC,,08,
+removed,241443,Anse Royale,,Seychelles,,SC,,05,
+removed,241448,Anse Boileau,,Seychelles,,SC,,02,
+removed,243590,Iriba,,Chad,,TD,,WF,
+removed,243787,Goz Beida,,Chad,,TD,,SI,
+removed,245785,Abéché,,Chad,,TD,,OD,
+removed,246013,Wadi Al Seer,,Jordan,,JO,,AM,
+removed,248460,Khuraybat as Sūq,,Jordan,,JO,,AM,
+removed,250258,Salt,,Jordan,,JO,,BA,
+removed,250336,Ar Ramtha,,Jordan,,JO,,IR,
+removed,250637,Al Jubayhah,,Jordan,,JO,,AM,
+new,253643,,Skiathos,,Greece,,GR,,E
+removed,256317,Oléni,,Greece,,GR,,G,
+new,256432,,Nydri,,Greece,,GR,,F
+removed,256614,Nea Ionia,,Greece,,GR,,I,
+removed,257869,Maleme,,Greece,,GR,,M,
+new,260210,,Keratea,,Greece,,GR,,I
+new,265075,,Antíparos,,Greece,,GR,,L
+new,265342,,Aliartos,,Greece,,GR,,H
+removed,267008,Tyre,,Lebanon,,LB,,JA,
+removed,268743,Ra's Bayrut,,Lebanon,,LB,,BA,
+removed,274874,Habboûch,,Lebanon,,LB,,NA,
+removed,276359,Bsharri,,Lebanon,,LB,,AS,
+removed,278832,Naqoura,,Lebanon,,LB,,JA,
+removed,278913,Nabatîyé et Tahta,,Lebanon,,LB,,NA,
+removed,280155,Ghazieh,,Lebanon,,LB,,JA,
+removed,284011,Dūrā,,Palestine,,PS,,HBN,
+removed,285663,Bayān,,Kuwait,,KW,,HA,
+removed,285728,Ar Riqqah,,Kuwait,,KW,,AH,
+removed,285790,Al Khīrān,,Kuwait,,KW,,AH,
+removed,285799,Al Jahra,,Kuwait,,KW,,JA,
+removed,285812,Al Finţās,,Kuwait,,KW,,AH,
+removed,285815,Al Farwānīyah,,Kuwait,,KW,,FA,
+removed,288789,Barka',,Oman,,OM,,BJ,
+removed,288899,Bahla',,Oman,,OM,,DA,
+removed,289199,Al Khābūrah,,Oman,,OM,,BS,
+removed,289525,Musay`id,,Qatar,,QA,,WA,
+removed,289739,Madīnat ash Shamāl,,Qatar,,QA,,MS,
+removed,289877,Ash Shīḩānīyah,,Qatar,,QA,,SH,
+removed,289884,Ar Ruways,,Qatar,,QA,,MS,
+removed,289913,Al Wukayr,,Qatar,,QA,,WA,
+removed,289975,Al Jumaylīyah,,Qatar,,QA,,SH,
+removed,290073,Wādiyān,,Bahrain,,BH,,13,
+removed,290078,Umm Jidr,,Bahrain,,BH,,14,
+removed,290363,Al Ḩadd,,Bahrain,,BH,,15,
+removed,291279,Mezaira’a,,United Arab Emirates,,AE,,AZ,
+removed,291580,Zayed City,,United Arab Emirates,,AE,,AZ,
+removed,291696,Khor'fakkan,,United Arab Emirates,,AE,,SH,
+removed,292231,Dibba Al-Fujairah,,United Arab Emirates,,AE,,FU,
+removed,292239,Dibba Al-Hisn,,United Arab Emirates,,AE,,FU,
+removed,292688,Ruwais,,United Arab Emirates,,AE,,AZ,
+removed,293475,Shoval,,Israel,,IL,,D,
+removed,293558,Shamir,,Israel,,IL,,Z,
+new,293559,,Shomrat,,Israel,,IL,,Z
+new,293628,,Sde Boker,,Israel,,IL,,D
+removed,293766,Ram On,,Israel,,IL,,Z,
+removed,293857,Qvutsat Yavne,,Israel,,IL,,M,
+removed,294164,Mizra,,Israel,,IL,,Z,
+new,294205,,Mi`ilya,,Israel,,IL,,Z
+new,294526,,Kfar Menaẖem,,Israel,,IL,,D
+new,294546,,Kfar Glickson,,Israel,,IL,,HA
+new,294627,,Jīsh,,Israel,,IL,,Z
+new,294878,,HaOgen,,Israel,,IL,,M
+new,295074,,Ga`ton,,Israel,,IL,,Z
+new,295076,,Gath,,Israel,,IL,,D
+new,295212,,`EnHaMifrats,,Israel,,IL,,Z
+removed,295341,Deir el Asad,,Israel,,IL,,Z,
+new,295345,,Deganya Alef,,Israel,,IL,,Z
+removed,295447,Bet Neqofa,,Israel,,IL,,JM,
+new,295484,,Beit Alfa,,Israel,,IL,,Z
+removed,303750,Nisibis,,Türkiye,,TR,,47,
+new,304891,,Maltepe,,Türkiye,,TR,,06
+new,315720,,Elmadağ,,Türkiye,,TR,,06
+new,317106,,,,Türkiye,,TR,,20
+new,319458,,Çankaya,,Türkiye,,TR,,47
+removed,321082,Bingöl,,Türkiye,,TR,,12,
+new,321124,,Bilecik,,Türkiye,,TR,,73
+new,321426,,Bergama,,Türkiye,,TR,,35
+new,324106,,Aliağa,,Türkiye,,TR,,35
+removed,328689,Shashamane,,Ethiopia,,ET,,OR,
+removed,331180,Mek'ele,,Ethiopia,,ET,,TI,
+removed,333772,Jimma,,Ethiopia,,ET,,OR,
+removed,334609,Hosa'ina,,Ethiopia,,ET,,,
+removed,343663,Arba Minch,,Ethiopia,,ET,,,
+removed,360890,Al Khuşūş,,Egypt,,EG,,KB,
+removed,361612,El Alamein,,Egypt,,EG,,MT,
+removed,384535,Kayonza,,Rwanda,,RW,,02,
+removed,385036,As Sahlah al Fawqīyah,,Bahrain,,BH,,17,
+removed,385042,Al Qal`ah,,Bahrain,,BH,,14,
+removed,388349,Al Başrah al Qadīmah,,Iraq,,IQ,,BA,
+removed,400462,Alaili Dadda`,,Djibouti,,DJ,,OB,
+removed,404235,Goubétto,,Djibouti,,DJ,,AS,
+removed,406787,Fuwayriţ,,Qatar,,QA,,MS,
+removed,408662,,,South Sudan,,SS,,JG,
+removed,408698,Gâlâfi,,Djibouti,,DJ,,DI,
+removed,412230,Al `Amirat,,Oman,,OM,,MA,
+removed,422232,Makamba,,Burundi,,BI,,MA,
+removed,423549,Rumonge,,Burundi,,BI,,RM,
+removed,425309,Gatumba,,Burundi,,BI,,BL,
+removed,425550,,,Burundi,,BI,,MU,
+removed,426700,Ruyigi,,Burundi,,BI,,RY,
+removed,428219,Karuzi,,Burundi,,BI,,GI,
+removed,428515,Bubanza,,Burundi,,BI,,BB,
+removed,430569,Ngozi,,Burundi,,BI,,NG,
+removed,430952,Kayanza,,Burundi,,BI,,KY,
+removed,432456,Kirundo,,Burundi,,BI,,KI,
+removed,443093,Qatzrin,,Israel,,IL,,,
+removed,443309,Gaherré,,Djibouti,,DJ,,OB,
+new,454537,,Vangaži,,Latvia,,LV,,080
+new,456089,,Garkalne,,Latvia,,LV,,080
+new,456954,,Ozolnieki,,Latvia,,LV,,041
+new,459624,,Iecava,,Latvia,,LV,,016
+new,481350,,Trubchevsk,,Russia,,RU,,BRY
+removed,487147,Stroitel,,Russia,,RU,,BEL,
+removed,490491,Oktyabr'skiy,,Russia,,RU,,UD,
+removed,493383,Shuntuk,,Russia,,RU,,AD,
+new,493997,,Shkurinskaya,,Russia,,RU,,KDA
+removed,494427,Shilovo,,Russia,,RU,,RYA,
+removed,495688,Sharkan,,Russia,,RU,,UD,
+new,496934,,Serdobsk,,Russia,,RU,,PNZ
+removed,506117,Annino,,Russia,,RU,,MOW,
+removed,516305,Obukhovo,,Russia,,RU,,MOS,
+removed,519033,Novobataysk,,Russia,,RU,,ROS,
+removed,523269,Natyrbovo,,Russia,,RU,,AD,
+removed,524809,Mostovskoy,,Russia,,RU,,KDA,
+new,531935,,Maksimovka,,Russia,,RU,,SAM
+new,534341,,Lomonosov,,Russia,,RU,,SPE
+removed,537281,Labinsk,,Russia,,RU,,KDA,
+new,554199,,Kalininsk,,Russia,,RU,,SAR
+new,565007,,Drezna,,Russia,,RU,,MOS
+removed,567990,Chistopol',,Russia,,RU,,TA,
+new,572070,,Borovsk,,Russia,,RU,,KLU
+new,576172,,Blagodarnyy,,Russia,,RU,,STA
+removed,584821,Tovuz,,Azerbaijan,,AZ,,TOV,
+removed,585514,Mingachevir,,Azerbaijan,,AZ,,MI,
+removed,587704,Vatla,,Estonia,,EE,,"68,430",
+removed,589947,Nõmme,,Estonia,,EE,,"37,784",
+new,593144,,Vilkija,,Lithuania,,LT,,"KU,16"
+removed,593175,Vilainiai,,Lithuania,,LT,,"KU,18",
+new,594814,,Senieji Trakai,,Lithuania,,LT,,"VL,52"
+removed,596479,Fabijoniškės,,Lithuania,,LT,,"VL,57",
+removed,596713,Naujoji Vilnia,,Lithuania,,LT,,"VL,57",
+new,596719,,Naujoji Akmenė,,Lithuania,,LT,,"SA,01"
+new,597769,,Kuršėnai,,Lithuania,,LT,,"SA,44"
+new,598543,,Kalnėnai,,Lithuania,,LT,,"TE,51"
+removed,599591,Ėriškiai,,Lithuania,,LT,,"PN,33",
+removed,601041,Antakalnis,,Lithuania,,LT,,"VL,57",
+removed,606248,Ersmark,,Sweden,,SE,,AC,
+new,606249,,Ersmark,,Sweden,,SE,,AC
+removed,612053,Senaki,,Georgia,,GE,,SZ,
+removed,612890,Mtskheta,,Georgia,,GE,,MM,
+removed,613065,Martvili,,Georgia,,GE,,SZ,
+new,615892,,Akhalk'alak'i,,Georgia,,GE,,SK
+removed,615912,Stantsiya Novyy Afon,,Georgia,,GE,,AB,
+removed,616435,Masis,,Armenia,,AM,,AR,
+removed,616631,Armavir,,Armenia,,AM,,AV,
+removed,616877,Ashtarak,,Armenia,,AM,,AG,
+removed,618365,Dubăsari,,Moldova,,MD,,SN,
+removed,622428,Salihorsk,,Belarus,,BY,,MI,
+new,636359,,Solkei,,Finland,,FI,,02
+removed,636777,Simpele,,Finland,,FI,,02,
+removed,638803,Ruokolahti,,Finland,,FI,,02,
+new,645035,,Nastola,,Finland,,FI,,16
+new,662570,,Vlăhiţa,,Romania,,RO,,HR
+new,662782,,Vârciorova,,Romania,,RO,,CS
+new,664294,,Ulmi,,Romania,,RO,,DB
+new,665066,,Tânganu,,Romania,,RO,,IF
+new,665072,,Tinca,,Romania,,RO,,BH
+removed,665762,Suplacu de Barcău,,Romania,,RO,,BH,
+new,667945,,Sărulești-Gară,,Romania,,RO,,CL
+removed,668304,Sacoşu Turcesc,,Romania,,RO,,TM,
+new,669704,,Predeal,,Romania,,RO,,BV
+new,669753,,Potlogi,,Romania,,RO,,DB
+removed,670060,Poiana Mărului,,Romania,,RO,,CS,
+new,670257,,Podu Turcului,,Romania,,RO,,BC
+removed,671118,Periş,,Romania,,RO,,IF,
+new,672151,,Novaci,,Romania,,RO,,GJ
+new,672163,,Nou,,Romania,,RO,,SB
+removed,672280,Nicolae Bălcescu,,Romania,,RO,,CT,
+new,672427,,Negoiești,,Romania,,RO,,PH
+removed,672438,Nedelea,,Romania,,RO,,PH,
+new,673038,,Miulești,,Romania,,RO,,DB
+removed,673360,Mihai Vodă,,Romania,,RO,,GR,
+removed,673381,Mihail Kogălniceanu,,Romania,,RO,,IL,
+removed,674115,Măgurele,,Romania,,RO,,PH,
+new,674155,,Măgura,,Romania,,RO,,BZ
+removed,674384,Lunca Mureşului,,Romania,,RO,,AB,
+new,675605,,Ineu,,Romania,,RO,,HR
+new,675652,,Ilișești,,Romania,,RO,,SV
+removed,675994,Horoatu Cehului,,Romania,,RO,,SJ,
+new,676014,,Horia,,Romania,,RO,,IL
+new,676483,,Gura Suhașului,,Romania,,RO,,VL
+removed,677323,Ghirdoveni,,Romania,,RO,,DB,
+removed,678063,Floreşti,,Romania,,RO,,PH,
+new,678578,,Eliseni,,Romania,,RO,,HR
+new,679015,,Drăgăeşti-Pământeni,,Romania,,RO,,DB
+new,680546,,Costineşti,,Romania,,RO,,CT
+new,680676,,Corunca,,Romania,,RO,,MS
+removed,681015,Comănești,,Romania,,RO,,SV,
+removed,681430,Ciumeghiu,,Romania,,RO,,BH,
+new,682000,,Chistag,,Romania,,RO,,BH
+new,682957,,Călinești,,Romania,,RO,,PH
+new,684948,,Bezdead,,Romania,,RO,,DB
+removed,685927,Baciu,,Romania,,RO,,CJ,
+removed,687155,Zavodske,,Ukraine,,UA,,61,
+new,691386,,Toporivtsi,,Ukraine,,UA,,77
+removed,692146,Sutysky,,Ukraine,,UA,,05,
+removed,693086,Sosnivka,,Ukraine,,UA,,46,
+removed,694018,Shyroke,,Ukraine,,UA,,07,
+removed,695912,Radomyshl,,Ukraine,,UA,,18,
+new,696721,,Pokrovske,,Ukraine,,UA,,12
+removed,698069,Ozhydiv,,Ukraine,,UA,,46,
+new,705016,,Kopychyntsi,,Ukraine,,UA,,61
+removed,705837,Kyrnasivka,,Ukraine,,UA,,05,
+removed,706466,Khartsyzsk,,Ukraine,,UA,,14,
+new,706580,,Kazanka,,Ukraine,,UA,,48
+new,707744,,Ichnya,,Ukraine,,UA,,74
+new,708296,,Horokhiv,,Ukraine,,UA,,07
+new,710400,,Chortkiv,,Ukraine,,UA,,61
+removed,712003,Bibrka,,Ukraine,,UA,,46,
+removed,712430,Berehomet,,Ukraine,,UA,,77,
+new,714886,,Telekgerendás,,Hungary,,HU,,BE
+removed,714938,Tarpa,,Hungary,,HU,,SZ,
+new,715453,,Szatmárcseke,,Hungary,,HU,,SZ
+removed,715519,Szamossályi,,Hungary,,HU,,SZ,
+new,715958,,Sajólád,,Hungary,,HU,,BZ
+removed,715965,Sajóhídvég,,Hungary,,HU,,BZ,
+new,716066,,Rohod,,Hungary,,HU,,SZ
+new,716186,,Rákócziújfalu,,Hungary,,HU,,JN
+new,716247,,Putnok,,Hungary,,HU,,BZ
+new,716791,,Ópusztaszer,,Hungary,,HU,,CS
+new,717434,,Nagybánhegyes,,Hungary,,HU,,BE
+new,720422,,Gulács,,Hungary,,HU,,SZ
+new,721913,,Cigánd,,Hungary,,HU,,BZ
+removed,722650,Balkány,,Hungary,,HU,,SZ,
+new,723470,,Strážske,,Slovakia,,SK,,KI
+removed,723856,Poľanovce,,Slovakia,,SK,,PV,
+new,724345,,Kvačany,,Slovakia,,SK,,PV
+new,725271,,Zlatograd,,Bulgaria,,BG,,21
+new,727801,,Rakitovo,,Bulgaria,,BG,,13
+new,728928,,Maglizh,,Bulgaria,,BG,,24
+new,729439,,Madan,,Bulgaria,,BG,,21
+new,729930,,Krislovo,,Bulgaria,,BG,,16
+removed,730103,Kostandovo,,Bulgaria,,BG,,13,
+removed,730367,Kilifarevo,,Bulgaria,,BG,,04,
+removed,731235,Gorna Mitropolia,,Bulgaria,,BG,,15,
+new,731873,,Dabene,,Bulgaria,,BG,,16
+new,732001,,Doyrantsi,,Bulgaria,,BG,,27
+new,732900,,Brestovene,,Bulgaria,,BG,,17
+removed,734068,Thivaḯs,,Greece,,GR,,69,
+new,734328,,Sérvia,,Greece,,GR,,C
+removed,734924,Nigrita,,Greece,,GR,,B,
+removed,735902,Kato Kamila,,Greece,,GR,,B,
+new,736137,,Iasmos,,Greece,,GR,,A
+removed,736166,Goumenissa,,Greece,,GR,,B,
+removed,736964,Aigínio,,Greece,,GR,,B,
+removed,737021,,,Türkiye,,TR,,67,
+removed,737757,Yenibosna,,Türkiye,,TR,,34,
+removed,738085,Yakakent,,Türkiye,,TR,,55,
+new,738803,,Terme,,Türkiye,,TR,,55
+removed,743404,Kestel,,Türkiye,,TR,,16,
+new,753131,,Żółwin,,Poland,,PL,,14
+removed,755057,Wolica,,Poland,,PL,,14,
+new,755662,,Wilkowisko,,Poland,,PL,,12
+removed,756829,Toruń,,Poland,,PL,,14,
+new,756830,,Toruń,,Poland,,PL,,06
+removed,760166,Ruciane-Nida,,Poland,,PL,,28,
+new,760254,,Siennica Różana,,Poland,,PL,,06
+new,760674,,Rajbrot,,Poland,,PL,,12
+new,761812,,Podłęże,,Poland,,PL,,12
+new,763361,,Ojrzeń,,Poland,,PL,,14
+new,763464,,Obrazów,,Poland,,PL,,26
+new,763521,,Nowy Wiśnicz,,Poland,,PL,,12
+removed,764664,Mirów,,Poland,,PL,,14,
+removed,765259,Marcinkowice,,Poland,,PL,,12,
+removed,766226,Lipków,,Poland,,PL,,14,
+new,766452,,Lesko,,Poland,,PL,,18
+new,767479,,Krościenko Wyżne,,Poland,,PL,,18
+removed,770029,Jodłownik,,Poland,,PL,,12,
+new,770068,,Jeziorko,,Poland,,PL,,26
+new,770382,,Jarocin,,Poland,,PL,,28
+removed,771690,Goszczyn,,Poland,,PL,,14,
+new,771924,,Gołków,,Poland,,PL,,14
+new,772086,,Głogów Małopolski,,Poland,,PL,,18
+removed,774359,Chotyłów,,Poland,,PL,,06,
+removed,775736,Bodzentyn,,Poland,,PL,,26,
+new,775860,,Błędów,,Poland,,PL,,14
+removed,781988,Pogradec,,Albania,,AL,,06,
+removed,786234,Rožaje,,Montenegro,,ME,,17,
+removed,792512,Bogiše,,Serbia,,RS,,19,
+removed,824003,Bakikhanov,,Azerbaijan,,AZ,,BA,
+new,824288,,Tsqaltubo,,Georgia,,GE,,IM
+removed,877401,Songea,,Tanzania,,TZ,,21,
+removed,878548,Zvishavane District,,Zimbabwe,,ZW,,MI,
+removed,882009,Ruwa,,Zimbabwe,,ZW,,ME,
+removed,905395,Mufulira,,Zambia,,ZM,,08,
+removed,909863,Luanshya,,Zambia,,ZM,,08,
+removed,912764,Kasama,,Zambia,,ZM,,05,
+removed,914959,Kalulushi,,Zambia,,ZM,,08,
+removed,915883,Kafue,,Zambia,,ZM,,09,
+removed,916095,Kabwe,,Zambia,,ZM,,02,
+removed,919009,Chingola,,Zambia,,ZM,,08,
+removed,919544,Chililabombwe,,Zambia,,ZM,,08,
+removed,921664,Tsimbeo,,Comoros,,KM,,A,
+removed,921675,Sima,,Comoros,,KM,,A,
+removed,921704,Passamainty,,Mayotte,,YT,,,
+removed,921707,Pamandzi,,Mayotte,,YT,,,
+removed,921719,Ouellah,,Comoros,,KM,,G,
+removed,921753,Moutsamoudou,,Comoros,,KM,,A,
+removed,921764,Moya,,Comoros,,KM,,A,
+removed,921834,Koni-Djodjo,,Comoros,,KM,,A,
+removed,921889,Fomboni,,Comoros,,KM,,M,
+removed,921906,Domoni,,Comoros,,KM,,A,
+removed,921917,Dembeni,,Mayotte,,YT,,,
+removed,921946,Chandra,,Comoros,,KM,,A,
+removed,922741,Likasi,,Congo (DRC),,CD,,HK,
+removed,922773,Kolwezi,,Congo (DRC),,CD,,LU,
+removed,933004,Tlokweng,,Botswana,,BW,,SE,
+removed,933141,Ramotswa,,Botswana,,BW,,SE,
+removed,933182,Palapye,,Botswana,,BW,,CE,
+removed,933331,Mogoditshane,,Botswana,,BW,,KW,
+removed,933340,Mochudi,,Botswana,,BW,,KL,
+removed,933471,Mahalapye,,Botswana,,BW,,CE,
+removed,933521,Lobatse,,Botswana,,BW,,LO,
+removed,933535,Letlhakane,,Botswana,,BW,,CE,
+removed,933677,Kasane,,Botswana,,BW,,CH,
+removed,933685,Kanye,,Botswana,,BW,,SO,
+removed,934851,Siteki,,Eswatini,,SZ,,LU,
+removed,934881,Piggs Peak,,Eswatini,,SZ,,HH,
+removed,934913,Nhlangano,,Eswatini,,SZ,,SH,
+removed,934966,Mhlume,,Eswatini,,SZ,,LU,
+removed,934971,Mhlambanyatsi,,Eswatini,,SZ,,MA,
+removed,934994,,,Eswatini,,SZ,,MA,
+removed,935005,Malkerns,,Eswatini,,SZ,,MA,
+removed,935042,,,Eswatini,,SZ,,LU,
+removed,935054,Kwaluseni,,Eswatini,,SZ,,MA,
+removed,935076,Hluti,,Eswatini,,SZ,,SH,
+removed,935081,Hlatikulu,,Eswatini,,SZ,,SH,
+removed,935114,Bhunya,,Eswatini,,SZ,,MA,
+new,964090,,Prieska,,South Africa,,ZA,,NC
+new,978652,,Marshalltown,,South Africa,,ZA,,GP
+removed,994490,Isipingo Beach,,South Africa,,ZA,,KZN,
+removed,1003462,Ga-Kgapane,,South Africa,,ZA,,LP,
+removed,1004109,Fochville,,South Africa,,ZA,,NW,
+removed,1007400,Dundee,,South Africa,,ZA,,KZN,
+removed,1011632,De Aar,,South Africa,,ZA,,NC,
+new,1014257,,Calitzdorp,,South Africa,,ZA,,WC
+removed,1017620,Bonnievale,,South Africa,,ZA,,WC,
+new,1020066,,Berea,,South Africa,,ZA,,KZN
+new,1022145,,Ashton,,South Africa,,ZA,,WC
+new,1066514,,Betafo,,Madagascar,,MG,,
+removed,1085510,Epworth,,Zimbabwe,,ZW,,HA,
+removed,1085597,,,South Africa,,ZA,,LP,
+removed,1090119,Bandraboua,,Mayotte,,YT,,,
+removed,1090126,Mtsamboro,,Mayotte,,YT,,,
+removed,1090177,Tsingoni,,Mayotte,,YT,,,
+removed,1090227,Majikavo Koropa,,Mayotte,,YT,,,
+removed,1090239,Kaouéni,,Mayotte,,YT,,,
+removed,1090240,Kavani,,Mayotte,,YT,,,
+removed,1090242,Mtsapéré,,Mayotte,,YT,,,
+removed,1090275,Labattoir,,Mayotte,,YT,,,
+removed,1091088,Barakani,,Comoros,,KM,,A,
+removed,1091117,Mirontsi,,Comoros,,KM,,A,
+removed,1091401,Adda-Douéni,,Comoros,,KM,,A,
+removed,1092369,Ikoni,,Comoros,,KM,,G,
+removed,1147290,Balkh,,Afghanistan,,AF,,BAL,
+removed,1152188,Mae Sot,,Thailand,,TH,,63,
+removed,1152657,Kong Krailat,,Thailand,,TH,,64,
+removed,1153035,Kathu,,Thailand,,TH,,83,
+new,1158377,,Ao Nang,,Thailand,,TH,,81
+removed,1170974,Mankera,,Pakistan,,PK,,PB,
+removed,1180942,Chunian,,Pakistan,,PK,,PB,
+new,1181439,,Charsadda,,Pakistan,,PK,,KP
+new,1182146,,Buner District,,Pakistan,,PK,,KP
+removed,1183105,Battagram,,Pakistan,,PK,,KP,
+removed,1185107,Shibganj,,Bangladesh,,BD,,"E,03",
+new,1185116,,Netrakona,,Bangladesh,,BD,,"H,41"
+removed,1215957,Termez,,Uzbekistan,,UZ,,SU,
+removed,1220253,Istaravshan,,Tajikistan,,TJ,,SU,
+removed,1220798,Panjakent,,Tajikistan,,TJ,,SU,
+removed,1221614,Ishqoshim,,Tajikistan,,TJ,,GB,
+removed,1221714,Hisor,,Tajikistan,,TJ,,RA,
+removed,1222662,Razzakov,,Kyrgyzstan,,KG,,B,
+removed,1226260,Trincomalee,,Sri Lanka,,LK,,5,
+removed,1229989,Point Pedro,,Sri Lanka,,LK,,"4,41",
+removed,1230089,Pita Kotte,,Sri Lanka,,LK,,"1,11",
+removed,1234569,Dehiwala-Mount Lavinia,,Sri Lanka,,LK,,"1,11",
+removed,1240935,Katunayaka,,Sri Lanka,,LK,,1,
+removed,1242110,Kalmunai,,Sri Lanka,,LK,,"5,52",
+removed,1243936,Homagama,,Sri Lanka,,LK,,"1,11",
+new,1245406,,Gonapola,,Sri Lanka,,LK,,"1,13"
+removed,1248379,Delgoda,,Sri Lanka,,LK,,"1,12",
+removed,1250161,Batticaloa,,Sri Lanka,,LK,,"5,51",
+new,1250615,,Badulla,,Sri Lanka,,LK,,8
+removed,1252395,Wangdue Phodrang,,Bhutan,,BT,,24,
+removed,1252422,Trashi Yangtse,,Bhutan,,BT,,TY,
+removed,1252460,Sarpang,,Bhutan,,BT,,31,
+removed,1252484,Phuntsholing,,Bhutan,,BT,,12,
+removed,1252495,Pajo,,Bhutan,,BT,,23,
+removed,1252608,Tsirang,,Bhutan,,BT,,21,
+removed,1252834,Worli,,India,,IN,,MH,
+removed,1253248,Venkatāpuram,,India,,IN,,TS,
+removed,1253831,Umele,,India,,IN,,MH,
+new,1253979,,Udala,,India,,IN,,OD
+new,1254131,,Tufānganj,,India,,IN,,WB
+new,1254347,,Tiruppuvanam,,India,,IN,,TN
+new,1255927,,Siwān,,India,,IN,,BR
+new,1256126,,Singtam,,India,,IN,,SK
+new,1256735,,Shāhganj,,India,,IN,,UP
+new,1257476,,Sancoale,,India,,IN,,GA
+new,1257503,,Samrāla,,India,,IN,,PB
+new,1258393,,Rasapūdipalem,,India,,IN,,AP
+removed,1259106,Kasba Maker,,India,,IN,,BR,
+new,1259157,,Purwā,,India,,IN,,UP
+new,1260333,,Parel,,India,,IN,,MH
+removed,1260631,Pāmbādi,,India,,IN,,KL,
+removed,1260788,Pālam,,India,,IN,,DL,
+new,1261837,,Naraura,,India,,IN,,UP
+removed,1261927,Nandyāl,,India,,IN,,AP,
+new,1262151,,Nāhan,,India,,IN,,HP
+removed,1263795,Mangalam,,India,,IN,,TN,
+removed,1264777,Loni,,India,,IN,,MH,
+removed,1265495,Kurla,,India,,IN,,MH,
+new,1265932,,Kōttakkal,,India,,IN,,KL
+removed,1266070,Kosigi,,India,,IN,,AP,
+removed,1266891,Kharkhauda,,India,,IN,,HR,
+removed,1267056,Khandagiri,,India,,IN,,OD,
+removed,1267063,Khānāpur,,India,,IN,,MH,
+removed,1267461,Kātol,,India,,IN,,MH,
+removed,1267600,Kasba Nārāyangarh,,India,,IN,,WB,
+new,1268211,,Kāmrej,,India,,IN,,GJ
+removed,1268628,Kaij,,India,,IN,,MH,
+new,1268859,,Jodhpur,,India,,IN,,MP
+new,1270021,,Hisua,,India,,IN,,BR
+new,1271675,,Gangāpur,,India,,IN,,RJ
+removed,1272646,Bicholim,,India,,IN,,GA,
+new,1272722,,Dhone,,India,,IN,,AP
+removed,1272842,Dharmavaram,,India,,IN,,AP,
+new,1272881,,Dharampur,,India,,IN,,GJ
+removed,1273371,Daurāla,,India,,IN,,UP,
+removed,1274329,Chaunda,,India,,IN,,PB,
+new,1274336,,Chhatarpur,,India,,IN,,DL
+removed,1274989,Candolim,,India,,IN,,GA,
+removed,1275732,Bidhūna,,India,,IN,,UP,
+removed,1277005,Bareli,,India,,IN,,MP,
+new,1277212,,Bānta,,India,,IN,,RJ
+removed,1277508,Bālurghāt,,India,,IN,,WB,
+removed,1277566,Bālipatna,,India,,IN,,OD,
+removed,1277815,Baheri,,India,,IN,,BR,
+new,1277971,,Badnapur,,India,,IN,,MH
+new,1278007,,Badarpur,,India,,IN,,DL
+new,1278011,,Bhadanpur,,India,,IN,,MP
+removed,1278111,Auwa,,India,,IN,,RJ,
+removed,1278223,Ateli Mandi,,India,,IN,,HR,
+removed,1278601,Angar,,India,,IN,,MH,
+removed,1278667,Anantnag,,India,,IN,,JK,
+removed,1279066,Alandi,,India,,IN,,MH,
+new,1279227,,Ahmadpur,,India,,IN,,MH
+removed,1282256,Hithadhoo,,Maldives,,MV,,01,
+removed,1283467,Dhangadhi,,Nepal,,NP,,P7,
+removed,1298483,Sagaing,,Myanmar,,MM,,17,
+new,1311875,,Mandalay,,Myanmar,,MM,,05
+new,1321218,,Kalemyo,,Myanmar,,MM,,01
+removed,1336134,Cox's Bazar,,Bangladesh,,BD,,"B,11",
+new,1336139,,Rangamati,,Bangladesh,,BD,,"B,56"
+removed,1337301,Jakar,,Bhutan,,BT,,33,
+removed,1337379,Pemagatshel,,Bhutan,,BT,,43,
+removed,1337605,Mahibadhoo,,Maldives,,MV,,00,
+removed,1337606,Eydhafushi,,Maldives,,MV,,20,
+removed,1337609,Viligili,,Maldives,,MV,,27,
+removed,1337610,Thinadhoo,,Maldives,,MV,,28,
+removed,1337611,Fuvahmulah,,Maldives,,MV,,29,
+removed,1337612,Dhihdhoo,,Maldives,,MV,,07,
+removed,1337616,Naifaru,,Maldives,,MV,,03,
+removed,1337620,Funadhoo,,Maldives,,MV,,24,
+new,1415216,,Panjan,,India,,IN,,JK
+new,1418102,,Samundri,,Pakistan,,PK,,PB
+new,1442273,,Borsham,,India,,IN,,HR
+new,1443400,,Jhamun,,India,,IN,,HP
+new,1445313,,Farīdābād,,India,,IN,,TS
+removed,1477362,,,Bangladesh,,BD,,G,
+removed,1497132,Novochernorechenskiy,,Russia,,RU,,KYA,
+removed,1497484,Nizhniy Kuchuk,,Russia,,RU,,ALT,
+removed,1508427,Charyshskoye,,Russia,,RU,,ALT,
+removed,1514883,Qayroqqum,,Tajikistan,,TJ,,SU,
+removed,1514891,Konibodom,,Tajikistan,,TJ,,SU,
+removed,1514896,Isfara,,Tajikistan,,TJ,,SU,
+removed,1515007,Uliastai,,Mongolia,,MN,,057,
+new,1519417,,Semīozernoe,,Kazakhstan,,KZ,,39
+removed,1527317,Suzak,,Kyrgyzstan,,KG,,J,
+removed,1528182,Kara-Balta,,Kyrgyzstan,,KG,,C,
+removed,1538311,Buston,,Tajikistan,,TJ,,SU,
+new,1540867,,Zapadnyy,,Russia,,RU,,CHE
+removed,1547382,Bantam Village,,Cocos (Keeling) Islands,,CC,,,
+removed,1551487,Suzuo,,China,,CN,,GZ,
+removed,1559480,Ngchemiangel Hamlet,,Palau,,PW,,002,
+removed,1559864,Imeong Hamlet,,Palau,,PW,,227,
+removed,1573517,Nam Định,,Vietnam,,VN,,67,
+removed,1579634,,,Vietnam,,VN,,34,
+new,1581322,,Hải Hậu,,Vietnam,,VN,,67
+new,1607028,,Rattaphum,,Thailand,,TH,,90
+new,1607801,,Phanom Sarakham,,Thailand,,TH,,24
+new,1611635,,Betong,,Thailand,,TH,,95
+new,1619506,,Bang Khen,,Thailand,,TH,,10
+removed,1622471,Viqueque,,Timor-Leste,,TL,,VI,
+removed,1626459,Suai,,Timor-Leste,,TL,,CO,
+removed,1628926,Same,,Timor-Leste,,TL,,MF,
+new,1629882,,Rawa Buaya,,Indonesia,,ID,,JK
+removed,1632533,Pante Makasar,,Timor-Leste,,TL,,OE,
+removed,1635288,Metinaro,,Timor-Leste,,TL,,DI,
+removed,1635826,Maubara,,Timor-Leste,,TL,,LI,
+removed,1636670,Maliana,,Timor-Leste,,TL,,BO,
+removed,1637730,Likisá,,Timor-Leste,,TL,,LI,
+removed,1641668,Menteng Dalam,,Indonesia,,ID,,JK,
+new,1641899,,,,Indonesia,,ID,,KS
+new,1642834,,Jampang Kulon,,Indonesia,,ID,,JB
+removed,1649539,Baucau,,Timor-Leste,,TL,,BA,
+removed,1650356,Bandung,,Indonesia,,ID,,JI,
+removed,1650813,Bagam,,Indonesia,,ID,,KR,
+removed,1651810,Ainaro,,Timor-Leste,,TL,,AN,
+removed,1651816,Aileu,,Timor-Leste,,TL,,AL,
+removed,1652203,Xam Nua,,Laos,,LA,,HO,
+removed,1653894,Phôngsali,,Laos,,LA,,PH,
+removed,1654379,Pakse,,Laos,,LA,,CH,
+removed,1655084,Sainyabuli,,Laos,,LA,,XA,
+removed,1655123,Muang Phônsavan,,Laos,,LA,,XI,
+removed,1655140,Pakxan,,Laos,,LA,,BL,
+removed,1655192,Muang Không,,Laos,,LA,,CH,
+removed,1657819,Champasak,,Laos,,LA,,CH,
+removed,1663526,Ban Houayxay,,Laos,,LA,,BK,
+removed,1665491,Yingge District,,Taiwan,,TW,,NWT,
+new,1667906,,Taoyuan,,Taiwan,,TW,,TXG
+new,1673872,,Kanding,,Taiwan,,TW,,PIF
+new,1675317,,Xianxi,,Taiwan,,TW,,CHA
+removed,1680017,Victoria,,Philippines,,PH,,"03,TAR",
+removed,1680172,Uson,,Philippines,,PH,,"05,MAS",
+removed,1680694,Tunga,,Philippines,,PH,,"08,LEY",
+removed,1681075,Tuburan,,Philippines,,PH,,"07,CEB",
+removed,1681272,Tuba,,Philippines,,PH,,"15,BEN",
+new,1683319,,Tanay,,Philippines,,PH,,"40,RIZ"
+removed,1688864,San Nicolas,,Philippines,,PH,,"01,PAN",
+removed,1689087,San Mariano,,Philippines,,PH,,"11,COM",
+removed,1689171,San Leonardo,,Philippines,,PH,,"03,NUE",
+removed,1689578,San Jorge,,Philippines,,PH,,"08,WSA",
+removed,1690117,San Enrique,,Philippines,,PH,,"06,ILI",
+removed,1690514,San Agustin,,Philippines,,PH,,"41,ROM",
+removed,1690934,Salay,,Philippines,,PH,,"10,MSR",
+removed,1691091,Saguday,,Philippines,,PH,,"02,QUI",
+removed,1691499,Rosario,,Philippines,,PH,,"13,AGS",
+removed,1691769,Reina Mercedes,,Philippines,,PH,,"02,ISA",
+new,1692747,,Prosperidad,,Philippines,,PH,,"13,AGS"
+removed,1693839,Pilar,,Philippines,,PH,,"03,BAN",
+removed,1694871,Paoay,,Philippines,,PH,,"01,ILN",
+removed,1697456,,,Philippines,,PH,,"02,NUV",
+removed,1697879,Naval,,Philippines,,PH,,"08,BIL",
+removed,1699090,Science City of Muñoz,,Philippines,,PH,,"03,NUE",
+removed,1699264,Montevista,,Philippines,,PH,,"11,COM",
+removed,1699805,Mexico,,Philippines,,PH,,"03,PAM",
+removed,1700269,Matnog,,Philippines,,PH,,"05,SOR",
+removed,1701149,Maragondon,,Philippines,,PH,,"40,CAV",
+removed,1702649,Malita,,Philippines,,PH,,"11,DVO",
+removed,1703577,Mahinog,,Philippines,,PH,,"10,CAM",
+new,1703792,,Magpet,,Philippines,,PH,,"12,NCO"
+removed,1704002,Magarao,,Philippines,,PH,,"05,CAS",
+removed,1708081,Lagonglong,,Philippines,,PH,,"10,MSR",
+removed,1708226,La Carlota,,Philippines,,PH,,"06,NEC",
+removed,1708859,Kiblawan,,Philippines,,PH,,"11,DAS",
+removed,1710262,Jaro,,Philippines,,PH,,"08,LEY",
+removed,1712206,Guiuan,,Philippines,,PH,,"08,EAS",
+removed,1712704,Sigaboy,,Philippines,,PH,,"11,DAO",
+removed,1720871,Caibiran,,Philippines,,PH,,"08,BIL",
+removed,1721470,Cabucgayan,,Philippines,,PH,,"08,BIL",
+removed,1722481,Burauen,,Philippines,,PH,,"08,LEY",
+removed,1723342,Bugabus,,Philippines,,PH,,"13,AGN",
+removed,1725684,Bayugan,,Philippines,,PH,,"13,AGS",
+removed,1725953,Bauko,,Philippines,,PH,,"15,MOU",
+removed,1728098,Balingasag,,Philippines,,PH,,"10,MSR",
+removed,1731486,Alicia,,Philippines,,PH,,"02,ISA",
+removed,1731537,Alfonso,,Philippines,,PH,,"40,CAV",
+removed,1732040,Aglipay,,Philippines,,PH,,"02,QUI",
+new,1732676,,Kuala Kubu Bharu,,Malaysia,,MY,,10
+removed,1732710,Pontian Besar,,Malaysia,,MY,,01,
+removed,1735018,Mentakab,,Malaysia,,MY,,06,
+removed,1736338,Pokok Sena,,Malaysia,,MY,,02,
+new,1736696,,Tuaran,,Malaysia,,MY,,12
+removed,1780777,Batu Kawan,,Malaysia,,MY,,07,
+removed,1783851,Zhuozhou,,China,,CN,,HE,
+new,1790460,,Xiangyang,,China,,CN,,JS
+new,1790925,,Wuxi,,China,,CN,,AH
+new,1799723,,Nantong,,China,,CN,,FJ
+new,1818222,,Yuen Long San Hui,,Hong Kong,,HK,,NYL
+removed,1820100,Kampung Tumpuan Ugas,,Brunei,,BN,,TU,
+removed,1820113,Kampung Temada,,Brunei,,BN,,TE,
+removed,1820157,Kampung Sukang Hilir,,Brunei,,BN,,BE,
+removed,1820159,Kampung Sukang,,Brunei,,BN,,BE,
+removed,1820187,Seria,,Brunei,,BN,,BE,
+removed,1820236,Kampung Supon Besar,,Brunei,,BN,,TU,
+removed,1820635,Mentiri,,Brunei,,BN,,BM,
+removed,1820676,Kapok,,Brunei,,BN,,BM,
+removed,1821279,Lai Chi Van,,Macao,,MO,,,
+removed,1821288,Heisha,,Macao,,MO,,,
+removed,1821294,Zhuojiacun,,Macao,,MO,,,
+removed,1821935,Ta Khmau,,Cambodia,,KH,,8,
+removed,1821940,Takeo,,Cambodia,,KH,,21,
+removed,1822019,Suong,,Cambodia,,KH,,25,
+removed,1822610,Prey Veng,,Cambodia,,KH,,14,
+removed,1822906,Phumĭ Véal Srê,,Cambodia,,KH,,21,
+removed,1826502,Phluk,,Cambodia,,KH,,19,
+removed,1831133,Kampong Speu,,Cambodia,,KH,,5,
+removed,1831167,Kampong Chhnang,,Cambodia,,KH,,4,
+removed,1831173,Kampong Cham,,Cambodia,,KH,,3,
+removed,1831797,Battambang,,Cambodia,,KH,,2,
+new,1837055,,Yongsan,,South Korea,,KR,,11
+removed,1842856,Gochang,,South Korea,,KR,,45,
+new,1843565,,Incheon,,South Korea,,KR,,46
+removed,1848049,Yura,,Japan,,JP,,31,
+new,1848486,,Yasuda,,Japan,,JP,,35
+new,1848852,,Yabu,,Japan,,JP,,28
+new,1849478,,Uchino,,Japan,,JP,,40
+new,1849610,,Tsunozuchō,,Japan,,JP,,32
+new,1849976,,Torishima,,Japan,,JP,,27
+new,1850138,,Tomari,,Japan,,JP,,47
+new,1850499,,Tatsunochō-tominaga,,Japan,,JP,,28
+new,1850700,,Tanaka,,Japan,,JP,,20
+removed,1851376,Susono Shi,,Japan,,JP,,22,
+removed,1851556,Subashiri,,Japan,,JP,,22,
+removed,1851617,Soeda,,Japan,,JP,,40,
+removed,1852233,Shimonogō,,Japan,,JP,,24,
+new,1852392,,Mano-shinmachi,,Japan,,JP,,15
+new,1852852,,Satsuma Gun,,Japan,,JP,,46
+removed,1853274,Saga City,,Japan,,JP,,41,
+new,1853318,,Sadamitsu,,Japan,,JP,,36
+removed,1853687,Ōtamachi,,Japan,,JP,,17,
+removed,1854868,Nyūzen,,Japan,,JP,,16,
+removed,1855184,Nishiōsaki,,Japan,,JP,,15,
+new,1855422,,Niihama Shi,,Japan,,JP,,38
+new,1856878,,Mitsuke,,Japan,,JP,,15
+removed,1857664,Marugame Shi,,Japan,,JP,,37,
+removed,1858728,Koshigaya Shi,,Japan,,JP,,11,
+removed,1859161,Kōbe Shi,,Japan,,JP,,28,
+new,1859641,,Kawasaki,,Japan,,JP,,11
+removed,1859658,Kawaraichi,,Japan,,JP,,18,
+new,1859843,,Katase,,Japan,,JP,,22
+new,1860244,,Kanazawachō,,Japan,,JP,,14
+new,1860412,,Kamitakino,,Japan,,JP,,28
+removed,1860653,Kanbara,,Japan,,JP,,22,
+removed,1860736,Kakaji,,Japan,,JP,,44,
+removed,1861095,Izumiōtsu,,Japan,,JP,,27,
+removed,1861705,Imaichō,,Japan,,JP,,29,
+removed,1861797,Ikeda,,Japan,,JP,,22,
+new,1862232,,Honden,,Japan,,JP,,09
+removed,1862513,Hirao,,Japan,,JP,,35,
+removed,1862791,Higashi Ku,,Japan,,JP,,27,
+new,1862841,,Higashichikuma Gun,,Japan,,JP,,20
+removed,1862944,Heda,,Japan,,JP,,22,
+removed,1863626,Ginowan Shi,,Japan,,JP,,47,
+new,1863788,,Fushimi,,Japan,,JP,,26
+new,1863998,,Fukude,,Japan,,JP,,22
+new,1864004,,Yunotsuchō-fukuda,,Japan,,JP,,32
+removed,1864157,Fuchizaki,,Japan,,JP,,37,
+removed,1864164,Esu,,Japan,,JP,,47,
+new,1864335,,Dotōchō,,Japan,,JP,,27
+new,1865121,,Arida Shi,,Japan,,JP,,30
+removed,1880131,Tanjong Pagar,,Singapore,,SG,,,
+removed,1880134,Yio Chu Kang Estate,,Singapore,,SG,,,
+removed,1880135,Yio Chu Kang,,Singapore,,SG,,,
+removed,1880137,Yew Tee,,Singapore,,SG,,,
+removed,1880138,Yan Kit,,Singapore,,SG,,,
+removed,1880139,Woollerton Park,,Singapore,,SG,,,
+removed,1880294,Seletar,,Singapore,,SG,,,
+removed,1880574,Kampong Pasir Ris,,Singapore,,SG,,,
+removed,1880668,Geylang,,Singapore,,SG,,,
+new,1884367,,Bukit Panjang New Town,,Singapore,,SG,,
+new,1897787,,Changshacun,,China,,CN,,ZJ
+removed,1904560,Quận Bảy,,Vietnam,,VN,,SG,
+new,1905468,,,,Vietnam,,VN,,DN
+new,1933118,,Changwŏn,,South Korea,,KR,,45
+removed,1937274,Lospalos,,Timor-Leste,,TL,,LA,
+removed,1942811,Gleno,,Timor-Leste,,TL,,ER,
+removed,1943235,Venilale,,Timor-Leste,,TL,,BA,
+new,1971984,,Brebes,,Indonesia,,ID,,JT
+removed,2014369,Ulety,,Russia,,RU,,ZAB,
+removed,2028562,Tsul-Ulaan,,Mongolia,,MN,,067,
+removed,2029156,Sühbaatar,,Mongolia,,MN,,049,
+removed,2029945,Mörön,,Mongolia,,MN,,041,
+removed,2042893,Manp'o,,North Korea,,KP,,04,
+removed,2056752,Khabarovsk Vtoroy,,Russia,,RU,,KHA,
+removed,2064144,Oodnadatta,,Australia,,AU,,SA,
+new,2064735,,Nhulunbuy,,Australia,,AU,,NT
+removed,2067820,Leigh Creek,,Australia,,AU,,SA,
+removed,2069326,Ironbank,,Australia,,AU,,SA,
+removed,2071055,Gawler River,,Australia,,AU,,SA,
+new,2073140,,Darlington,,Australia,,AU,,WA
+removed,2078074,Waterfall,,Christmas Island,,CX,,,
+removed,2078091,Settlement,,Christmas Island,,CX,,,
+removed,2078132,Drumsite,,Christmas Island,,CX,,,
+removed,2080115,Likiep,,Marshall Islands,,MH,,LIK,
+removed,2080422,Jabor,,Marshall Islands,,MH,,JAL,
+removed,2080970,Ailuk,,Marshall Islands,,MH,,ALK,
+removed,2083653,Wau,,Papua New Guinea,,PG,,MPL,
+removed,2098869,Bulolo,,Papua New Guinea,,PG,,MPL,
+removed,2102384,Tulagi,,Solomon Islands,,SB,,CE,
+removed,2108857,Gizo,,Solomon Islands,,SB,,WE,
+removed,2110070,Teaoraereke Village,,Kiribati,,KI,,G,
+removed,2110141,Umwa Village,,Kiribati,,KI,,G,
+removed,2110228,Buota Village,,Kiribati,,KI,,G,
+removed,2110248,Betio Village,,Kiribati,,KI,,G,
+removed,2110254,Banraeaba Village,,Kiribati,,KI,,G,
+removed,2110292,Tumaseu Village,,Tuvalu,,TV,,VAI,
+removed,2110396,Tekavatoetoe Village,,Tuvalu,,TV,,FUN,
+removed,2110433,Ijuw,,Nauru,,NR,,10,
+removed,2110444,Arubo,,Nauru,,NR,,09,
+removed,2110447,Anibare,,Nauru,,NR,,04,
+removed,2111025,Shirasaka,,Japan,,JP,,07,
+new,2111215,,Sakura Shi,,Japan,,JP,,12
+removed,2111730,Nakamura,,Japan,,JP,,07,
+new,2112724,,Hirasawa,,Japan,,JP,,04
+new,2127460,,Yanagimachi,,Japan,,JP,,02
+removed,2127586,Urakawa,,Japan,,JP,,01,
+new,2127910,,Takanosu,,Japan,,JP,,05
+removed,2128673,Ōmu,,Japan,,JP,,01,
+removed,2130050,Hitokawame,,Japan,,JP,,02,
+removed,2130154,Hanaokamachi,,Japan,,JP,,05,
+removed,2133990,Alotau,,Papua New Guinea,,PG,,MBA,
+removed,2134018,Yoknaéka,,Vanuatu,,VU,,TAE,
+removed,2134019,Imnalkaip,,Vanuatu,,VU,,TAE,
+removed,2134023,Etap,,Vanuatu,,VU,,TAE,
+removed,2134024,Yétakapé,,Vanuatu,,VU,,TAE,
+removed,2134025,Yérou,,Vanuatu,,VU,,TAE,
+removed,2134030,Yéno,,Vanuatu,,VU,,MAP,
+removed,2134032,Yémamoso,,Vanuatu,,VU,,SEE,
+removed,2134033,Yélowouwou,,Vanuatu,,VU,,MAP,
+removed,2135175,Port-Olry,,Vanuatu,,VU,,SAM,
+removed,2136326,Loltong,,Vanuatu,,VU,,PAM,
+removed,2136697,Lakatoro,,Vanuatu,,VU,,MAP,
+removed,2143069,Woodridge,,Australia,,AU,,QLD,
+removed,2143804,White Rock,,Australia,,AU,,QLD,
+new,2144048,,West Burleigh,,Australia,,AU,,QLD
+removed,2144787,Heathcote Junction,,Australia,,AU,,VIC,
+removed,2144820,Wamuran,,Australia,,AU,,QLD,
+removed,2145005,Walkerston,,Australia,,AU,,QLD,
+new,2146899,,The Patch,,Australia,,AU,,VIC
+new,2147070,,Terang,,Australia,,AU,,VIC
+new,2150234,,San Remo,,Australia,,AU,,VIC
+removed,2151134,Rosebank,,Australia,,AU,,NSW,
+new,2152320,,Quamby Brook,,Australia,,AU,,TAS
+new,2152740,,Pontville,,Australia,,AU,,TAS
+new,2153701,,Paterson,,Australia,,AU,,NSW
+removed,2159622,Longridge Station,,Norfolk Island,,NF,,,
+removed,2160297,Leura,,Australia,,AU,,NSW,
+removed,2161185,Kogarah,,Australia,,AU,,NSW,
+removed,2161800,Karuah,,Australia,,AU,,NSW,
+removed,2161876,Kangaroo Valley,,Australia,,AU,,NSW,
+removed,2164487,Greenwell Point,,Australia,,AU,,NSW,
+new,2167065,,Euston,,Australia,,AU,,NSW
+new,2167508,,Ellerston,,Australia,,AU,,NSW
+removed,2167949,Earlwood,,Australia,,AU,,NSW,
+new,2168594,,Donnybrook,,Australia,,AU,,VIC
+new,2168943,,Devonport,,Australia,,AU,,TAS
+removed,2169282,Dayboro,,Australia,,AU,,QLD,
+new,2171594,,Chinderah,,Australia,,AU,,NSW
+new,2171722,,Charters Towers,,Australia,,AU,,QLD
+removed,2172160,Cascade,,Norfolk Island,,NF,,,
+removed,2177251,Bahrs Scrub,,Australia,,AU,,QLD,
+removed,2177713,Ardmona,,Australia,,AU,,VIC,
+new,2178351,,Abermain,,Australia,,AU,,NSW
+removed,2178750,Lata,,Solomon Islands,,SB,,TE,
+removed,2178856,Bagharai,,Solomon Islands,,SB,,MK,
+removed,2178857,Avita,,Solomon Islands,,SB,,TE,
+removed,2178862,Asimaenioha,,Solomon Islands,,SB,,MK,
+removed,2178864,Arohane,,Solomon Islands,,SB,,MK,
+removed,2178867,Apurahe,,Solomon Islands,,SB,,MK,
+removed,2178869,Apaora,,Solomon Islands,,SB,,MK,
+removed,2178870,Apaone Village,,Solomon Islands,,SB,,MK,
+new,2182137,,Swannanoa,,New Zealand,,NZ,,CAN
+new,2184796,,Patetonga,,New Zealand,,NZ,,WKO
+removed,2189900,Hobsonville,,New Zealand,,NZ,,AUK,
+new,2189978,,Hikurangi,,New Zealand,,NZ,,NTL
+new,2190792,,Gibbston,,New Zealand,,NZ,,OTA
+removed,2191913,Darfield,,New Zealand,,NZ,,CAN,
+removed,2193497,Beachlands,,New Zealand,,NZ,,AUK,
+removed,2193767,Ashhurst,,New Zealand,,NZ,,MWT,
+removed,2198103,Talecake Set,,Fiji,,FJ,,"W,01",
+removed,2198110,Talaulia,,Fiji,,FJ,,"E,04",
+removed,2198135,Tai Settlement,,Fiji,,FJ,,"E,06",
+removed,2198138,Suvavou Village,,Fiji,,FJ,,C,
+removed,2198143,Suvalailai,,Fiji,,FJ,,"C,12",
+removed,2198157,Sumi,,Fiji,,FJ,,R,
+removed,2198161,Soliyaga,,Fiji,,FJ,,"C,13",
+removed,2198365,Sigatoka,,Fiji,,FJ,,"W,08",
+removed,2204418,Levuka,,Fiji,,FJ,,E,
+removed,2204582,Labasa,,Fiji,,FJ,,N,
+removed,2228373,Maroua,,Cameroon,,CM,,EN,
+removed,2229748,Kumbo,,Cameroon,,CM,,NW,
+removed,2229798,Kousséri,,Cameroon,,CM,,EN,
+removed,2231506,Foumban,,Cameroon,,CM,,OU,
+removed,2232239,Edéa,,Cameroon,,CM,,LT,
+removed,2234359,Bertoua,,Cameroon,,CM,,ES,
+removed,2244322,Touba,,Senegal,,SN,,DB,
+removed,2244616,Tiébo,,Senegal,,SN,,DB,
+removed,2244799,Thiès Nones,,Senegal,,SN,,TH,
+removed,2244991,Tambacounda,,Senegal,,SN,,TC,
+removed,2246452,Saint-Louis,,Senegal,,SN,,SL,
+removed,2246512,Rufisque,,Senegal,,SN,,DK,
+removed,2246678,Pikine,,Senegal,,SN,,DK,
+removed,2250805,Kaolack,,Senegal,,SN,,KL,
+removed,2255285,Sibiti,,Congo Republic,,CG,,2,
+removed,2255564,Ouésso,,Congo Republic,,CG,,13,
+removed,2256900,Mossaka,,Congo Republic,,CG,,8,
+removed,2258080,Loutété,,Congo Republic,,CG,,11,
+removed,2258261,Dolisie,,Congo Republic,,CG,,9,
+removed,2258604,Bouansa,,Congo Republic,,CG,,11,
+removed,2259383,Kayes,,Congo Republic,,CG,,11,
+removed,2259655,Impfondo,,Congo Republic,,CG,,7,
+removed,2259947,Gamboma,,Congo Republic,,CG,,14,
+removed,2261446,Zebreira,,Portugal,,PT,,05,
+removed,2263650,Sagres,,Portugal,,PT,,08,
+new,2263939,,Repolho,,Portugal,,PT,,14
+new,2267310,,Juncal,,Portugal,,PT,,10
+removed,2268907,Cotovia,,Portugal,,PT,,15,
+removed,2270290,Caneças,,Portugal,,PT,,11,
+new,2273606,,Tiladee,,Liberia,,LR,,GG
+removed,2283016,Odienné,,Ivory Coast,,CI,,DN,
+removed,2306774,San Antonio de Palé,,Equatorial Guinea,,GQ,,AN,
+removed,2306824,Rebola,,Equatorial Guinea,,GQ,,BN,
+removed,2307145,Nsok,,Equatorial Guinea,,GQ,,WN,
+removed,2308278,Mbini,,Equatorial Guinea,,GQ,,LI,
+removed,2308994,Evinayong,,Equatorial Guinea,,GQ,,CS,
+removed,2309332,Ebebiyin,,Equatorial Guinea,,GQ,,KN,
+removed,2309516,Cogo,,Equatorial Guinea,,GQ,,LI,
+removed,2310134,Ayene,,Equatorial Guinea,,GQ,,WN,
+removed,2310309,Añisok,,Equatorial Guinea,,GQ,,WN,
+removed,2312895,Mbandaka,,Congo (DRC),,CD,,EQ,
+removed,2313002,Matadi,,Congo (DRC),,CD,,BC,
+removed,2314705,Kikwit,,Congo (DRC),,CD,,KL,
+removed,2318123,Yenagoa,,Nigeria,,NG,,BY,
+removed,2322794,Suleja,,Nigeria,,NG,,NI,
+removed,2339937,Gusau,,Nigeria,,NG,,ZA,
+new,2342931,,Ezeagu,,Nigeria,,NG,,EN
+removed,2349431,Argungu,,Nigeria,,NG,,KE,
+removed,2356157,Saaba,,Burkina Faso,,BF,,"03,KAD",
+removed,2356300,Pouytenga,,Burkina Faso,,BF,,"04,KOT",
+removed,2357043,Ouahigouya,,Burkina Faso,,BF,,"10,YAT",
+removed,2357109,Nioko I,,Burkina Faso,,BF,,"03,KAD",
+removed,2358946,Koudougou,,Burkina Faso,,BF,,"06,BLK",
+removed,2359142,Kongoussi,,Burkina Faso,,BF,,"05,BAM",
+removed,2360073,Houndé,,Burkina Faso,,BF,,"09,TUI",
+removed,2360886,Fada N'gourma,,Burkina Faso,,BF,,"08,GOU",
+removed,2361177,Djibo,,Burkina Faso,,BF,,"12,SOM",
+removed,2361477,Dédougou,,Burkina Faso,,BF,,"01,MOU",
+removed,2362909,Banfora,,Burkina Faso,,BF,,"02,COM",
+removed,2363534,Tsévié,,Togo,,TG,,M,
+removed,2364104,Sokodé,,Togo,,TG,,C,
+removed,2364812,Niamtougou,,Togo,,TG,,K,
+removed,2365190,Mango,,Togo,,TG,,S,
+removed,2365560,Palimé,,Togo,,TG,,P,
+removed,2366152,Kara,,Togo,,TG,,K,
+removed,2367164,Dapaong,,Togo,,TG,,S,
+removed,2367226,Sinkassé,,Togo,,TG,,S,
+removed,2367568,Bassar,,Togo,,TG,,K,
+removed,2367656,Bafilo,,Togo,,TG,,K,
+removed,2367886,Atakpamé,,Togo,,TG,,P,
+removed,2367990,Aného,,Togo,,TG,,M,
+removed,2376193,Tidjikja,,Mauritania,,MR,,09,
+removed,2376486,Tamchekett,,Mauritania,,MR,,02,
+removed,2392108,Pobé,,Benin,,BJ,,PL,
+removed,2392505,Nikki,,Benin,,BJ,,BO,
+removed,2392601,Natitingou,,Benin,,BJ,,AK,
+removed,2392837,Malanville,,Benin,,BJ,,AL,
+removed,2393561,Kérou,,Benin,,BJ,,AK,
+removed,2394092,Godomè,,Benin,,BJ,,AQ,
+removed,2394427,Ekpé,,Benin,,BJ,,OU,
+removed,2394560,Djougou,,Benin,,BJ,,DO,
+removed,2395049,Bohicon,,Benin,,BJ,,ZO,
+removed,2395914,Abomey-Calavi,,Benin,,BJ,,AQ,
+removed,2396253,Tchibanga,,Gabon,,GA,,5,
+removed,2396518,Port-Gentil,,Gabon,,GA,,8,
+removed,2396646,Oyem,,Gabon,,GA,,9,
+removed,2396657,Owendo,,Gabon,,GA,,1,
+removed,2397169,Ntoum,,Gabon,,GA,,1,
+removed,2398073,Mouila,,Gabon,,GA,,4,
+removed,2398269,Moanda,,Gabon,,GA,,2,
+removed,2399371,Makokou,,Gabon,,GA,,6,
+removed,2399870,Lastoursville,,Gabon,,GA,,7,
+removed,2399888,Lambaréné,,Gabon,,GA,,3,
+removed,2401578,Bitam,,Gabon,,GA,,9,
+removed,2403094,Waterloo,,Sierra Leone,,SL,,W,
+removed,2404041,Segbwema,,Sierra Leone,,SL,,E,
+removed,2406407,Makeni,,Sierra Leone,,SL,,N,
+removed,2406576,Magburaka,,Sierra Leone,,SL,,N,
+removed,2407656,Koidu,,Sierra Leone,,SL,,E,
+removed,2407790,Kenema,,Sierra Leone,,SL,,E,
+removed,2408250,Kailahun,,Sierra Leone,,SL,,E,
+removed,2408329,Kabala,,Sierra Leone,,SL,,N,
+removed,2409823,Bumpe,,Sierra Leone,,SL,,S,
+removed,2410048,Bo,,Sierra Leone,,SL,,S,
+removed,2411439,Waterport,,Gibraltar,,GI,,,
+removed,2411482,Rosia,,Gibraltar,,GI,,,
+removed,2411546,Laguna Estate,,Gibraltar,,GI,,,
+removed,2411880,Sukuta,,Gambia,,GM,,W,
+removed,2411905,Soma,,Gambia,,GM,,L,
+removed,2412452,Nema Kunku,,Gambia,,GM,,W,
+removed,2412749,Lamin,,Gambia,,GM,,N,
+removed,2413515,Farafenni,,Gambia,,GM,,N,
+removed,2413525,Faji Kunda,,Gambia,,GM,,W,
+removed,2413696,Busumbala,,Gambia,,GM,,W,
+removed,2413709,Bununka Kunda,,Gambia,,GM,,B,
+removed,2413920,Bakau,,Gambia,,GM,,B,
+removed,2425791,Sarh,,Chad,,TD,,MC,
+removed,2427637,Mongo,,Chad,,TD,,GR,
+removed,2427697,Moïssala,,Chad,,TD,,MA,
+removed,2428394,Mao,,Chad,,TD,,KA,
+removed,2429605,Koumra,,Chad,,TD,,MA,
+removed,2433437,Doba,,Chad,,TD,,LR,
+removed,2434910,Bongor,,Chad,,TD,,ME,
+removed,2435508,Benoy,,Chad,,TD,,LO,
+removed,2450087,Tassiga,,Mali,,ML,,7,
+removed,2462881,Laayoune,,Western Sahara,,EH,,,
+removed,2470173,Zarzis,,Tunisia,,TN,,82,
+removed,2473747,El Hamma,,Tunisia,,TN,,81,
+removed,2481639,Sfizef,,Algeria,,DZ,,22,
+new,2481689,,Settara,,Algeria,,DZ,,18
+new,2491050,,Larbaâ,,Algeria,,DZ,,09
+removed,2502034,Brezina,,Algeria,,DZ,,32,
+new,2503181,,Boufarik,,Algeria,,DZ,,09
+removed,2509301,Zujaira,,Spain,,ES,,"AN,GR",
+new,2509382,,Yunquera,,Spain,,ES,,"AN,MA"
+new,2509386,,Yeste,,Spain,,ES,,"CM,AB"
+new,2510045,,Valdecaballeros,,Spain,,ES,,"EX,BA"
+removed,2510484,Tibi,,Spain,,ES,,"VC,A",
+new,2510781,,Sot de Chera,,Spain,,ES,,"VC,V"
+removed,2510889,Siete Aguas,,Spain,,ES,,"VC,V",
+removed,2511331,Sant Joan de Labritja,,Spain,,ES,,"IB,PM",
+new,2511824,,Rioja,,Spain,,ES,,"AN,AL"
+removed,2511869,Ricote,,Spain,,ES,,"MC,MU",
+removed,2512571,Piles,,Spain,,ES,,"VC,V",
+removed,2513079,Oria,,Spain,,ES,,"AN,AL",
+removed,2513124,Olocau,,Spain,,ES,,"VC,V",
+new,2513306,,Navarrés,,Spain,,ES,,"VC,V"
+new,2513589,,Monturque,,Spain,,ES,,"AN,CO"
+new,2513606,,Montiel,,Spain,,ES,,"CM,CR"
+removed,2513638,Montejicar,,Spain,,ES,,"AN,GR",
+removed,2513968,Medellín,,Spain,,ES,,"EX,BA",
+removed,2515055,Lillo,,Spain,,ES,,"CM,TO",
+removed,2515801,La Luisiana,,Spain,,ES,,"AN,SE",
+removed,2516358,Jarilla,,Spain,,ES,,"EX,CC",
+removed,2516369,Jarafuel,,Spain,,ES,,"VC,V",
+removed,2516399,Jacarilla,,Spain,,ES,,"VC,A",
+new,2516630,,Hornachuelos,,Spain,,ES,,"AN,CO"
+new,2517108,,Granátula de Calatrava,,Spain,,ES,,"CM,CR"
+new,2517260,,Genalguacil,,Spain,,ES,,"AN,MA"
+removed,2517350,Garachico,,Spain,,ES,,"CN,TF",
+new,2517440,,Galaroza,,Spain,,ES,,"AN,H"
+new,2517563,,Fuente Carreteros,,Spain,,ES,,"AN,CO"
+removed,2517720,Fines,,Spain,,ES,,"AN,AL",
+removed,2519069,Quart de les Valls,,Spain,,ES,,"VC,V",
+removed,2519385,Cobisa,,Spain,,ES,,"CM,TO",
+removed,2519700,Castro,,Spain,,ES,,"CN,TF",
+new,2519763,,Castellar de la Frontera,,Spain,,ES,,"AN,CA"
+removed,2520724,Bunyola,,Spain,,ES,,"IB,PM",
+removed,2520849,Bonete,,Spain,,ES,,"CM,AB",
+new,2521253,,Barrio de la Vega,,Spain,,ES,,"AN,GR"
+removed,2521865,Almoguera,,Spain,,ES,,"CM,CR",
+removed,2521919,Almanzora,,Spain,,ES,,"AN,AL",
+new,2522202,,Alborea,,Spain,,ES,,"CM,AB"
+new,2522242,,Albanchez,,Spain,,ES,,"AN,AL"
+removed,2522490,Abengibre,,Spain,,ES,,"CM,AB",
+new,2523023,,Spezzano della Sila,,Italy,,IT,,"78,CS"
+new,2523113,,Siderno,,Italy,,IT,,"78,RC"
+removed,2523142,Serrenti,,Italy,,IT,,"88,SU",
+removed,2523352,Santa Flavia,,Italy,,IT,,"82,PA",
+removed,2523367,Santa Caterina dello Ionio,,Italy,,IT,,"78,CZ",
+new,2523499,,San Donato di Ninea,,Italy,,IT,,"78,CS"
+removed,2523525,San Basilio,,Italy,,IT,,"88,SU",
+removed,2523574,Rotonda,,Italy,,IT,,"77,PZ",
+new,2523613,,Riola Sardo,,Italy,,IT,,"88,OR"
+removed,2523644,Ramacca,,Italy,,IT,,"82,CT",
+removed,2524010,Nicolosi,,Italy,,IT,,"82,CT",
+removed,2524404,Leonforte,,Italy,,IT,,"82,EN",
+removed,2524495,Isola di Capo Rizzuto,,Italy,,IT,,"78,KR",
+removed,2524863,Decollatura,,Italy,,IT,,"78,CZ",
+new,2524873,,Curcuris,,Italy,,IT,,"88,OR"
+removed,2524904,Cosoleto,,Italy,,IT,,"78,RC",
+removed,2524929,Corigliano Calabro,,Italy,,IT,,"78,CS",
+removed,2524949,Condofuri,,Italy,,IT,,"78,RC",
+new,2525109,,Cassaro,,Italy,,IT,,"82,SR"
+new,2525434,,Camini,,Italy,,IT,,"78,RC"
+removed,2525445,Caltavuturo,,Italy,,IT,,"82,PA",
+new,2525460,,Calasetta,,Italy,,IT,,"88,SU"
+removed,2525772,Acri,,Italy,,IT,,"78,CS",
+new,2528659,,Tiflet,,Morocco,,MA,,"04,KHE"
+removed,2535530,Bouknadel,,Morocco,,MA,,"04,SAL",
+removed,2539134,Oulad Teïma,,Morocco,,MA,,"09,TAR",
+new,2541186,,Océan,,Morocco,,MA,,"04,RAB"
+new,2550418,,Douar Lgara,,Morocco,,MA,,"01,LAR"
+removed,2562261,Haz-Zebbug,,Malta,,MT,,66,
+removed,2562620,Rabat,,Malta,,MT,,46,
+removed,2562744,Mellieħa,,Malta,,MT,,30,
+removed,2563181,Cospicua,,Malta,,MT,,06,
+removed,2565524,Mindouli,,Congo Republic,,CG,,7,
+new,2571304,,El Oued,,Algeria,,DZ,,35
+removed,2593460,Masina,,Congo (DRC),,CD,,KN,
+removed,2610294,Við Sjógv,,Faroe Islands,,FO,,,
+removed,2610806,Vágur,,Faroe Islands,,FO,,,
+removed,2612233,Strendur,,Faroe Islands,,FO,,,
+new,2612594,,Stenstrup,,Denmark,,DK,,83
+new,2614595,,Rødvig,,Denmark,,DK,,85
+new,2614761,,Ringsted Kommune,,Denmark,,DK,,85
+removed,2617844,Leirvík,,Faroe Islands,,FO,,,
+removed,2621808,Fuglafjørður,,Faroe Islands,,FO,,,
+removed,2622457,Errindlev,,Denmark,,DK,,85,
+removed,2633337,Ystalyfera,,United Kingdom,,GB,,"WLS,NTL",
+removed,2633524,Wortham,,United Kingdom,,GB,,"ENG,SFK",
+new,2633697,,Wollaston,,United Kingdom,,GB,,"ENG,NNH"
+removed,2633795,Winterbourne Dauntsey,,United Kingdom,,GB,,"ENG,WIL",
+removed,2633820,Wingrave,,United Kingdom,,GB,,"ENG,BKM",
+removed,2633859,Winchelsea,,United Kingdom,,GB,,"ENG,ESX",
+removed,2633878,Wilstead,,United Kingdom,,GB,,"ENG,BDF",
+new,2634065,,Whiteparish,,United Kingdom,,GB,,"ENG,WIL"
+new,2634095,,Whitehead,,United Kingdom,,GB,,"NIR,MEA"
+new,2634231,,West Wittering,,United Kingdom,,GB,,"ENG,WSX"
+new,2634317,,Westoning,,United Kingdom,,GB,,"ENG,CBF"
+new,2634322,,Weston,,United Kingdom,,GB,,"ENG,CHE"
+removed,2634403,West Ham,,United Kingdom,,GB,,"ENG,NWM",
+removed,2634897,Waldringfield,,United Kingdom,,GB,,"ENG,SFK",
+new,2635080,,Upton upon Severn,,United Kingdom,,GB,,"ENG,WOR"
+new,2635118,,Upper Langwith,,United Kingdom,,GB,,"ENG,DBY"
+removed,2635337,Turners Hill,,United Kingdom,,GB,,"ENG,WSX",
+new,2636069,,Teynham,,United Kingdom,,GB,,"ENG,KEN"
+new,2636215,,Tarleton,,United Kingdom,,GB,,"ENG,LAN"
+new,2636619,,Strood,,United Kingdom,,GB,,"ENG,MDW"
+removed,2636673,Streatley,,United Kingdom,,GB,,"ENG,WBK",
+removed,2636795,Stony Stratford,,United Kingdom,,GB,,"ENG,MIK",
+removed,2636805,Stonesfield,,United Kingdom,,GB,,"ENG,OXF",
+removed,2636826,Stone,,United Kingdom,,GB,,"ENG,KEN",
+removed,2636844,Stokenchurch,,United Kingdom,,GB,,"ENG,BKM",
+new,2636967,,Steeple Claydon,,United Kingdom,,GB,,"ENG,BKM"
+removed,2637101,Stamfordham,,United Kingdom,,GB,,"ENG,NBL",
+removed,2637211,Spondon,,United Kingdom,,GB,,"ENG,DER",
+new,2637251,,Spaxton,,United Kingdom,,GB,,"ENG,SOM"
+removed,2637427,Southery,,United Kingdom,,GB,,"ENG,NFK",
+removed,2637633,Slingsby,,United Kingdom,,GB,,"ENG,NYK",
+removed,2637636,Slindon,,United Kingdom,,GB,,"ENG,WSX",
+removed,2637836,Silloth,,United Kingdom,,GB,,"ENG,CMA",
+removed,2637968,Shinfield,,United Kingdom,,GB,,"ENG,WOK",
+new,2638016,,Shermanbury,,United Kingdom,,GB,,"ENG,WSX"
+new,2638021,,Sheriff Hutton,,United Kingdom,,GB,,"ENG,NYK"
+new,2638208,,Semley,,United Kingdom,,GB,,"ENG,WIL"
+removed,2638255,Sedgley,,United Kingdom,,GB,,"ENG,DUD",
+new,2638274,,Seaton Carew,,United Kingdom,,GB,,"ENG,HPL"
+removed,2638408,Scarisbrick,,United Kingdom,,GB,,"ENG,LAN",
+removed,2638559,Sandringham,,United Kingdom,,GB,,"ENG,NFK",
+removed,2638888,Sacriston,,United Kingdom,,GB,,"ENG,DUR",
+new,2639447,,Rhondda,,United Kingdom,,GB,,"WLS,RCT"
+new,2639792,,Queensbury,,United Kingdom,,GB,,"ENG,BRD"
+new,2639843,,Purleigh,,United Kingdom,,GB,,"ENG,ESS"
+removed,2639920,Preston,,United Kingdom,,GB,,"ENG,KEN",
+removed,2640155,Polmont,,United Kingdom,,GB,,"SCT,FAL",
+new,2640458,,Penley,,United Kingdom,,GB,,"WLS,WRX"
+removed,2640823,Ousby,,United Kingdom,,GB,,"ENG,CMA",
+removed,2640862,Oswaldtwistle,,United Kingdom,,GB,,"ENG,LAN",
+removed,2641007,Oldmeldrum,,United Kingdom,,GB,,"SCT,ABD",
+removed,2641126,Oakhill,,United Kingdom,,GB,,"ENG,SOM",
+new,2641229,,North Weald,,United Kingdom,,GB,,"ENG,ESS"
+removed,2641551,Newtongrange,,United Kingdom,,GB,,"SCT,MLN",
+removed,2641696,New Brighton,,United Kingdom,,GB,,"ENG,WRL",
+new,2643313,,Lyminge,,United Kingdom,,GB,,"ENG,KEN"
+removed,2643461,Loxwood,,United Kingdom,,GB,,"ENG,WSX",
+new,2643462,,Loxton,,United Kingdom,,GB,,"ENG,NSM"
+removed,2643934,Llantwit Fardre,,United Kingdom,,GB,,"WLS,RCT",
+removed,2643962,Llanrhystud,,United Kingdom,,GB,,"WLS,CGN",
+removed,2643971,Llan-non,,United Kingdom,,GB,,"WLS,CGN",
+removed,2644030,Llangennech,,United Kingdom,,GB,,"WLS,CMN",
+new,2644350,,Little Clacton,,United Kingdom,,GB,,"ENG,ESS"
+removed,2644440,Linslade,,United Kingdom,,GB,,"ENG,CBF",
+removed,2644480,Lindfield,,United Kingdom,,GB,,"ENG,WSX",
+removed,2644624,Lenham,,United Kingdom,,GB,,"ENG,KEN",
+removed,2644746,Leafield,,United Kingdom,,GB,,"ENG,OXF",
+removed,2644829,Latchingdon and Snoreham,,United Kingdom,,GB,,"ENG,ESS",
+new,2644937,,Langford,,United Kingdom,,GB,,"ENG,CBF"
+new,2644942,,Langdon Hills,,United Kingdom,,GB,,"ENG,ESS"
+removed,2645555,Kilrea,,United Kingdom,,GB,,"NIR,CCG",
+removed,2646202,Ingoldmells,,United Kingdom,,GB,,"ENG,LIN",
+removed,2646317,Hythe,,United Kingdom,,GB,,"ENG,HAM",
+removed,2646341,Hutton,,United Kingdom,,GB,,"ENG,ESS",
+removed,2646356,Hurst Green,,United Kingdom,,GB,,"ENG,LAN",
+new,2646409,,Hungerton,,United Kingdom,,GB,,"ENG,LEC"
+removed,2646530,Hough on the Hill,,United Kingdom,,GB,,"ENG,LIN",
+removed,2646589,Horne,,United Kingdom,,GB,,"ENG,SRY",
+new,2646615,,Horam,,United Kingdom,,GB,,"ENG,ESX"
+removed,2646650,Hooke,,United Kingdom,,GB,,"ENG,DOR",
+removed,2646922,Hightown,,United Kingdom,,GB,,"ENG,SFT",
+new,2646941,,Highley,,United Kingdom,,GB,,"ENG,SHR"
+removed,2646979,High Blantyre,,United Kingdom,,GB,,"SCT,SLK",
+removed,2647040,Hesketh Bank,,United Kingdom,,GB,,"ENG,LAN",
+new,2647131,,Hemington,,United Kingdom,,GB,,"ENG,NNH"
+removed,2647239,Headington,,United Kingdom,,GB,,"ENG,OXF",
+removed,2647278,Haworth,,United Kingdom,,GB,,"ENG,BRD",
+new,2647303,,Hawarden,,United Kingdom,,GB,,"WLS,FLN"
+new,2647377,,Harworth,,United Kingdom,,GB,,"ENG,NTT"
+removed,2647534,Handcross,,United Kingdom,,GB,,"ENG,WSX",
+removed,2647636,Halford,,United Kingdom,,GB,,"ENG,WAR",
+new,2648873,,Gargrave,,United Kingdom,,GB,,"ENG,NYK"
+removed,2649129,Fovant,,United Kingdom,,GB,,"ENG,WIL",
+new,2649321,,Fleet,,United Kingdom,,GB,,"ENG,LIN"
+new,2649337,,Flamborough,,United Kingdom,,GB,,"ENG,ERY"
+new,2649384,,Firsby,,United Kingdom,,GB,,"ENG,LIN"
+new,2649593,,Featherstone,,United Kingdom,,GB,,"ENG,WKF"
+new,2649652,,Farnsfield,,United Kingdom,,GB,,"ENG,NTT"
+new,2650076,,Elmesthorpe,,United Kingdom,,GB,,"ENG,LEC"
+removed,2650108,Ellastone,,United Kingdom,,GB,,"ENG,STS",
+removed,2650377,East Meon,,United Kingdom,,GB,,"ENG,HAM",
+removed,2650460,Eastergate,,United Kingdom,,GB,,"ENG,WSX",
+removed,2650669,Dunscore,,United Kingdom,,GB,,"SCT,DGY",
+removed,2651169,Dogdyke,,United Kingdom,,GB,,"ENG,LIN",
+removed,2651241,Dinnington,,United Kingdom,,GB,,"ENG,ROT",
+new,2651271,,Dickleburgh,,United Kingdom,,GB,,"ENG,NFK"
+removed,2651518,Darlaston,,United Kingdom,,GB,,"ENG,WLL",
+new,2651589,,Daliburgh,,United Kingdom,,GB,,"SCT,ELS"
+removed,2652481,Compton Martin,,United Kingdom,,GB,,"ENG,BAS",
+removed,2652907,Claygate,,United Kingdom,,GB,,"ENG,SRY",
+removed,2653055,Chudleigh Knighton,,United Kingdom,,GB,,"ENG,DEV",
+removed,2653196,Chew Stoke,,United Kingdom,,GB,,"ENG,BAS",
+new,2653353,,Chapeltown,,United Kingdom,,GB,,"ENG,SHF"
+new,2653942,,Cambridge,,United Kingdom,,GB,,"ENG,GLS"
+new,2653958,,Cam,,United Kingdom,,GB,,"ENG,GLS"
+new,2654195,,Burwell,,United Kingdom,,GB,,"ENG,CAM"
+removed,2654219,Burton,,United Kingdom,,GB,,"ENG,BCP",
+new,2654234,,Burrington,,United Kingdom,,GB,,"ENG,NSM"
+new,2654450,,Brymbo,,United Kingdom,,GB,,"WLS,WRX"
+new,2654651,,Broad Haven,,United Kingdom,,GB,,"WLS,PEM"
+removed,2654994,Bradford,,United Kingdom,,GB,,"ENG,SOM",
+removed,2655322,Blunham,,United Kingdom,,GB,,"ENG,CBF",
+new,2655333,,Bloomsbury,,United Kingdom,,GB,,"ENG,CMD"
+new,2655348,,Blewbury,,United Kingdom,,GB,,"ENG,OXF"
+removed,2655630,Birchanger,,United Kingdom,,GB,,"ENG,ESS",
+new,2655671,,Billesdon,,United Kingdom,,GB,,"ENG,LEC"
+removed,2655705,Bidford-on-Avon,,United Kingdom,,GB,,"ENG,WAR",
+new,2655853,,Bermondsey,,United Kingdom,,GB,,"ENG,SWK"
+removed,2656064,Beckermet,,United Kingdom,,GB,,"ENG,CMA",
+new,2656079,,Beaulieu,,United Kingdom,,GB,,"ENG,HAM"
+new,2656086,,Bearsden,,United Kingdom,,GB,,"SCT,EDU"
+removed,2656285,Barnsley,,United Kingdom,,GB,,"ENG,GLS",
+removed,2656499,Ballykinler,,United Kingdom,,GB,,"NIR,NMD",
+removed,2656545,Balloch,,United Kingdom,,GB,,"SCT,WDU",
+removed,2656713,Aylsham,,United Kingdom,,GB,,"ENG,NFK",
+new,2656755,,Aveton Gifford,,United Kingdom,,GB,,"ENG,DEV"
+new,2656756,,Avening,,United Kingdom,,GB,,"ENG,GLS"
+removed,2656837,Attleborough,,United Kingdom,,GB,,"ENG,WAR",
+removed,2656911,Ashwell,,United Kingdom,,GB,,"ENG,HRT",
+removed,2657238,Appleby Magna,,United Kingdom,,GB,,"ENG,LEC",
+new,2657622,,Ainstable,,United Kingdom,,GB,,"ENG,CMA"
+removed,2657634,Ahoghill,,United Kingdom,,GB,,"NIR,MEA",
+new,2657816,,Aberfoyle,,United Kingdom,,GB,,"SCT,STG"
+removed,2657921,Zihlschlacht,,Switzerland,,CH,,TG,
+removed,2658306,Troistorrents,,Switzerland,,CH,,VS,
+new,2658570,,Siviriez,,Switzerland,,CH,,FR
+new,2659046,,Riddes,,Switzerland,,CH,,VS
+removed,2659055,Riaz,,Switzerland,,CH,,FR,
+removed,2659099,Rapperswil,,Switzerland,,CH,,SG,
+removed,2659246,Paudex,,Switzerland,,CH,,VD,
+removed,2659260,Palézieux,,Switzerland,,CH,,VD,
+new,2659580,,Morschach,,Switzerland,,CH,,SZ
+new,2659831,,Lumino,,Switzerland,,CH,,TI
+removed,2659981,Le Brassus,,Switzerland,,CH,,VD,
+new,2660513,,Grellingen,,Switzerland,,CH,,BL
+removed,2660728,Fraubrunnen,,Switzerland,,CH,,BE,
+new,2660876,,Eriswil,,Switzerland,,CH,,BE
+removed,2661077,Cressier,,Switzerland,,CH,,FR,
+new,2661090,,Courtepin,,Switzerland,,CH,,FR
+removed,2661095,Courroux,,Switzerland,,CH,,JU,
+new,2661222,,Champex,,Switzerland,,CH,,VS
+removed,2661229,Chalais,,Switzerland,,CH,,VS,
+new,2665349,,Vallsta,,Sweden,,SE,,X
+removed,2666823,Tygelsjö,,Sweden,,SE,,M,
+new,2667876,,Torsby,,Sweden,,SE,,S
+removed,2668423,Tollered,,Sweden,,SE,,O,
+new,2673790,,Stjärnhov,,Sweden,,SE,,D
+new,2677361,,Sköldinge,,Sweden,,SE,,D
+removed,2678129,Skärhamn,,Sweden,,SE,,O,
+removed,2687509,Öckerö,,Sweden,,SE,,O,
+new,2690360,,Näs,,Sweden,,SE,,E
+new,2690656,,Myresjö,,Sweden,,SE,,F
+removed,2690909,Mullhyttan,,Sweden,,SE,,T,
+new,2691348,,Mörbylånga,,Sweden,,SE,,H
+new,2692596,,Markaryd,,Sweden,,SE,,G
+new,2698260,,Balsta,,Sweden,,SE,,D
+new,2698520,,Kvänum,,Sweden,,SE,,O
+removed,2698975,Krylbo,,Sweden,,SE,,W,
+new,2699786,,Köpingebro,,Sweden,,SE,,M
+new,2699879,,Kolsva,,Sweden,,SE,,U
+removed,2703145,Järvsö,,Sweden,,SE,,X,
+new,2705541,,Hökerum,,Sweden,,SE,,O
+new,2706222,,Hjärnarp,,Sweden,,SE,,M
+new,2707129,,Håverud,,Sweden,,SE,,O
+new,2708663,,Hälleforsnäs,,Sweden,,SE,,D
+removed,2709791,Gunnarskog,,Sweden,,SE,,S,
+removed,2711798,Gnesta,,Sweden,,SE,,D,
+new,2711803,,Gnarp,,Sweden,,SE,,X
+removed,2712373,Genarp,,Sweden,,SE,,M,
+new,2713975,,Forserum,,Sweden,,SE,,F
+removed,2717725,Diö,,Sweden,,SE,,G,
+new,2721035,,Bodafors,,Sweden,,SE,,F
+new,2722320,,Bjästa,,Sweden,,SE,,Y
+removed,2722567,Billeberga,,Sweden,,SE,,M,
+removed,2732336,Vila Verde,,Portugal,,PT,,06,
+new,2733411,,Travanca,,Portugal,,PT,,04
+new,2733963,,Cinfães,,Portugal,,PT,,18
+removed,2734836,Samil,,Portugal,,PT,,04,
+new,2736124,,Poiares,,Portugal,,PT,,06
+removed,2736183,Pinhel,,Portugal,,PT,,09,
+removed,2736775,Parada,,Portugal,,PT,,06,
+removed,2737234,Murtosa,,Portugal,,PT,,01,
+removed,2738154,Lousã,,Portugal,,PT,,06,
+removed,2739509,Folhadosa,,Portugal,,PT,,09,
+new,2740885,,Celorico de Basto,,Portugal,,PT,,03
+new,2741568,,Canelas,,Portugal,,PT,,01
+new,2741648,,Campo,,Portugal,,PT,,13
+removed,2741718,Calvão,,Portugal,,PT,,01,
+new,2742498,,Bairro,,Portugal,,PT,,03
+removed,2742837,Apúlia,,Portugal,,PT,,03,
+removed,2743938,Zevenhoven,,Netherlands,,NL,,UT,
+removed,2744167,Woubrugge,,Netherlands,,NL,,ZH,
+removed,2744246,Woerdense Verlaat,,Netherlands,,NL,,ZH,
+new,2744269,,Witteveen,,Netherlands,,NL,,DR
+removed,2744947,Waverveen,,Netherlands,,NL,,UT,
+new,2745955,,Ulestraten,,Netherlands,,NL,,LI
+new,2746085,,Tull en 't Waal,,Netherlands,,NL,,UT
+removed,2746217,Tonden,,Netherlands,,NL,,GE,
+new,2746557,,Surhuizum,,Netherlands,,NL,,FR
+removed,2746596,Stroe,,Netherlands,,NL,,GE,
+new,2746751,,Steyl,,Netherlands,,NL,,LI
+removed,2746813,Stedum,,Netherlands,,NL,,GR,
+removed,2747037,Soerendonk,,Netherlands,,NL,,NB,
+new,2747117,,Sluis,,Netherlands,,NL,,ZE
+removed,2747206,Sirjansland,,Netherlands,,NL,,ZE,
+removed,2748106,Rijnsaterwoude,,Netherlands,,NL,,ZH,
+removed,2748314,Raerd,,Netherlands,,NL,,FR,
+removed,2748631,Petten,,Netherlands,,NL,,NH,
+new,2749298,,Ophemert,,Netherlands,,NL,,GE
+new,2749673,,Olburgen,,Netherlands,,NL,,GE
+new,2749967,,Noordeloos,,Netherlands,,NL,,ZH
+new,2750285,,Nieuwendijk,,Netherlands,,NL,,NB
+new,2750444,,Neerijnen,,Netherlands,,NL,,GE
+removed,2750805,Mildam,,Netherlands,,NL,,FR,
+new,2751177,,Mariënberg,,Netherlands,,NL,,OV
+new,2751203,,Maren-Kessel,,Netherlands,,NL,,NB
+new,2751741,,Lekkum,,Netherlands,,NL,,FR
+new,2752102,,Laag-Soeren,,Netherlands,,NL,,GE
+removed,2752192,Kruisland,,Netherlands,,NL,,NB,
+removed,2752824,Kinnum,,Netherlands,,NL,,FR,
+removed,2752918,Kerkwerve,,Netherlands,,NL,,ZE,
+new,2753316,,Ingen,,Netherlands,,NL,,GE
+removed,2753681,Hoogmade,,Netherlands,,NL,,ZH,
+removed,2753994,Hoenzadriel,,Netherlands,,NL,,GE,
+new,2754320,,Herwen,,Netherlands,,NL,,GE
+removed,2755204,Grootegast,,Netherlands,,NL,,GR,
+removed,2755401,Goudswaard,,Netherlands,,NL,,ZH,
+new,2755601,,Genderen,,Netherlands,,NL,,NB
+new,2756008,,Essen,,Netherlands,,NL,,GE
+removed,2756172,Elshout,,Netherlands,,NL,,NB,
+new,2757318,,Delwijnen,,Netherlands,,NL,,GE
+new,2757886,,Creil,,Netherlands,,NL,,FL
+removed,2758393,Bredevoort,,Netherlands,,NL,,GE,
+new,2759015,,Beuningen,,Netherlands,,NL,,OV
+removed,2759178,Benthuizen,,Netherlands,,NL,,ZH,
+new,2759693,,Appeltern,,Netherlands,,NL,,GE
+new,2760441,,Zwaring,,Austria,,AT,,6
+removed,2760636,Zell am Moos,,Austria,,AT,,4,
+new,2761479,,Werfen,,Austria,,AT,,5
+removed,2761688,Weinitzen,,Austria,,AT,,6,
+removed,2762014,Waldhausen,,Austria,,AT,,3,
+removed,2763209,Übelbach,,Austria,,AT,,6,
+new,2763302,,Tschagguns,,Austria,,AT,,8
+removed,2764010,Sulzberg,,Austria,,AT,,8,
+new,2765080,,Sierning,,Austria,,AT,,4
+new,2765150,,Serfaus,,Austria,,AT,,7
+removed,2765190,Seitzersdorf-Wolfpassing,,Austria,,AT,,3,
+removed,2766386,Sankt Thomas,,Austria,,AT,,4,
+new,2766615,,Sankt Lambrecht,,Austria,,AT,,6
+new,2767037,,Rottenegg,,Austria,,AT,,4
+removed,2767249,Roitham,,Austria,,AT,,4,
+new,2768071,,Raiding,,Austria,,AT,,1
+new,2768325,,Hofamt Priel,,Austria,,AT,,3
+removed,2768442,Pradl,,Austria,,AT,,7,
+new,2768627,,Pöchlarn,,Austria,,AT,,3
+removed,2769342,Ottensheim,,Austria,,AT,,4,
+removed,2769347,Ottenschlag,,Austria,,AT,,3,
+new,2771109,,Mühlbach am Hochkönig,,Austria,,AT,,5
+removed,2771530,Mittelberg,,Austria,,AT,,3,
+removed,2771706,Meidling,,Austria,,AT,,9,
+removed,2771978,Marbach an der Donau,,Austria,,AT,,3,
+removed,2772058,Maissau,,Austria,,AT,,3,
+new,2772960,,Lans,,Austria,,AT,,7
+removed,2773379,Kronstorf,,Austria,,AT,,4,
+new,2774369,,Kirchschlag bei Linz,,Austria,,AT,,4
+new,2774387,,Kirchdorf in Tirol,,Austria,,AT,,7
+removed,2774482,Keutschach am See,,Austria,,AT,,2,
+removed,2774540,Kemmelbach,,Austria,,AT,,3,
+new,2774851,,Kaltenleutgeben,,Austria,,AT,,3
+new,2775197,,Irdning,,Austria,,AT,,6
+removed,2775479,Hötting,,Austria,,AT,,7,
+removed,2776421,Hietzing,,Austria,,AT,,9,
+removed,2777696,Grossgmain,,Austria,,AT,,5,
+removed,2778376,Goldwörth,,Austria,,AT,,4,
+removed,2778562,Gilgenberg am Weilhart,,Austria,,AT,,4,
+new,2779669,,Feldkirchen in Kärnten,,Austria,,AT,,2
+new,2779919,,Eschenau im Hausruckkreis,,Austria,,AT,,4
+removed,2780189,Eisenstadt-Umgebung,,Austria,,AT,,1,
+new,2780409,,Edlitz,,Austria,,AT,,3
+removed,2780544,Ebenthal,,Austria,,AT,,2,
+new,2781269,,Buch in Tirol,,Austria,,AT,,7
+new,2781975,,Bartholomäberg,,Austria,,AT,,8
+removed,2782436,Ardagger Markt,,Austria,,AT,,3,
+removed,2782619,Altschwendt,,Austria,,AT,,4,
+removed,2783195,Zomergem,,Belgium,,BE,,"VLG,VOV",
+removed,2783612,Wilsele,,Belgium,,BE,,"VLG,VBR",
+new,2784370,,Vorselaar,,Belgium,,BE,,"VLG,VAN"
+new,2785293,,Tremelo,,Belgium,,BE,,"VLG,VBR"
+new,2785519,,Thuillies,,Belgium,,BE,,"WAL,WHT"
+new,2786087,,Stekene,,Belgium,,BE,,"VLG,VOV"
+new,2788293,,Recht,,Belgium,,BE,,"WAL,WLG"
+new,2788854,,Ploegsteert,,Belgium,,BE,,"WAL,WHT"
+new,2789668,,Oppuurs,,Belgium,,BE,,"VLG,VAN"
+new,2791494,,Meerhout,,Belgium,,BE,,"VLG,VAN"
+removed,2792437,Libramont,,Belgium,,BE,,"WAL,WLX",
+removed,2793135,Le Bizet,,Belgium,,BE,,"WAL,WHT",
+new,2794234,,Kluisbergen,,Belgium,,BE,,"VLG,VOV"
+removed,2795056,Ingelmunster,,Belgium,,BE,,"VLG,VWV",
+new,2795238,,Houyet,,Belgium,,BE,,"WAL,WNA"
+removed,2796469,Haulchin,,Belgium,,BE,,"WAL,WHT",
+new,2796561,,Hanzinne,,Belgium,,BE,,"WAL,WNA"
+removed,2796735,Haine-Saint-Pierre,,Belgium,,BE,,"WAL,WHT",
+new,2798666,,Erquelinnes,,Belgium,,BE,,"WAL,WHT"
+removed,2798776,Émines,,Belgium,,BE,,"WAL,WNA",
+removed,2798784,Embourg,,Belgium,,BE,,"WAL,WLG",
+new,2799328,,Doische,,Belgium,,BE,,"WAL,WNA"
+new,2799855,,Dave,,Belgium,,BE,,"WAL,WNA"
+new,2799885,,Damme,,Belgium,,BE,,"VLG,VWV"
+new,2801436,,Borsbeke,,Belgium,,BE,,"VLG,VOV"
+removed,2801877,Blaimont,,Belgium,,BE,,"WAL,WNA",
+new,2801949,,Bièvre,,Belgium,,BE,,"WAL,WNA"
+new,2802359,,Belgrade,,Belgium,,BE,,"WAL,WNA"
+removed,2803061,Arquennes,,Belgium,,BE,,"WAL,WHT",
+removed,2803187,Andrimont,,Belgium,,BE,,"WAL,WLG",
+new,2803242,,Amel,,Belgium,,BE,,"WAL,WLG"
+new,2806852,,Wölfersheim,,Germany,,DE,,HE
+new,2809264,,Wiesenbronn,,Germany,,DE,,BY
+removed,2809468,Wiemersdorf,,Germany,,DE,,SH,
+removed,2811370,Weltersburg,,Germany,,DE,,RP,
+removed,2812084,Weisenheim am Sand,,Germany,,DE,,RP,
+new,2813258,,Wehr,,Germany,,DE,,NW
+new,2813786,,Wassenberg,,Germany,,DE,,NW
+removed,2813888,Wartmannsroth,,Germany,,DE,,BY,
+new,2814765,,Waldthurn,,Germany,,DE,,BY
+new,2816884,,Vogelsberg,,Germany,,DE,,TH
+new,2817581,,Veringenstadt,,Germany,,DE,,BW
+removed,2817970,Vacha,,Germany,,DE,,TH,
+removed,2818014,Utting am Ammersee,,Germany,,DE,,BY,
+new,2820190,,Umkirch,,Germany,,DE,,BW
+removed,2820439,Uettingen,,Germany,,DE,,BY,
+new,2822031,,Toddin,,Germany,,DE,,MV
+new,2822736,,Thierstein,,Germany,,DE,,BY
+new,2823682,,Tegernheim,,Germany,,DE,,BY
+new,2823810,,Taufkirchen,,Germany,,DE,,BY
+removed,2824437,Tabarz,,Germany,,DE,,TH,
+new,2835421,,Schwaig,,Germany,,DE,,BY
+new,2836407,,Schopfloch,,Germany,,DE,,BY
+new,2836409,,Schopfloch,,Germany,,DE,,BW
+new,2836944,,Schönberg,,Germany,,DE,,MV
+new,2837136,,Schöllkrippen,,Germany,,DE,,BY
+new,2838638,,Schlesen,,Germany,,DE,,SH
+new,2839101,,Schipkau,,Germany,,DE,,BB
+removed,2839819,Schellerten,,Germany,,DE,,NI,
+removed,2841488,Sankt Peter,,Germany,,DE,,BW,
+new,2843318,,Rugendorf,,Germany,,DE,,BY
+removed,2843810,Rötsweiler-Nockenthal,,Germany,,DE,,RP,
+removed,2845641,Rohrdorf,,Germany,,DE,,BY,
+new,2845714,,Rohrbach,,Germany,,DE,,RP
+new,2847864,,Reut,,Germany,,DE,,BY
+removed,2850523,Randersacker,,Germany,,DE,,BY,
+removed,2851928,Probstzella,,Germany,,DE,,TH,
+removed,2852162,Pretzfeld,,Germany,,DE,,BY,
+new,2852418,,Pottum,,Germany,,DE,,RP
+new,2852440,,Pottenstein,,Germany,,DE,,BY
+removed,2853107,Plüderhausen,,Germany,,DE,,BW,
+removed,2853266,Pleidelsheim,,Germany,,DE,,BW,
+new,2855388,,Parsberg,,Germany,,DE,,BY
+new,2855416,,Parkstein,,Germany,,DE,,BY
+new,2857089,,Oering,,Germany,,DE,,SH
+new,2857643,,Ohmbach,,Germany,,DE,,RP
+new,2857847,,Oettingen in Bayern,,Germany,,DE,,BY
+new,2857900,,Oerlinghausen,,Germany,,DE,,NW
+new,2858567,,Oberwerrn,,Germany,,DE,,BY
+new,2859285,,Oberriexingen,,Germany,,DE,,BW
+new,2861232,,Oberboihingen,,Germany,,DE,,BW
+removed,2861923,Nordkirchen,,Germany,,DE,,NW,
+new,2862135,,Norddeich,,Germany,,DE,,SH
+removed,2862541,Nienstädt,,Germany,,DE,,NI,
+removed,2862831,Niederstetten,,Germany,,DE,,BW,
+new,2863643,,Niederau,,Germany,,DE,,SN
+new,2864055,,Neustadt an der Waldnaab,,Germany,,DE,,BY
+new,2864421,,Neunkirchen am Potzberg,,Germany,,DE,,RP
+new,2864547,,Neumarkt-Sankt Veit,,Germany,,DE,,BY
+removed,2864774,Neukirch,,Germany,,DE,,BW,
+new,2865553,,Neuental,,Germany,,DE,,HE
+new,2867229,,Nackenheim,,Germany,,DE,,RP
+new,2867436,,Murr,,Germany,,DE,,BW
+removed,2867748,Mulsum,,Germany,,DE,,NI,
+new,2867770,,Müllheim,,Germany,,DE,,BW
+new,2867998,,Mühlhausen,,Germany,,DE,,SN
+removed,2870094,Molbergen,,Germany,,DE,,NI,
+removed,2870233,Mödingen,,Germany,,DE,,BY,
+new,2871591,,Metelen,,Germany,,DE,,NW
+removed,2871609,Messkirch,,Germany,,DE,,BW,
+removed,2871807,Merkelbach,,Germany,,DE,,RP,
+new,2872447,,Mehlbek,,Germany,,DE,,SH
+new,2873049,,Masburg,,Germany,,DE,,RP
+new,2873262,,Marl,,Germany,,DE,,NI
+new,2874039,,Malsfeld,,Germany,,DE,,HE
+removed,2874282,Maikammer,,Germany,,DE,,RP,
+new,2876009,,Lommatzsch,,Germany,,DE,,SN
+removed,2879464,Lehmkuhlen,,Germany,,DE,,SH,
+new,2881767,,Lambsheim,,Germany,,DE,,RP
+new,2882529,,Kümmersbruck,,Germany,,DE,,BY
+new,2883410,,Krumbach,,Germany,,DE,,BY
+new,2884656,,Krauschwitz,,Germany,,DE,,SN
+new,2885765,,Königstein,,Germany,,DE,,BY
+removed,2887933,Kleinzschocher,,Germany,,DE,,SN,
+removed,2888333,Klein Rheide,,Germany,,DE,,SH,
+removed,2890322,Kirkel,,Germany,,DE,,SL,
+removed,2890482,Kirchheim am Neckar,,Germany,,DE,,BW,
+new,2891590,,Kenzingen,,Germany,,DE,,BW
+new,2892520,,Kasseedorf,,Germany,,DE,,SH
+new,2892810,,Karlshuld,,Germany,,DE,,BY
+new,2893534,,Kaltennordheim,,Germany,,DE,,TH
+new,2894924,,Jettenbach,,Germany,,DE,,RP
+removed,2894998,Jersbek,,Germany,,DE,,SH,
+removed,2895131,Jatznick,,Germany,,DE,,MV,
+new,2895731,,Irxleben,,Germany,,DE,,ST
+new,2898004,,Hügelsheim,,Germany,,DE,,BW
+new,2899172,,Hoppegarten,,Germany,,DE,,BB
+new,2901781,,Hohenfelden,,Germany,,DE,,TH
+removed,2904657,Hilmersdorf,,Germany,,DE,,SN,
+new,2905062,,Heuchlingen,,Germany,,DE,,BW
+new,2908486,,Hechthausen,,Germany,,DE,,NI
+removed,2908999,Hauptstuhl,,Germany,,DE,,RP,
+removed,2909886,Haselau,,Germany,,DE,,SH,
+new,2910269,,Harsum,,Germany,,DE,,NI
+new,2911230,,Hammah,,Germany,,DE,,NI
+removed,2911285,Wandsbek,,Germany,,DE,,HH,
+removed,2911287,Marienthal,,Germany,,DE,,HH,
+removed,2911288,Hamburg-Mitte,,Germany,,DE,,HH,
+removed,2912534,Hagenburg,,Germany,,DE,,NI,
+new,2913289,,Gützkow,,Germany,,DE,,MV
+removed,2913449,Güsten,,Germany,,DE,,ST,
+new,2913598,,Guntersblum,,Germany,,DE,,RP
+removed,2913972,Gschwend,,Germany,,DE,,BW,
+new,2914186,,Grünhainichen,,Germany,,DE,,SN
+removed,2914796,Großzschocher,,Germany,,DE,,SN,
+removed,2915191,Groß Pankow,,Germany,,DE,,BB,
+removed,2916966,Groß-Bieberau,,Germany,,DE,,HE,
+new,2916996,,Großbeeren,,Germany,,DE,,BB
+removed,2918633,Göttingen,,Germany,,DE,,HE,
+removed,2919146,Gomaringen,,Germany,,DE,,BW,
+new,2919310,,Goldenstedt,,Germany,,DE,,NI
+new,2920197,,Glan-Münchweiler,,Germany,,DE,,RP
+new,2921001,,Gernlinden,,Germany,,DE,,BY
+new,2922209,,Gebelkofen,,Germany,,DE,,BY
+new,2926658,,Firrel,,Germany,,DE,,NI
+new,2928868,,Espenau,,Germany,,DE,,HE
+new,2929506,,Erlenbach,,Germany,,DE,,BW
+new,2930053,,Enkirch,,Germany,,DE,,RP
+new,2931844,,Eilsbrunn,,Germany,,DE,,BY
+removed,2932960,Egmating,,Germany,,DE,,BY,
+new,2934697,,Duingen,,Germany,,DE,,NI
+removed,2934740,Düdenbüttel,,Germany,,DE,,NI,
+removed,2935326,Dransfeld,,Germany,,DE,,NI,
+new,2936503,,Dogern,,Germany,,DE,,BW
+removed,2936845,Dipperz,,Germany,,DE,,HE,
+removed,2942930,Bubenreuth,,Germany,,DE,,BY,
+new,2943516,,Brück,,Germany,,DE,,BB
+removed,2944654,Breitenberg,,Germany,,DE,,SH,
+new,2945382,,Brande-Hörnerkirchen,,Germany,,DE,,SH
+new,2945726,,Bovenden,,Germany,,DE,,NI
+removed,2946291,Borgentreich,,Germany,,DE,,NW,
+removed,2946861,Böhringen,,Germany,,DE,,BW,
+removed,2949562,Beuren,,Germany,,DE,,RP,
+removed,2951763,Bechhofen,,Germany,,DE,,RP,
+removed,2952605,Barkelsby,,Germany,,DE,,SH,
+new,2953320,,Bad Waldsee,,Germany,,DE,,BW
+removed,2953347,Bad Schwartau,,Germany,,DE,,SH,
+new,2953348,,Bad Schwalbach,,Germany,,DE,,HE
+removed,2953509,Bad Elster,,Germany,,DE,,SN,
+new,2954012,,Aura im Sinngrund,,Germany,,DE,,BY
+removed,2954600,Auerbach,,Germany,,DE,,SN,
+new,2955095,,Aspach,,Germany,,DE,,TH
+removed,2957829,Altenberge,,Germany,,DE,,NW,
+new,2958085,,Altbach,,Germany,,DE,,BW
+new,2958134,,Alsenz,,Germany,,DE,,RP
+new,2958144,,Alsdorf,,Germany,,DE,,BY
+new,2958186,,Alpenrod,,Germany,,DE,,RP
+new,2958535,,Alfdorf,,Germany,,DE,,BW
+removed,2958575,Aldingen,,Germany,,DE,,BW,
+removed,2959043,Ahsen-Oetzen,,Germany,,DE,,NI,
+new,2959842,,Abensberg,,Germany,,DE,,BY
+removed,2960143,Rodange,,Luxembourg,,LU,,ES,
+new,2960276,,Mersch,,Luxembourg,,LU,,ME
+removed,2960277,Merl,,Luxembourg,,LU,,LU,
+new,2962057,,Peterswell,,Ireland,,IE,,"C,G"
+removed,2964690,Douglas,,Ireland,,IE,,"M,CO",
+removed,2965376,Clondulane,,Ireland,,IE,,"M,CO",
+removed,2965841,Callan,,Ireland,,IE,,"L,KK",
+new,2966481,,Ballynacarrow,,Ireland,,IE,,"C,SO"
+removed,2967110,Zuydcoote,,France,,FR,,"HDF,59",
+new,2967201,,Ytrac,,France,,FR,,"ARA,15"
+new,2967213,,Yquelon,,France,,FR,,"NOR,50"
+new,2967363,,Willems,,France,,FR,,"HDF,59"
+new,2967389,,Wettolsheim,,France,,FR,,"GES,68"
+new,2967850,,Vitry-sur-Orne,,France,,FR,,"GES,57"
+removed,2968109,Villouxel,,France,,FR,,"GES,88",
+removed,2968139,Villiers-sur-Orge,,France,,FR,,"IDF,91",
+new,2968171,,Villiers-le-Mahieu,,France,,FR,,"IDF,78"
+removed,2968312,Villes,,France,,FR,,"ARA,01",
+removed,2968352,Villers-Saint-Christophe,,France,,FR,,"HDF,02",
+new,2968793,,Villedoux,,France,,FR,,"NAQ,17"
+removed,2968801,Villedieu-les-Poêles,,France,,FR,,"NOR,50",
+removed,2968855,Villebret,,France,,FR,,"ARA,03",
+removed,2969106,Vignieu,,France,,FR,,"ARA,38",
+removed,2969480,Vézaponin,,France,,FR,,"HDF,02",
+removed,2969607,Vertus,,France,,FR,,"GES,51",
+removed,2969951,Verel-Pragondran,,France,,FR,,"ARA,73",
+new,2970154,,Venarey-les-Laumes,,France,,FR,,"BFC,21"
+new,2970509,,Vaudoy-en-Brie,,France,,FR,,"IDF,77"
+removed,2970747,Varades,,France,,FR,,"PDL,44",
+removed,2970957,Valle-d'Orezza,,France,,FR,,"20R,2B",
+removed,2971176,Vailhauquès,,France,,FR,,"OCC,34",
+new,2971774,,Tresserve,,France,,FR,,"ARA,73"
+new,2971953,,Trégastel,,France,,FR,,"BRE,22"
+new,2971963,,Tréfumel,,France,,FR,,"BRE,22"
+removed,2972044,Traubach-le-Bas,,France,,FR,,"GES,68",
+new,2972339,,Toulenne,,France,,FR,,"NAQ,33"
+removed,2972591,Tillenay,,France,,FR,,"BFC,21",
+new,2972599,,Til-Châtel,,France,,FR,,"BFC,21"
+removed,2972856,Thiers,,France,,FR,,"HDF,59",
+new,2972986,,Theillay,,France,,FR,,"CVL,41"
+new,2973297,,Taupont,,France,,FR,,"BRE,56"
+removed,2974245,Sonnaz,,France,,FR,,"ARA,73",
+new,2974387,,Soissons-sur-Nacey,,France,,FR,,"BFC,21"
+new,2974879,,Sernhac,,France,,FR,,"OCC,30"
+removed,2975466,Sceaux-du-Gâtinais,,France,,FR,,"CVL,45",
+removed,2975739,Saussay,,France,,FR,,"NOR,76",
+new,2975826,,Saulgé,,France,,FR,,"NAQ,86"
+new,2975833,,Saulcy-sur-Meurthe,,France,,FR,,"GES,88"
+removed,2975838,Saulchery,,France,,FR,,"HDF,02",
+removed,2975878,Sauchay,,France,,FR,,"NOR,76",
+removed,2976339,Salonnes,,France,,FR,,"GES,57",
+new,2976757,,Saint-Thurial,,France,,FR,,"BRE,35"
+removed,2977186,Saint-Révérend,,France,,FR,,"PDL,85",
+removed,2977391,Saint-Poix,,France,,FR,,"PDL,53",
+new,2977642,,Saint-Paul-Mont-Penit,,France,,FR,,"PDL,85"
+new,2977702,,Saint-Paul-sur-Save,,France,,FR,,"OCC,31"
+new,2977719,,Saint-Parize-le-Châtel,,France,,FR,,"BFC,58"
+removed,2977784,Saint-Ours,,France,,FR,,"ARA,73",
+new,2978065,,Saint-Melaine-sur-Aubance,,France,,FR,,"PDL,49"
+new,2978126,,Saint-Maurice-Montcouronne,,France,,FR,,"IDF,91"
+new,2978288,,Saint-Martin-du-Tertre,,France,,FR,,"BFC,89"
+removed,2978623,Saint-Mamet-la-Salvetat,,France,,FR,,"ARA,15",
+removed,2978652,Saint-Magne,,France,,FR,,"NAQ,33",
+new,2978767,,Saint-Lézer,,France,,FR,,"OCC,65"
+removed,2978910,Saint-Laurent-des-Hommes,,France,,FR,,"NAQ,24",
+removed,2978937,Saint-Laurent-de-Céris,,France,,FR,,"NAQ,16",
+new,2979310,,Saint-Jean-de-Losne,,France,,FR,,"BFC,21"
+new,2979681,,Saint-Gildas-de-Rhuys,,France,,FR,,"BRE,56"
+new,2979707,,Saint-Gervais,,France,,FR,,"PDL,85"
+removed,2979849,Saint-Germain-au-Mont-d'Or,,France,,FR,,"ARA,69",
+removed,2979880,Saint-Geours-de-Maremne,,France,,FR,,"NAQ,40",
+new,2980182,,Sainte-Verge,,France,,FR,,"NAQ,79"
+new,2980220,,Saint-Étienne-les-Orgues,,France,,FR,,"PAC,04"
+new,2980293,,Saint-Étienne,,France,,FR,,"OCC,46"
+new,2980302,,Sainte-Suzanne-sur-Vire,,France,,FR,,"NOR,50"
+new,2981087,,Saint-Clair-de-la-Tour,,France,,FR,,"ARA,38"
+removed,2981770,Saint-André-dAllas,,France,,FR,,"NAQ,24",
+removed,2981961,Sailly-Laurette,,France,,FR,,"HDF,80",
+removed,2982075,Sablet,,France,,FR,,"PAC,84",
+removed,2982492,Roussay,,France,,FR,,"PDL,49",
+removed,2982556,Rouillon,,France,,FR,,"PDL,72",
+new,2982890,,Roost-Warendin,,France,,FR,,"HDF,59"
+removed,2983320,Roche,,France,,FR,,"ARA,38",
+removed,2983348,Robert-Espagne,,France,,FR,,"GES,55",
+removed,2983537,Rillé,,France,,FR,,"CVL,37",
+removed,2983828,Revel,,France,,FR,,"ARA,38",
+new,2983984,,Rennes-sur-Loue,,France,,FR,,"BFC,25"
+removed,2984449,Randan,,France,,FR,,"ARA,63",
+removed,2984539,Rainville,,France,,FR,,"GES,88",
+removed,2984675,Quingey,,France,,FR,,"BFC,25",
+new,2984917,,Puyréaux,,France,,FR,,"NAQ,16"
+new,2985123,,Puimisson,,France,,FR,,"OCC,34"
+new,2985125,,Puimichel,,France,,FR,,"PAC,04"
+removed,2985321,Prignac-et-Marcamps,,France,,FR,,"NAQ,33",
+new,2985964,,Port-Lesney,,France,,FR,,"BFC,39"
+new,2985978,,Porticcio,,France,,FR,,"20R,2A"
+new,2986046,,Porspoder,,France,,FR,,"BRE,29"
+new,2986296,,Pontaubault,,France,,FR,,"NOR,50"
+new,2986354,,Poncin,,France,,FR,,"ARA,01"
+removed,2986596,Pluvet,,France,,FR,,"BFC,21",
+new,2986644,,Plounéour-Trez,,France,,FR,,"BRE,29"
+new,2987005,,Pitgam,,France,,FR,,"HDF,59"
+new,2987264,,Pierregot,,France,,FR,,"HDF,80"
+removed,2987596,Petiville,,France,,FR,,"NOR,76",
+removed,2987874,Perrigny-lès-Dijon,,France,,FR,,"BFC,21",
+new,2987878,,Perrigny,,France,,FR,,"BFC,39"
+new,2987919,,Péroy-les-Gombries,,France,,FR,,"HDF,60"
+removed,2988351,Pauilhac,,France,,FR,,"OCC,32",
+removed,2989841,Nuisement-sur-Coole,,France,,FR,,"GES,51",
+removed,2990387,Nieuil,,France,,FR,,"NAQ,16",
+removed,2990522,Neuville-sur-Ain,,France,,FR,,"ARA,01",
+new,2990528,,Neuville-Saint-Amand,,France,,FR,,"HDF,02"
+new,2990662,,Neufmanil,,France,,FR,,"GES,08"
+removed,2990770,Nérigean,,France,,FR,,"NAQ,33",
+new,2990866,,Naveil,,France,,FR,,"CVL,41"
+new,2990889,,Naucelles,,France,,FR,,"ARA,15"
+removed,2990957,Nanteuil-lès-Meaux,,France,,FR,,"IDF,77",
+removed,2991005,Nancras,,France,,FR,,"NAQ,17",
+new,2991136,,Murol,,France,,FR,,"ARA,63"
+removed,2991179,Murat,,France,,FR,,"ARA,15",
+new,2991224,,Muids,,France,,FR,,"NOR,27"
+removed,2991558,Mouen,,France,,FR,,"NOR,14",
+new,2992022,,Montrottier,,France,,FR,,"ARA,69"
+new,2992050,,Montrevel-en-Bresse,,France,,FR,,"ARA,01"
+removed,2992419,Montigny-en-Morvan,,France,,FR,,"BFC,58",
+removed,2992669,Monterfil,,France,,FR,,"BRE,35",
+removed,2992744,Montebourg,,France,,FR,,"NOR,50",
+removed,2992842,Montchal,,France,,FR,,"ARA,42",
+removed,2992852,Montcenis,,France,,FR,,"BFC,71",
+new,2992996,,Montauban-de-Picardie,,France,,FR,,"HDF,80"
+removed,2993228,Mons,,France,,FR,,"OCC,30",
+new,2993323,,Monestier-de-Clermont,,France,,FR,,"ARA,38"
+removed,2993395,Monchy-Breton,,France,,FR,,"HDF,62",
+removed,2993581,Moissat Haut,,France,,FR,,"ARA,63",
+removed,2993909,Mignovillard,,France,,FR,,"BFC,39",
+removed,2994185,Messigny-et-Vantoux,,France,,FR,,"BFC,21",
+removed,2994291,Merxheim,,France,,FR,,"GES,68",
+new,2994448,,Mercurol,,France,,FR,,"ARA,03"
+removed,2994518,Menoncourt,,France,,FR,,"BFC,90",
+new,2994778,,Médis,,France,,FR,,"NAQ,17"
+new,2994871,,Mazères-sur-Salat,,France,,FR,,"OCC,31"
+new,2994974,,Mauvezin-sur-Gupie,,France,,FR,,"NAQ,47"
+new,2995355,,Les Martres-dArtière,,France,,FR,,"ARA,63"
+new,2995402,,Martignat,,France,,FR,,"ARA,01"
+new,2995718,,Marillac-le-Franc,,France,,FR,,"NAQ,16"
+removed,2995983,Marcigny,,France,,FR,,"BFC,71",
+new,2996485,,Malaussène,,France,,FR,,"PAC,06"
+new,2996674,,Maincy,,France,,FR,,"IDF,77"
+removed,2996737,Magstatt-le-Bas,,France,,FR,,"GES,68",
+removed,2996810,Magnac-Laval,,France,,FR,,"NAQ,87",
+new,2996953,,Lyaud,,France,,FR,,"ARA,74"
+new,2996986,,Luynes,,France,,FR,,"CVL,37"
+removed,2996987,Luynes,,France,,FR,,"PAC,13",
+removed,2997209,Luçon,,France,,FR,,"CVL,28",
+removed,2997407,Loupian,,France,,FR,,"OCC,34",
+removed,2997551,Lorraine,,France,,FR,,,
+removed,2997700,Longperrier,,France,,FR,,"IDF,77",
+removed,2997993,Loches-sur-Ource,,France,,FR,,"GES,10",
+new,2998121,,Lison,,France,,FR,,"NOR,14"
+new,2998179,,Liourdres,,France,,FR,,"NAQ,19"
+new,2998523,,Liausson,,France,,FR,,"OCC,34"
+removed,2998698,Leyme,,France,,FR,,"OCC,46",
+removed,2998850,Le Veurdre,,France,,FR,,"ARA,03",
+removed,2999163,Le Tignet,,France,,FR,,"PAC,06",
+new,2999498,,Lestiac-sur-Garonne,,France,,FR,,"NAQ,33"
+new,3001532,,Les Chapelles-Bourbon,,France,,FR,,"IDF,77"
+removed,3002370,Léren,,France,,FR,,"NAQ,64",
+removed,3003986,Le Grand-Lucé,,France,,FR,,"PDL,72",
+new,3004170,,Le Fréchet,,France,,FR,,"OCC,31"
+new,3004316,,Lée,,France,,FR,,"NAQ,64"
+removed,3004991,Le Breuil-Bernard,,France,,FR,,"NAQ,79",
+removed,3005105,Le Boullay-Mivoye,,France,,FR,,"CVL,28",
+new,3005279,,Le Bignon,,France,,FR,,"CVL,45"
+removed,3005765,Lavardin,,France,,FR,,"PDL,72",
+removed,3005775,Lavans-lès-Saint-Claude,,France,,FR,,"BFC,39",
+new,3005844,,Laval-en-Brie,,France,,FR,,"IDF,77"
+new,3006503,,La Saussaye,,France,,FR,,"IDF,78"
+new,3007642,,Laniscourt,,France,,FR,,"HDF,02"
+removed,3007808,Landser,,France,,FR,,"GES,68",
+new,3008397,,Laluque,,France,,FR,,"NAQ,40"
+removed,3009469,La Feuillée,,France,,FR,,"BRE,29",
+removed,3009937,La Condamine,,Monaco,,MC,,,
+removed,3010308,La Chapelle-dAndaine,,France,,FR,,"NOR,61",
+removed,3012608,Izel-lès-Hameau,,France,,FR,,"HDF,62",
+removed,3012738,Irodouër,,France,,FR,,"BRE,35",
+removed,3012786,Ingouville,,France,,FR,,"NOR,76",
+new,3012844,,Illhaeusern,,France,,FR,,"GES,68"
+removed,3012970,Huppy,,France,,FR,,"HDF,80",
+new,3013273,,Hinges,,France,,FR,,"HDF,62"
+new,3013355,,Hessenheim,,France,,FR,,"GES,67"
+new,3013367,,Hesdigneul-lès-Béthune,,France,,FR,,"HDF,62"
+removed,3013569,Helfaut,,France,,FR,,"HDF,62",
+new,3013590,,Heidolsheim,,France,,FR,,"GES,67"
+removed,3013759,Hauteluce,,France,,FR,,"ARA,73",
+new,3013960,,Haraucourt-sur-Seille,,France,,FR,,"GES,57"
+removed,3014268,Guillaumes,,France,,FR,,"PAC,06",
+removed,3014393,Guer,,France,,FR,,"BRE,56",
+new,3014469,,Grundviller,,France,,FR,,"GES,57"
+new,3014479,,Grugies,,France,,FR,,"HDF,02"
+new,3015017,,Grandpuits-Bailly-Carrois,,France,,FR,,"IDF,77"
+new,3015399,,Grainville-Langannerie,,France,,FR,,"NOR,14"
+new,3015423,,Graçay,,France,,FR,,"CVL,18"
+new,3015463,,Gouvernes,,France,,FR,,"IDF,77"
+new,3015823,,Gleizé,,France,,FR,,"ARA,69"
+removed,3016021,Gimouille,,France,,FR,,"BFC,58",
+new,3016311,,Genouillé,,France,,FR,,"NAQ,86"
+new,3016497,,Gauriac,,France,,FR,,"NAQ,33"
+new,3016793,,Gajan,,France,,FR,,"OCC,30"
+removed,3016875,Gaas,,France,,FR,,"NAQ,40",
+new,3017090,,Frettemeule,,France,,FR,,"HDF,80"
+removed,3017118,Fressines,,France,,FR,,"NAQ,79",
+new,3017453,,Foussemagne,,France,,FR,,"BFC,90"
+removed,3017595,Fougueyrolles,,France,,FR,,"NAQ,24",
+new,3017914,,Fontenay-Mauvoisin,,France,,FR,,"IDF,78"
+new,3018013,,Fontaine,,France,,FR,,"NAQ,24"
+new,3018021,,Fontaine-Milon,,France,,FR,,"PDL,49"
+removed,3018052,Fontaine-la-Guyon,,France,,FR,,"CVL,28",
+removed,3018591,Festubert,,France,,FR,,"HDF,62",
+new,3018593,,Festigny,,France,,FR,,"BFC,89"
+removed,3019269,Évrange,,France,,FR,,"GES,57",
+removed,3019320,Eulmont,,France,,FR,,"GES,54",
+removed,3019839,Escamps,,France,,FR,,"BFC,89",
+new,3020560,,Écaquelon,,France,,FR,,"NOR,27"
+new,3020933,,Dounoux,,France,,FR,,"GES,88"
+removed,3021230,Domart-en-Ponthieu,,France,,FR,,"HDF,80",
+removed,3021472,Deyvillers,,France,,FR,,"GES,88",
+new,3022099,,Culin,,France,,FR,,"ARA,38"
+new,3022229,,Cruet,,France,,FR,,"ARA,73"
+new,3022445,,Criquetot-l'Esneval,,France,,FR,,"NOR,76"
+removed,3022553,Cressanges,,France,,FR,,"ARA,03",
+new,3022613,,Crégy-lès-Meaux,,France,,FR,,"IDF,77"
+removed,3022767,Coux,,France,,FR,,"NAQ,17",
+removed,3022770,Couvron-et-Aumencourt,,France,,FR,,"HDF,02",
+new,3022862,,Courville-sur-Eure,,France,,FR,,"CVL,28"
+new,3022868,,Courtry,,France,,FR,,"IDF,77"
+removed,3023015,Courlaoux,,France,,FR,,"BFC,39",
+removed,3023036,Courgains,,France,,FR,,"PDL,72",
+removed,3023260,Coullons,,France,,FR,,"CVL,45",
+new,3023588,,Corniéville,,France,,FR,,"GES,55"
+new,3023755,,Corbeny,,France,,FR,,"HDF,02"
+new,3023891,,Conlie,,France,,FR,,"PDL,72"
+new,3024369,,Coivert,,France,,FR,,"NAQ,17"
+removed,3024462,Codolet,,France,,FR,,"OCC,30",
+new,3024695,,Clécy,,France,,FR,,"NOR,14"
+removed,3024767,Clansayes,,France,,FR,,"ARA,26",
+new,3024803,,Clairmarais,,France,,FR,,"HDF,62"
+new,3024886,,Cissé,,France,,FR,,"NAQ,86"
+new,3025088,,Chitenay,,France,,FR,,"CVL,41"
+new,3025106,,Chirmont,,France,,FR,,"HDF,80"
+removed,3025204,Chézy-sur-Marne,,France,,FR,,"HDF,02",
+new,3025429,,Cherreau,,France,,FR,,"PDL,72"
+new,3025495,,Chenôves,,France,,FR,,"BFC,71"
+removed,3025720,Chavignon,,France,,FR,,"HDF,02",
+new,3025910,,Chaumes-en-Brie,,France,,FR,,"IDF,77"
+new,3026217,,Châteauponsac,,France,,FR,,"NAQ,87"
+new,3026804,,Chaource,,France,,FR,,"GES,10"
+removed,3026839,Chantérac,,France,,FR,,"NAQ,24",
+new,3026958,,Chandai,,France,,FR,,"NOR,61"
+removed,3027011,Champ-sur-Drac,,France,,FR,,"ARA,38",
+new,3027060,,Champoly,,France,,FR,,"ARA,42"
+new,3027207,,Champcevinel,,France,,FR,,"NAQ,24"
+removed,3027240,Champagneux,,France,,FR,,"ARA,73",
+new,3027275,,Champagnac-de-Belair,,France,,FR,,"NAQ,24"
+new,3027751,,Cevins,,France,,FR,,"ARA,73"
+removed,3027804,Cervione,,France,,FR,,"20R,2B",
+removed,3028117,Cavanac,,France,,FR,,"OCC,11",
+new,3028157,,Caussens,,France,,FR,,"OCC,32"
+removed,3028173,Caurel,,France,,FR,,"GES,51",
+new,3028237,,Cattenières,,France,,FR,,"HDF,59"
+new,3028382,,Castellane,,France,,FR,,"PAC,04"
+removed,3028438,Cassen,,France,,FR,,"NAQ,40",
+new,3028443,,Cassaniouze,,France,,FR,,"ARA,15"
+removed,3028567,Carnetin,,France,,FR,,"IDF,77",
+new,3028742,,Cap-d'Ail,,France,,FR,,"PAC,06"
+new,3029190,,Cailleville,,France,,FR,,"NOR,76"
+new,3029498,,Burnhaupt-le-Haut,,France,,FR,,"GES,68"
+new,3029503,,Burlats,,France,,FR,,"OCC,81"
+removed,3030038,Brillevast,,France,,FR,,"NOR,50",
+new,3030066,,Brignac,,France,,FR,,"OCC,34"
+new,3030202,,Breuil-le-Vert,,France,,FR,,"HDF,60"
+new,3030411,,Brégnier-Cordon,,France,,FR,,"ARA,01"
+removed,3030857,Bourth,,France,,FR,,"NOR,27",
+new,3031111,,Bouniagues,,France,,FR,,"NAQ,24"
+removed,3031610,Bootzheim,,France,,FR,,"GES,67",
+new,3031797,,Bonlier,,France,,FR,,"HDF,60"
+removed,3031911,Boissy-l'Aillerie,,France,,FR,,"IDF,95",
+new,3032062,,Bois-de-Céné,,France,,FR,,"PDL,85"
+removed,3032228,Bligny-lès-Beaune,,France,,FR,,"BFC,21",
+new,3032602,,Bindernheim,,France,,FR,,"GES,67"
+new,3032765,,Biding,,France,,FR,,"GES,57"
+removed,3032866,Beyrie-sur-Joyeuse,,France,,FR,,"NAQ,64",
+new,3032880,,Beychac,,France,,FR,,"NAQ,33"
+removed,3032972,Bettencourt-Saint-Ouen,,France,,FR,,"HDF,80",
+removed,3033115,Beslé,,France,,FR,,"PDL,44",
+new,3033316,,Bernardswiller,,France,,FR,,"GES,67"
+removed,3033471,Bennwihr,,France,,FR,,"GES,68",
+new,3033647,,Belleville-sur-Loire,,France,,FR,,"CVL,18"
+new,3033742,,Bellebat,,France,,FR,,"NAQ,33"
+removed,3033816,Bélarga,,France,,FR,,"OCC,34",
+new,3033863,,Béhasque-Lapiste,,France,,FR,,"NAQ,64"
+new,3034509,,Bavent,,France,,FR,,"NOR,14"
+new,3034555,,Baugé,,France,,FR,,"PDL,49"
+new,3034713,,Bassan,,France,,FR,,"OCC,34"
+new,3035183,,Baltzenheim,,France,,FR,,"GES,68"
+new,3035408,,Bagneux,,France,,FR,,"HDF,02"
+new,3035412,,Bagneux,,France,,FR,,"PDL,49"
+removed,3035550,Azay-le-Brûlé,,France,,FR,,"NAQ,79",
+removed,3035920,Autoreille,,France,,FR,,"BFC,70",
+new,3035971,,Autechaux-Roide,,France,,FR,,"BFC,25"
+new,3036231,,Audrieu,,France,,FR,,"NOR,14"
+new,3036261,,Audelange,,France,,FR,,"BFC,39"
+new,3036576,,Asnelles,,France,,FR,,"NOR,14"
+removed,3037091,Aressy,,France,,FR,,"NAQ,64",
+new,3037123,,Ardin,,France,,FR,,"NAQ,79"
+removed,3037523,Anneyron,,France,,FR,,"ARA,26",
+new,3037710,,Andiran,,France,,FR,,"NAQ,47"
+removed,3037713,Andilly,,France,,FR,,"IDF,95",
+new,3037800,,Ancelle,,France,,FR,,"PAC,05"
+new,3037915,,Ambleteuse,,France,,FR,,"HDF,62"
+removed,3037975,Amance,,France,,FR,,"GES,10",
+new,3038473,,Aiguilles,,France,,FR,,"PAC,05"
+new,3038565,,Ahetze,,France,,FR,,"NAQ,64"
+removed,3038741,Abos,,France,,FR,,"NAQ,64",
+removed,3038745,Abondance,,France,,FR,,"ARA,74",
+removed,3038999,Soldeu,,Andorra,,AD,,02,
+removed,3039154,El Tarter,,Andorra,,AD,,02,
+removed,3040140,l'Aldosa de canillo,,Andorra,,AD,,02,
+removed,3040141,l'Aldosa,,Andorra,,AD,,04,
+removed,3041519,Arinsal,,Andorra,,AD,,04,
+removed,3042046,Ruggell,,Liechtenstein,,LI,,06,
+removed,3042049,Planken,,Liechtenstein,,LI,,05,
+removed,3042089,Saint John,,Jersey,,JE,,,
+removed,3042170,Union Mills,,Isle of Man,,IM,,,
+removed,3042174,Sulby,,Isle of Man,,IM,,,
+removed,3042182,Santon,,Isle of Man,,IM,,,
+removed,3042185,Saint Marks,,Isle of Man,,IM,,,
+removed,3042186,Saint Johns,,Isle of Man,,IM,,,
+removed,3042189,Ronaldsway,,Isle of Man,,IM,,,
+removed,3042192,Ramsey,,Isle of Man,,IM,,,
+removed,3042193,Port Soderick,,Isle of Man,,IM,,,
+removed,3042195,Port Saint Mary,,Isle of Man,,IM,,,
+removed,3042196,Port Erin,,Isle of Man,,IM,,,
+removed,3042198,Peel,,Isle of Man,,IM,,,
+removed,3042217,Laxey,,Isle of Man,,IM,,,
+removed,3042251,Colby,,Isle of Man,,IM,,,
+removed,3042274,Torteval,,Guernsey,,GG,,,
+removed,3042281,Saumarez,,Guernsey,,GG,,,
+removed,3042286,Saint Sampson,,Guernsey,,GG,,,
+removed,3042289,Saint Anne,,Guernsey,,GG,,,
+removed,3042291,Roque Tourgis,,Guernsey,,GG,,,
+removed,3042292,Rohais Manor,,Guernsey,,GG,,,
+removed,3042307,Paradis,,Guernsey,,GG,,,
+removed,3042331,Les Nicolles,,Guernsey,,GG,,,
+removed,3042338,Le Mont Durand,,Guernsey,,GG,,,
+removed,3042340,La Ville Roussel,,Guernsey,,GG,,,
+removed,3042342,La Ramée,,Guernsey,,GG,,,
+removed,3042350,King’s Mills,,Guernsey,,GG,,,
+removed,3042430,Zugló,,Hungary,,HU,,BU,
+removed,3042608,Zalaszabar,,Hungary,,HU,,ZA,
+removed,3042746,Vonyarcvashegy,,Hungary,,HU,,ZA,
+removed,3042939,Vértestolna,,Hungary,,HU,,KE,
+new,3043517,,Újlengyel,,Hungary,,HU,,PE
+new,3046237,,Pölöske,,Hungary,,HU,,ZA
+new,3046495,,Penc,,Hungary,,HU,,PE
+removed,3047634,Nagylóc,,Hungary,,HU,,NO,
+new,3048080,,Mihályi,,Hungary,,HU,,GS
+new,3049163,,Kulcs,,Hungary,,HU,,FE
+new,3051133,,Inárcs,,Hungary,,HU,,PE
+removed,3055679,Bajánsenye,,Hungary,,HU,,VA,
+new,3056495,,Zlaté Moravce,,Slovakia,,SK,,NI
+removed,3056607,Zákopčie,,Slovakia,,SK,,ZI,
+removed,3056848,Veľké Zálužie,,Slovakia,,SK,,NI,
+removed,3057514,Šoporňa,,Slovakia,,SK,,TA,
+removed,3057518,Sološnica,,Slovakia,,SK,,BL,
+new,3057932,,Bratislava - Rača,,Slovakia,,SK,,BL
+removed,3058370,Oravské Veselé,,Slovakia,,SK,,ZI,
+new,3058952,,Lužianky,,Slovakia,,SK,,NI
+new,3058999,,Lubina,,Slovakia,,SK,,TC
+removed,3059318,Krajné,,Slovakia,,SK,,TC,
+removed,3059706,Jarok,,Slovakia,,SK,,NI,
+removed,3059787,Imeľ,,Slovakia,,SK,,NI,
+removed,3060120,Heľpa,,Slovakia,,SK,,BC,
+removed,3060339,Dubová,,Slovakia,,SK,,BL,
+new,3061037,,Bobrov,,Slovakia,,SK,,ZI
+new,3061332,,Zruč nad Sázavou,,Czechia,,CZ,,"20,205"
+removed,3061472,Židlochovice,,Czechia,,CZ,,"64,643",
+new,3061729,,Ždánice,,Czechia,,CZ,,"64,645"
+new,3061748,,Zbůch,,Czechia,,CZ,,"32,325"
+new,3061888,,Žamberk,,Czechia,,CZ,,"53,534"
+new,3061979,,Zaječí,,Czechia,,CZ,,"64,644"
+removed,3062533,Vrané nad Vltavou,,Czechia,,CZ,,"20,20A",
+new,3062642,,Vodňany,,Czechia,,CZ,,"31,316"
+removed,3063166,Velký Borek,,Czechia,,CZ,,"20,206",
+removed,3063195,Velké Němčice,,Czechia,,CZ,,"64,644",
+removed,3063400,Vamberk,,Czechia,,CZ,,"52,524",
+removed,3063980,Trnávka,,Czechia,,CZ,,"53,532",
+new,3064286,,Teplice nad Bečvou,,Czechia,,CZ,,"71,714"
+new,3065251,,Starý Petřín,,Czechia,,CZ,,"64,647"
+new,3065843,,Slavičín,,Czechia,,CZ,,"72,724"
+removed,3066180,Sepekov,,Czechia,,CZ,,"31,314",
+new,3066276,,Sedlnice,,Czechia,,CZ,,"80,804"
+new,3066403,,Sány,,Czechia,,CZ,,"20,208"
+new,3066614,,Ruda,,Czechia,,CZ,,"20,20C"
+removed,3068330,Petřvald,,Czechia,,CZ,,"80,804",
+new,3070054,,Náměšť na Hané,,Czechia,,CZ,,"71,712"
+removed,3070249,Mratín,,Czechia,,CZ,,"20,209",
+new,3070446,,Mníšek pod Brdy,,Czechia,,CZ,,"20,20A"
+new,3071368,,Luková,,Czechia,,CZ,,"53,534"
+removed,3071532,Loučovice,,Czechia,,CZ,,"31,312",
+new,3071990,,Libáň,,Czechia,,CZ,,"52,522"
+removed,3072155,Leština,,Czechia,,CZ,,"71,715",
+removed,3073892,Kamenný Újezd,,Czechia,,CZ,,"31,311",
+removed,3074954,Hrádek,,Czechia,,CZ,,"32,326",
+new,3075187,,Horní Suchá,,Czechia,,CZ,,"80,803"
+new,3076218,,Ejpovice,,Czechia,,CZ,,"32,326"
+removed,3076311,Duchcov,,Czechia,,CZ,,"42,426",
+removed,3076330,Dub nad Moravou,,Czechia,,CZ,,"71,712",
+removed,3076934,Dolní Bečva,,Czechia,,CZ,,"72,723",
+new,3076985,,Dobruška,,Czechia,,CZ,,"52,524"
+removed,3077170,Devínska Nová Ves,,Slovakia,,SK,,BL,
+removed,3077443,Číčenice,,Czechia,,CZ,,"31,316",
+new,3078928,,Boršov nad Vltavou,,Czechia,,CZ,,"31,311"
+new,3079643,,Bašť,,Czechia,,CZ,,"20,209"
+removed,3079685,Bakov nad Jizerou,,Czechia,,CZ,,"20,207",
+removed,3080807,Zalas,,Poland,,PL,,12,
+new,3082195,,Wieniec,,Poland,,PL,,04
+removed,3082303,Wielgomłyny,,Poland,,PL,,10,
+removed,3084483,Strumień,,Poland,,PL,,24,
+removed,3084515,Stronie Śląskie,,Poland,,PL,,02,
+removed,3086253,Sarnów,,Poland,,PL,,24,
+new,3086415,,Rzeszotary,,Poland,,PL,,12
+new,3087401,,Rajcza,,Poland,,PL,,24
+removed,3087920,Przeworno,,Poland,,PL,,02,
+new,3088730,,Poczesna,,Poland,,PL,,24
+new,3090011,,Orle,,Poland,,PL,,04
+removed,3090597,Nowe Skalmierzyce,,Poland,,PL,,30,
+new,3091008,,Niedźwiedź,,Poland,,PL,,30
+new,3091254,,Myślibórz,,Poland,,PL,,30
+new,3091548,,Modlnica,,Poland,,PL,,12
+removed,3092276,Markłowice,,Poland,,PL,,24,
+new,3092382,,Maluszyn,,Poland,,PL,,10
+new,3093132,,Łódź,,Poland,,PL,,30
+new,3093182,,Lisowice,,Poland,,PL,,10
+removed,3093183,Lisowice,,Poland,,PL,,24,
+removed,3094130,Kuźnica Stara,,Poland,,PL,,24,
+new,3094423,,Krzywiń,,Poland,,PL,,30
+removed,3095110,Gmina Koszęcin,,Poland,,PL,,24,
+new,3095140,,Kościelisko,,Poland,,PL,,12
+removed,3096816,Kamienica Polska,,Poland,,PL,,24,
+new,3096872,,Kalisz Pomorski,,Poland,,PL,,22
+removed,3098815,Górki Wielkie,,Poland,,PL,,24,
+new,3099462,,Gąsiorowice,,Poland,,PL,,16
+removed,3100027,Drzycim,,Poland,,PL,,04,
+new,3100515,,Dębowiec,,Poland,,PL,,24
+removed,3101531,Chrząstowice,,Poland,,PL,,16,
+removed,3103261,Gmina Błaszki,,Poland,,PL,,10,
+new,3105181,,Villaobispo de las Regueras,,Spain,,ES,,"CL,LE"
+new,3105203,,Villanueva de Perales,,Spain,,ES,,"MD,M"
+new,3105437,,Villamanta,,Spain,,ES,,"MD,M"
+new,3105670,,Villadepalos,,Spain,,ES,,"CL,LE"
+removed,3105748,Villablino,,Spain,,ES,,"CL,LE",
+new,3105835,,Vilardida,,Spain,,ES,,"CT,T"
+removed,3105953,Vilaboa,,Spain,,ES,,"GA,PO",
+new,3106493,,Vallromanes,,Spain,,ES,,"CT,B"
+removed,3106803,Valderrobres,,Spain,,ES,,"AR,TE",
+removed,3107546,Trazo,,Spain,,ES,,"GA,C",
+removed,3107705,Torrijas,,Spain,,ES,,"AR,TE",
+new,3107849,,Torreblanca,,Spain,,ES,,"VC,CS"
+new,3109186,,Sena,,Spain,,ES,,"AR,HU"
+removed,3109680,Santa Susanna,,Spain,,ES,,"CT,B",
+removed,3110052,Trapagaran / Valle de Trapaga,,Spain,,ES,,"PV,BI",
+removed,3110331,San Martín de Torres,,Spain,,ES,,"CL,LE",
+removed,3110415,Sant Martí,,Spain,,ES,,"CT,GI",
+new,3110452,,Sant Llorenç de Morunys,,Spain,,ES,,"CT,L"
+removed,3110529,Sant Joan de Mollet,,Spain,,ES,,"CT,GI",
+new,3111590,,Riudoms,,Spain,,ES,,"CT,T"
+new,3111740,,Riezu,,Spain,,ES,,"NC,NA"
+removed,3111855,Ribadesella,,Spain,,ES,,"AS,O",
+removed,3112737,Puente de Vallecas,,Spain,,ES,,"MD,M",
+new,3112819,,Proaza,,Spain,,ES,,"AS,O"
+removed,3113442,Pinilla del Valle,,Spain,,ES,,"MD,M",
+removed,3113734,Peralada,,Spain,,ES,,"CT,GI",
+removed,3114032,Pelabravo,,Spain,,ES,,"CL,SA",
+new,3114118,,Pedreña,,Spain,,ES,,"CB,S"
+new,3114700,,Oiartzun,,Spain,,ES,,"PV,SS"
+new,3115346,,Novallas,,Spain,,ES,,"AR,Z"
+removed,3115582,Navas de Ríofrío,,Spain,,ES,,"CL,SG",
+removed,3115771,Langraiz Oka / Nanclares de la Oca,,Spain,,ES,,"PV,VI",
+removed,3116063,Mortera,,Spain,,ES,,"CB,S",
+removed,3116198,Moraleja,,Spain,,ES,,"EX,CC",
+new,3116794,,Miengo,,Spain,,ES,,"CB,S"
+new,3117326,,Marugán,,Spain,,ES,,"CL,SG"
+removed,3117606,Malpica,,Spain,,ES,,"GA,C",
+new,3118472,,Lezama,,Spain,,ES,,"PV,VI"
+removed,3120154,Javier,,Spain,,ES,,"NC,NA",
+new,3120171,,Jarilla,,Spain,,ES,,"EX,CC"
+removed,3121047,Gualba de Dalt,,Spain,,ES,,"CT,B",
+removed,3121721,Gallarta,,Spain,,ES,,"PV,BI",
+removed,3123262,Els Monjos,,Spain,,ES,,"CT,B",
+removed,3124316,Covaleda,,Spain,,ES,,"CL,SO",
+removed,3124701,Conchel,,Spain,,ES,,"AR,HU",
+new,3124895,,Coca,,Spain,,ES,,"CL,SG"
+new,3124954,,Cizur Menor,,Spain,,ES,,"NC,NA"
+removed,3125047,Cilleros,,Spain,,ES,,"EX,CC",
+new,3125199,,Chapela,,Spain,,ES,,"GA,PO"
+new,3125271,,Cesuras,,Spain,,ES,,"GA,C"
+removed,3125410,Cerceda,,Spain,,ES,,"GA,C",
+removed,3125529,Cedrillas,,Spain,,ES,,"AR,TE",
+removed,3126068,Casas del Castañar,,Spain,,ES,,"EX,CC",
+removed,3126754,Camponaraya,,Spain,,ES,,"CL,LE",
+removed,3126835,Campdevànol,,Spain,,ES,,"CT,GI",
+new,3127288,,Cabañas de la Sagra,,Spain,,ES,,"CM,TO"
+removed,3127849,Bonastre,,Spain,,ES,,"CT,T",
+new,3128068,,Betelu,,Spain,,ES,,"NC,NA"
+new,3128419,,Becerreá,,Spain,,ES,,"GA,LU"
+removed,3128828,Baralla,,Spain,,ES,,"GA,LU",
+new,3128896,,Banyeres del Penedès,,Spain,,ES,,"CT,T"
+new,3129126,,Avión,,Spain,,ES,,"GA,OR"
+removed,3130312,Almázcara,,Spain,,ES,,"CL,LE",
+new,3130380,,Algorta,,Spain,,ES,,"PV,BI"
+new,3130741,,Alaejos,,Spain,,ES,,"CL,VA"
+new,3132372,,Veblungsnes,,Norway,,NO,,15
+removed,3132735,Vangsvik,,Norway,,NO,,19,
+removed,3134070,Tranby,,Norway,,NO,,06,
+removed,3138304,Slemmestad,,Norway,,NO,,02,
+new,3138624,,Skoppum,,Norway,,NO,,07
+removed,3139014,Skiptvet,,Norway,,NO,,01,
+new,3141379,,Rong,,Norway,,NO,,46
+removed,3143368,Ørnes,,Norway,,NO,,18,
+new,3145357,,Mosterhamn,,Norway,,NO,,46
+removed,3147693,Levdal,,Norway,,NO,,46,
+removed,3147923,Leines,,Norway,,NO,,18,
+removed,3148346,Langevåg,,Norway,,NO,,15,
+removed,3150002,Kjøpsvik,,Norway,,NO,,18,
+new,3155247,,Granvin,,Norway,,NO,,46
+new,3156508,,Fresvik,,Norway,,NO,,46
+new,3157162,,Flateby,,Norway,,NO,,02
+removed,3159094,Dønna,,Norway,,NO,,18,
+removed,3159827,Bryggja,,Norway,,NO,,46,
+removed,3160233,Breistein,,Norway,,NO,,46,
+new,3162983,,Årdal,,Norway,,NO,,11
+removed,3164025,Vitulano,,Italy,,IT,,"72,BN",
+new,3164128,,Villastellone,,Italy,,IT,,"21,TO"
+removed,3164396,Vicopisano,,Italy,,IT,,"52,PI",
+removed,3164850,Valle Lomellina,,Italy,,IT,,"25,PV",
+removed,3164909,Valgioie,,Italy,,IT,,"21,TO",
+removed,3165031,Urgnano,,Italy,,IT,,"25,BG",
+new,3165205,,Trevignano Romano,,Italy,,IT,,"62,RM"
+new,3165319,,Traona,,Italy,,IT,,"25,SO"
+new,3165404,,Torrice,,Italy,,IT,,"62,FR"
+removed,3165587,Tollegno,,Italy,,IT,,"21,BI",
+new,3165930,,Tarano,,Italy,,IT,,"62,RI"
+removed,3166024,Supersano,,Italy,,IT,,"75,LE",
+removed,3166125,Stornara,,Italy,,IT,,"75,FG",
+new,3166245,,Spinete,,Italy,,IT,,"67,CB"
+removed,3166395,Sonico,,Italy,,IT,,"25,BS",
+new,3166501,,Sirignano,,Italy,,IT,,"72,AV"
+removed,3166541,Sigillo,,Italy,,IT,,"55,PG",
+removed,3166577,Settimo Rottaro,,Italy,,IT,,"21,TO",
+new,3166656,,Serra Riccò,,Italy,,IT,,"42,GE"
+removed,3166962,Scarlino,,Italy,,IT,,"52,GR",
+new,3167128,,Sarezzo,,Italy,,IT,,"25,BS"
+removed,3167327,Santeramo in Colle,,Italy,,IT,,"75,BA",
+removed,3167439,Sant'Angelo Lodigiano,,Italy,,IT,,"25,LO",
+new,3167753,,San Salvatore Monferrato,,Italy,,IT,,"21,AL"
+removed,3167915,San Nicolò,,Italy,,IT,,"45,FE",
+removed,3167917,San Niccolò di Celle,,Italy,,IT,,"55,PG",
+removed,3168007,San Martino in Rio,,Italy,,IT,,"45,RE",
+new,3168075,,San Marco in Lamis,,Italy,,IT,,"75,FG"
+new,3168206,,San Giustino Valdarno,,Italy,,IT,,"52,AR"
+new,3168255,,San Giovanni Bianco,,Italy,,IT,,"25,BG"
+removed,3168306,San Giorgio della Richinvelda,,Italy,,IT,,"36,PN",
+new,3168438,,San Daniele del Friuli,,Italy,,IT,,"36,UD"
+removed,3168440,San Damiano d'Asti,,Italy,,IT,,"21,AT",
+removed,3168658,Salice Salentino,,Italy,,IT,,"75,LE",
+new,3168931,,Rosignano Marittimo,,Italy,,IT,,"52,LI"
+new,3168977,,Ronzone,,Italy,,IT,,"32,TN"
+removed,3169072,Rolo,,Italy,,IT,,"45,RE",
+removed,3169212,Robbio,,Italy,,IT,,"25,PV",
+removed,3169712,Quart,,Italy,,IT,,23,
+new,3169897,,Prato Sesia,,Italy,,IT,,"21,NO"
+new,3170154,,Porcia,,Italy,,IT,,"36,PN"
+removed,3170208,Pontevico,,Italy,,IT,,"25,BS",
+removed,3170214,Ponte Taro,,Italy,,IT,,"45,PR",
+new,3170346,,Pombia,,Italy,,IT,,"21,NO"
+new,3170717,,Pignola,,Italy,,IT,,"77,PZ"
+new,3170866,,Picerno,,Italy,,IT,,"77,PZ"
+new,3171230,,Perano,,Italy,,IT,,"65,CH"
+new,3171378,,Patrica,,Italy,,IT,,"62,FR"
+new,3171416,,Passirano,,Italy,,IT,,"25,BS"
+removed,3171550,Palosco,,Italy,,IT,,"25,BG",
+removed,3171558,Palombara Sabina,,Italy,,IT,,"62,RM",
+removed,3171573,Palmanova,,Italy,,IT,,"36,UD",
+removed,3171603,Paliano,,Italy,,IT,,"62,FR",
+new,3171777,,Ottiglio,,Italy,,IT,,"21,AL"
+removed,3172158,Nulvi,,Italy,,IT,,"88,SS",
+removed,3172323,Nepezzano,,Italy,,IT,,"65,TE",
+new,3172429,,Musano,,Italy,,IT,,"34,TV"
+removed,3172473,Mugnano del Cardinale,,Italy,,IT,,"72,AV",
+removed,3172502,Motta Visconti,,Italy,,IT,,"25,MI",
+removed,3172569,Morro d'Oro,,Italy,,IT,,"65,TE",
+new,3172621,,Morano sul Po,,Italy,,IT,,"21,AL"
+new,3172680,,Monticiano,,Italy,,IT,,"52,SI"
+new,3172792,,Montepulciano Stazione,,Italy,,IT,,"52,SI"
+new,3172935,,Montefano,,Italy,,IT,,"57,MC"
+new,3173145,,Monghidoro,,Italy,,IT,,"45,BO"
+new,3173169,,Mondavio,,Italy,,IT,,"57,PU"
+new,3174086,,Mango,,Italy,,IT,,"21,CN"
+removed,3174354,Madignano,,Italy,,IT,,"25,CR",
+new,3174515,,Montano Lucino,,Italy,,IT,,"25,CO"
+new,3174538,,Lozzo di Cadore,,Italy,,IT,,"34,BL"
+new,3175168,,Landriano,,Italy,,IT,,"25,PV"
+new,3175182,,Lamporecchio,,Italy,,IT,,"52,PT"
+new,3175337,,Lacchiarella,,Italy,,IT,,"25,MI"
+removed,3176486,Fumone,,Italy,,IT,,"62,FR",
+removed,3176573,Frassinoro,,Italy,,IT,,"45,MO",
+removed,3176645,Fossalta di Portogruaro,,Italy,,IT,,"34,VE",
+removed,3176757,Forenza,,Italy,,IT,,"77,PZ",
+new,3177626,,Demonte,,Italy,,IT,,"21,CN"
+new,3177632,,Dego,,Italy,,IT,,"42,SV"
+new,3177704,,Cumiana,,Italy,,IT,,"21,TO"
+new,3177906,,Costa di Mezzate,,Italy,,IT,,"25,BG"
+new,3178094,,Corinaldo,,Italy,,IT,,"57,AN"
+removed,3178151,Contursi Terme,,Italy,,IT,,"72,SA",
+removed,3178441,Collarmele,,Italy,,IT,,"65,AQ",
+removed,3178451,Colico,,Italy,,IT,,"25,LC",
+removed,3178476,Cogollo del Cengio,,Italy,,IT,,"34,VI",
+removed,3179067,Cernobbio,,Italy,,IT,,"25,CO",
+removed,3179114,Cerchio,,Italy,,IT,,"65,AQ",
+removed,3179546,Castelnovo ne' Monti,,Italy,,IT,,"45,RE",
+removed,3179683,Castel Frentano,,Italy,,IT,,"65,CH",
+removed,3179800,Cassacco,,Italy,,IT,,"36,UD",
+new,3179807,,Casorezzo,,Italy,,IT,,"25,MI"
+removed,3179835,Casnigo,,Italy,,IT,,"25,BG",
+new,3180205,,Casaleone,,Italy,,IT,,"34,VR"
+removed,3180504,Carisio,,Italy,,IT,,"21,VC",
+removed,3180772,Cantarana,,Italy,,IT,,"34,VE",
+removed,3180945,Campomarino,,Italy,,IT,,"67,CB",
+new,3181098,,Camerata Picena,,Italy,,IT,,"57,AN"
+removed,3181146,Calvi dell'Umbria,,Italy,,IT,,"55,TR",
+new,3182111,,Besozzo,,Italy,,IT,,"25,VA"
+removed,3182114,Besenello,,Italy,,IT,,"32,TN",
+new,3182502,,Bagnolo del Salento,,Italy,,IT,,"75,LE"
+removed,3182538,Bagni di Lucca,,Italy,,IT,,"52,LU",
+new,3182634,,Avigliana,,Italy,,IT,,"21,TO"
+removed,3183067,Angera,,Italy,,IT,,"25,VA",
+new,3183291,,Alfero,,Italy,,IT,,"45,FC"
+new,3183431,,Agnadello,,Italy,,IT,,"25,CR"
+new,3183492,,Acquaviva Picena,,Italy,,IT,,"57,AP"
+removed,3184517,Patos Fshat,,Albania,,AL,,04,
+removed,3184919,Linzë,,Albania,,AL,,11,
+removed,3185012,Laç,,Albania,,AL,,08,
+removed,3185211,Kavajë,,Albania,,AL,,11,
+removed,3185670,Fier-Çifçi,,Albania,,AL,,04,
+removed,3185797,Divjakë,,Albania,,AL,,04,
+new,3186607,,Železniki,,Slovenia,,SI,,146
+removed,3188516,Ulcinj,,Montenegro,,ME,,20,
+new,3190104,,Kamenitz,,Serbia,,RS,,"VO,06"
+removed,3194873,Moravče,,Slovenia,,SI,,077,
+new,3197539,,Kotlje,,Slovenia,,SI,,103
+removed,3198057,Kljajićevo,,Serbia,,RS,,"VO,05",
+removed,3198366,Kamnica,,Slovenia,,SI,,070,
+removed,3199111,Imotski,,Croatia,,HR,,17,
+removed,3199365,Hočko Pohorje,,Slovenia,,SI,,160,
+removed,3201233,Dražice,,Croatia,,HR,,08,
+removed,3201349,Dovje,,Slovenia,,SI,,053,
+removed,3201901,Dobrova,,Slovenia,,SI,,021,
+removed,3201903,Dobrota,,Montenegro,,ME,,10,
+removed,3202194,Danilovgrad,,Montenegro,,ME,,07,
+removed,3202318,Crvenka,,Serbia,,RS,,"VO,05",
+new,3202572,,Cirkovce,,Slovenia,,SI,,045
+new,3203232,,Brodski Stupnik,,Croatia,,HR,,12
+new,3203653,,Bosanska Krupa,,Bosnia and Herzegovina,,BA,,BIH
+new,3204247,,Bezina,,Slovenia,,SI,,114
+removed,3204303,Beltinci,,Slovenia,,SI,,002,
+removed,3204388,Bečići,,Montenegro,,ME,,,
+new,3206402,,Giesen,,Germany,,DE,,NI
+new,3206989,,Schwanstetten,,Germany,,DE,,BY
+removed,3208053,Florstadt,,Germany,,DE,,HE,
+new,3208313,,Balzheim,,Germany,,DE,,BW
+removed,3208355,Neuching,,Germany,,DE,,BY,
+removed,3208569,Süderdorf,,Germany,,DE,,SH,
+removed,3209435,Kämpfelbach,,Germany,,DE,,BW,
+removed,3217939,Meduna di Livenza,,Italy,,IT,,"34,TV",
+new,3218582,,Mareno di Piave,,Italy,,IT,,"34,TV"
+removed,3225774,Saint-Roman,,Monaco,,MC,,,
+new,3227384,,Røyneberg,,Norway,,NO,,11
+removed,3230352,Nykirke,,Norway,,NO,,07,
+removed,3237192,Les Creux,,Jersey,,JE,,,
+removed,3237193,Mont Fiquet,,Jersey,,JE,,,
+removed,3237197,La Moye,,Jersey,,JE,,,
+removed,3315349,Mäls,,Liechtenstein,,LI,,01,
+removed,3319177,Moneghetti,,Monaco,,MC,,,
+new,3324633,,Liebenfels,,Austria,,AT,,2
+removed,3345421,Donhead St Mary,,United Kingdom,,GB,,"ENG,WIL",
+removed,3347719,Luena,,Angola,,AO,,MOX,
+new,3364333,,Manenberg,,South Africa,,ZA,,WC
+new,3367442,,Greyton,,South Africa,,ZA,,WC
+removed,3374221,Santa Cruz,,Cabo Verde,,CV,,CR,
+removed,3375409,Vreed-en-Hoop,,Guyana,,GY,,ES,
+removed,3376520,Parika,,Guyana,,GY,,ES,
+removed,3377263,Mahdia,,Guyana,,GY,,PT,
+removed,3377265,Mahaicony Village,,Guyana,,GY,,MA,
+removed,3377301,Mabaruma,,Guyana,,GY,,BA,
+removed,3377425,Lethem,,Guyana,,GY,,UT,
+removed,3380290,Sinnamary,,French Guiana,,GF,,,
+removed,3380402,Saint-Georges,,French Guiana,,GF,,,
+removed,3380450,Roura,,French Guiana,,GF,,,
+removed,3381428,Iracoubo,,French Guiana,,GF,,,
+removed,3381538,Grand-Santi,,French Guiana,,GF,,,
+removed,3382225,Camopi,,French Guiana,,GF,,,
+removed,3382527,Apatou,,French Guiana,,GF,,,
+removed,3382783,Wageningen,,Suriname,,SR,,NI,
+removed,3383427,Nieuw Nickerie,,Suriname,,SR,,NI,
+removed,3383527,Meerzorg,,Suriname,,SR,,CM,
+removed,3383570,Mariënburg,,Suriname,,SR,,CM,
+removed,3383714,Lelydorp,,Suriname,,SR,,WA,
+removed,3384482,Brokopondo,,Suriname,,SR,,BR,
+removed,3384792,Albina,,Suriname,,SR,,MA,
+new,3385483,,Várzea,,Brazil,,BR,,PB
+new,3386027,,Triunfo,,Brazil,,BR,,PB
+new,3386075,,Três Lagoas,,Brazil,,BR,,MA
+removed,3386200,Tracunhaém,,Brazil,,BR,,PE,
+new,3387305,,Sobradinho,,Brazil,,BR,,BA
+removed,3388109,São Sebastião da Boa Vista,,Brazil,,BR,,PA,
+new,3388432,,São José do Peixe,,Brazil,,BR,,PI
+new,3388628,,São João da Varjota,,Brazil,,BR,,PI
+removed,3390364,Senador Rui Palmeira,,Brazil,,BR,,AL,
+removed,3390896,Quixeré,,Brazil,,BR,,CE,
+removed,3390944,Quixaba,,Brazil,,BR,,PB,
+removed,3391090,Quebrangulo,,Brazil,,BR,,AL,
+removed,3391130,Puxinanã,,Brazil,,BR,,PB,
+new,3391523,,Ponta de Pedras,,Brazil,,BR,,PA
+removed,3391774,Poção de Pedras,,Brazil,,BR,,MA,
+removed,3391786,Poção,,Brazil,,BR,,PE,
+new,3393011,,Pariconha,,Brazil,,BR,,AL
+removed,3393047,Paranatama,,Brazil,,BR,,PE,
+removed,3395055,Maxaranguape,,Brazil,,BR,,RN,
+removed,3395125,Matias Olímpio,,Brazil,,BR,,PI,
+new,3395908,,Magalhães de Almeida,,Brazil,,BR,,MA
+removed,3395921,Mãe d'Água,,Brazil,,BR,,PB,
+removed,3397074,Junco do Seridó,,Brazil,,BR,,PB,
+new,3397108,,Jucurutu,,Brazil,,BR,,RN
+removed,3397115,Jucati,,Brazil,,BR,,PE,
+new,3397706,,Jacuípe,,Brazil,,BR,,AL
+new,3397865,,Itaueira,,Brazil,,BR,,PI
+removed,3397884,Itararé,,Brazil,,BR,,MA,
+removed,3397906,Itapiranga,,Brazil,,BR,,AM,
+removed,3398192,Inhapi,,Brazil,,BR,,AL,
+removed,3398299,Imaculada,,Brazil,,BR,,PB,
+new,3398658,,Groaíras,,Brazil,,BR,,CE
+new,3400484,,Fartura do Piauí,,Brazil,,BR,,PI
+removed,3400905,Emas,,Brazil,,BR,,PB,
+removed,3401050,Diamante,,Brazil,,BR,,PB,
+new,3401404,,Cumaru,,Brazil,,BR,,PE
+removed,3401876,Conceição,,Brazil,,BR,,PB,
+removed,3401953,Colônia do Piauí,,Brazil,,BR,,PI,
+new,3402875,,Cariús,,Brazil,,BR,,CE
+removed,3403614,Campo Alegre do Fidalgo,,Brazil,,BR,,PI,
+removed,3404285,Cacimbas,,Brazil,,BR,,PB,
+new,3405309,,Bom Jesus,,Brazil,,BR,,PB
+removed,3407260,Ararendá,,Brazil,,BR,,CE,
+new,3411881,,Buriti do Tocantins,,Brazil,,BR,,TO
+new,3411889,,Colméia,,Brazil,,BR,,TO
+removed,3411895,Marianópolis do Tocantins,,Brazil,,BR,,TO,
+removed,3418910,Upernavik,,Greenland,,GL,,AV,
+removed,3419842,Sisimiut,,Greenland,,GL,,QE,
+removed,3420768,Qasigiannguit,,Greenland,,GL,,QT,
+removed,3421320,Nuuk,,Greenland,,GL,,KU,
+removed,3421719,Narsaq,,Greenland,,GL,,KU,
+removed,3421982,Maniitsoq,,Greenland,,GL,,QE,
+removed,3426193,Uummannaq,,Greenland,,GL,,AV,
+removed,3426466,Grytviken,,South Georgia and the South Sandwich Islands,,GS,,,
+removed,3428023,Sauce,,Argentina,,AR,,W,
+removed,3428287,Santa Lucía,,Argentina,,AR,,W,
+removed,3428492,San Roque,,Argentina,,AR,,W,
+new,3429355,,Salvador María,,Argentina,,AR,,B
+removed,3429439,Rosario del Tala,,Argentina,,AR,,E,
+new,3429843,,Pronunciamiento,,Argentina,,AR,,E
+removed,3430348,Núñez,,Argentina,,AR,,C,
+removed,3430862,Mar del Sur,,Argentina,,AR,,B,
+removed,3433720,Gorchs,,Argentina,,AR,,B,
+new,3433775,,Villa Urquiza,,Argentina,,AR,,C
+new,3433783,,General Pirán,,Argentina,,AR,,B
+removed,3435029,Domselaar,,Argentina,,AR,,B,
+new,3435050,,Dock Sud,,Argentina,,AR,,B
+new,3435315,,María Magdalena,,Argentina,,AR,,N
+removed,3435359,Coghlan,,Argentina,,AR,,C,
+removed,3441684,Mercedes,,Uruguay,,UY,,SO,
+removed,3442585,Florida,,Uruguay,,UY,,FD,
+removed,3442727,Durazno,,Uruguay,,UY,,DU,
+removed,3443758,Artigas,,Uruguay,,UY,,AR,
+new,3445054,,Modelo,,Brazil,,BR,,SC
+removed,3445745,Nova União,,Brazil,,BR,,MG,
+new,3445756,,União Paulista,,Brazil,,BR,,SP
+removed,3446015,Trombas,,Brazil,,BR,,GO,
+removed,3446860,Tapiratiba,,Brazil,,BR,,SP,
+removed,3447262,Sulina,,Brazil,,BR,,PR,
+new,3447509,,Sítio do Mato,,Brazil,,BR,,BA
+removed,3448075,Sapeaçu,,Brazil,,BR,,BA,
+new,3448224,,São Sebastião do Maranhão,,Brazil,,BR,,MG
+removed,3448320,São Romão,,Brazil,,BR,,MG,
+removed,3448336,São Pedro do Ivaí,,Brazil,,BR,,PR,
+new,3448589,,São Luís,,Brazil,,BR,,BA
+removed,3448676,São José de Ubá,,Brazil,,BR,,RJ,
+new,3449457,,Santo Inácio,,Brazil,,BR,,PR
+new,3449502,,Santo Antônio do Leverger,,Brazil,,BR,,MT
+removed,3449504,Santo Antônio do Jardim,,Brazil,,BR,,SP,
+removed,3449767,Santa Terezinha,,Brazil,,BR,,MT,
+new,3450551,,Salvador,,Brazil,,BR,,SC
+removed,3450847,Rubelita,,Brazil,,BR,,MG,
+removed,3451044,Riozinho,,Brazil,,BR,,RS,
+removed,3451049,Rio Vermelho,,Brazil,,BR,,MG,
+new,3451265,,Rio Azul,,Brazil,,BR,,PR
+removed,3452191,Putinga,,Brazil,,BR,,RS,
+new,3452381,,Pratânia,,Brazil,,BR,,SP
+new,3453297,,Pocrane,,Brazil,,BR,,MG
+removed,3453778,Pinhão,,Brazil,,BR,,SE,
+new,3454105,,Periquito,,Brazil,,BR,,MG
+new,3454839,,Posto da Mata,,Brazil,,BR,,BA
+removed,3455015,Pardinho,,Brazil,,BR,,SP,
+new,3455029,,Paratinga,,Brazil,,BR,,BA
+removed,3455351,Palminópolis,,Brazil,,BR,,GO,
+removed,3455787,Orizânia,,Brazil,,BR,,MG,
+new,3455938,,Olhos d'Água,,Brazil,,BR,,MG
+new,3456224,,Milagres,,Brazil,,BR,,BA
+new,3456270,,Nordestina,,Brazil,,BR,,BA
+removed,3456450,Mutuípe,,Brazil,,BR,,BA,
+removed,3456474,Murutinga do Sul,,Brazil,,BR,,SP,
+removed,3456639,Mosquito,,Brazil,,BR,,SC,
+removed,3457126,Mira Estrela,,Brazil,,BR,,SP,
+new,3457232,,Meridiano,,Brazil,,BR,,SP
+new,3457953,,Aurora do Tocantins,,Brazil,,BR,,TO
+new,3458153,,Materlândia,,Brazil,,BR,,MG
+new,3458446,,Lontra,,Brazil,,BR,,MG
+new,3458604,,Licínio de Almeida,,Brazil,,BR,,BA
+new,3459261,,Presidente Dutra,,Brazil,,BR,,BA
+new,3459393,,Jussari,,Brazil,,BR,,BA
+removed,3459411,Juruaia,,Brazil,,BR,,MG,
+removed,3459876,Jitaúna,,Brazil,,BR,,BA,
+new,3459944,,Jequiá da Praia,,Brazil,,BR,,AL
+new,3460529,,Itueta,,Brazil,,BR,,MG
+removed,3460734,Itaperuçu,,Brazil,,BR,,PR,
+removed,3460780,Itanhomi,,Brazil,,BR,,MG,
+removed,3460820,Itamarati de Minas,,Brazil,,BR,,MG,
+removed,3461042,Irani,,Brazil,,BR,,SC,
+new,3461063,,Ipupiara,,Brazil,,BR,,BA
+removed,3461064,Ipumirim,,Brazil,,BR,,SC,
+removed,3461289,Indiaroba,,Brazil,,BR,,SE,
+new,3461400,,Ilópolis,,Brazil,,BR,,RS
+new,3461566,,Ibirarema,,Brazil,,BR,,SP
+new,3461801,,Lunardelli,,Brazil,,BR,,PR
+removed,3461890,Guarani d'Oeste,,Brazil,,BR,,SP,
+removed,3461946,Guapirama,,Brazil,,BR,,PR,
+new,3461990,,Guairaçá,,Brazil,,BR,,PR
+removed,3462415,Glaucilândia,,Brazil,,BR,,MG,
+removed,3462473,Gentio do Ouro,,Brazil,,BR,,BA,
+removed,3463187,Fontoura Xavier,,Brazil,,BR,,RS,
+removed,3463228,Flórida Paulista,,Brazil,,BR,,SP,
+removed,3463444,Fênix,,Brazil,,BR,,PR,
+removed,3464075,Erebango,,Brazil,,BR,,RS,
+new,3464104,,Entre-Ijuís,,Brazil,,BR,,RS
+new,3464200,,Engenheiro Navarro,,Brazil,,BR,,MG
+removed,3464381,Dumont,,Brazil,,BR,,SP,
+new,3464630,,Dobrada,,Brazil,,BR,,SP
+removed,3464735,Diamante do Sul,,Brazil,,BR,,PR,
+removed,3464873,Damianópolis,,Brazil,,BR,,GO,
+new,3465157,,Cristianópolis,,Brazil,,BR,,GO
+removed,3465184,Crisópolis,,Brazil,,BR,,BA,
+removed,3465253,Couto de Magalhães de Minas,,Brazil,,BR,,MG,
+new,3465373,,Correntina,,Brazil,,BR,,BA
+new,3465439,,Córrego do Ouro,,Brazil,,BR,,GO
+removed,3465495,Coroados,,Brazil,,BR,,SP,
+new,3465642,,Conselheiro Mairinck,,Brazil,,BR,,PR
+new,3465765,,Conceição das Pedras,,Brazil,,BR,,MG
+removed,3465858,Comercinho,,Brazil,,BR,,MG,
+removed,3466396,Cerro Grande do Sul,,Brazil,,BR,,RS,
+new,3466436,,Ceres,,Brazil,,BR,,GO
+removed,3467301,Capetinga,,Brazil,,BR,,MG,
+new,3467546,,Candiba,,Brazil,,BR,,BA
+new,3467931,,Campanário,,Brazil,,BR,,MG
+new,3468296,,Cafelândia,,Brazil,,BR,,SP
+removed,3468641,Cabeceiras,,Brazil,,BR,,GO,
+removed,3468689,Caatiba,,Brazil,,BR,,BA,
+new,3469043,,Braúnas,,Brazil,,BR,,MG
+new,3469045,,Braúna,,Brazil,,BR,,SP
+new,3469095,,Braga,,Brazil,,BR,,RS
+removed,3470386,Barro Preto,,Brazil,,BR,,BA,
+new,3471826,,Aramari,,Brazil,,BR,,BA
+new,3472804,,Aiquara,,Brazil,,BR,,BA
+new,3473086,,Água Boa,,Brazil,,BR,,MG
+removed,3487903,Alto Barinas,,Venezuela,,VE,,E,
+removed,3488081,,,Jamaica,,JM,,10,
+removed,3491941,Villa Francisca,,Dominican Republic,,DO,,01,
+removed,3491948,Villa Bisonó,,Dominican Republic,,DO,,25,
+removed,3514433,Xochitlan Todos Santos,,Mexico,,MX,,PUE,
+new,3515004,,Tuxtla,,Mexico,,MX,,PUE
+removed,3515330,Tochtepec,,Mexico,,MX,,PUE,
+removed,3515359,,,Mexico,,MX,,TLA,
+new,3515504,,Tizimín,,Mexico,,MX,,YUC
+removed,3515746,Tetipac,,Mexico,,MX,,GRO,
+removed,3515827,Tepotzotlán,,Mexico,,MX,,MEX,
+new,3516127,,Tecozautla,,Mexico,,MX,,HID
+new,3516191,,Tecali,,Mexico,,MX,,PUE
+new,3516265,,Tapachula,,Mexico,,MX,,TAB
+new,3516948,,Santiago Jamiltepec,,Mexico,,MX,,OAX
+removed,3517095,Santa Rita Tlahuapan,,Mexico,,MX,,PUE,
+new,3517830,,San Salvador el Verde,,Mexico,,MX,,PUE
+new,3517831,,San Salvador El Seco,,Mexico,,MX,,PUE
+new,3518695,,San Juan del Río,,Mexico,,MX,,OAX
+removed,3519227,San Gaspar Tonatico,,Mexico,,MX,,MEX,
+removed,3519434,San Felipe,,Mexico,,MX,,SLP,
+removed,3519458,Cuautempan,,Mexico,,MX,,PUE,
+removed,3519909,San Andrés Timilpan,,Mexico,,MX,,MEX,
+removed,3519930,San Andrés Calpan,,Mexico,,MX,,PUE,
+new,3520876,,Rafael J. García,,Mexico,,MX,,PUE
+new,3520922,,Quechultenango,,Mexico,,MX,,GRO
+removed,3521825,Paso de Ovejas,,Mexico,,MX,,VER,
+new,3522265,,Otumba,,Mexico,,MX,,MEX
+new,3523120,,Santa María Mixtequilla,,Mexico,,MX,,OAX
+removed,3523301,Metepec,,Mexico,,MX,,HID,
+removed,3524527,La Trinitaria,,Mexico,,MX,,CHP,
+new,3526284,,Kinchil,,Mexico,,MX,,YUC
+removed,3526591,Jaltocan,,Mexico,,MX,,HID,
+removed,3528750,El Marqués,,Mexico,,MX,,HID,
+removed,3529989,Cuautepec de Hinojosa,,Mexico,,MX,,HID,
+removed,3530123,Coyotepec,,Mexico,,MX,,MEX,
+removed,3530585,Ciudad Satélite,,Mexico,,MX,,MEX,
+new,3530592,,Ciudad Mendoza,,Mexico,,MX,,VER
+removed,3531574,Cárdenas,,Mexico,,MX,,SLP,
+new,3532287,,Benito Juárez,,Mexico,,MX,,OAX
+removed,3532465,Bacalar,,Mexico,,MX,,ROO,
+removed,3532975,Alto Lucero,,Mexico,,MX,,VER,
+removed,3533466,Acapetahua,,Mexico,,MX,,CHP,
+removed,3537906,Santa Clara,,Cuba,,CU,,05,
+removed,3538803,San Miguel del Padrón,,Cuba,,CU,,03,
+removed,3540667,Sancti Spíritus,,Cuba,,CU,,07,
+removed,3543299,Puerto Padre,,Cuba,,CU,,10,
+removed,3544091,Pinar del Río,,Cuba,,CU,,01,
+removed,3545064,Palma Soriano,,Cuba,,CU,,13,
+removed,3546791,Moa,,Cuba,,CU,,11,
+removed,3547398,Matanzas,,Cuba,,CU,,04,
+removed,3547867,Manzanillo,,Cuba,,CU,,12,
+removed,3550598,Las Tunas,,Cuba,,CU,,10,
+removed,3557347,Güira de Melena,,Cuba,,CU,,15,
+removed,3557689,Guantánamo,,Cuba,,CU,,14,
+removed,3557846,Guanabacoa,,Cuba,,CU,,03,
+removed,3563504,Contramaestre,,Cuba,,CU,,13,
+removed,3564124,Cienfuegos,,Cuba,,CU,,06,
+removed,3564178,Ciego de Ávila,,Cuba,,CU,,08,
+removed,3564436,Cerro,,Cuba,,CU,,03,
+removed,3565432,Cárdenas,,Cuba,,CU,,04,
+removed,3566067,Camagüey,,Cuba,,CU,,09,
+removed,3567597,Bayamo,,Cuba,,CU,,12,
+removed,3568342,Arroyo Naranjo,,Cuba,,CU,,03,
+removed,3569928,Sainte-Luce,,Martinique,,MQ,,,
+removed,3569970,Rivière-Pilote,,Martinique,,MQ,,,
+removed,3570392,Le Vauclin,,Martinique,,MQ,,,
+removed,3570426,Le Marin,,Martinique,,MQ,,,
+removed,3572972,,,Bermuda,,BM,,WA,
+removed,3572974,Warwick Camp,,Bermuda,,BM,,WA,
+removed,3572988,Tucker's Town,,Bermuda,,BM,,SG,
+removed,3573029,Somerset,,Bermuda,,BM,,SA,
+removed,3573031,,,Bermuda,,BM,,SM,
+removed,3573289,Chelston,,Bermuda,,BM,,PG,
+removed,3573304,Cashew City,,Bermuda,,BM,,SG,
+removed,3573307,Camden,,Bermuda,,BM,,PG,
+removed,3573339,Bethaven,,Bermuda,,BM,,DS,
+removed,3573362,White Hill,,Anguilla,,AI,,,
+removed,3573364,West End Village,,Anguilla,,AI,,,
+removed,3573368,Welches Hill,,Anguilla,,AI,,,
+removed,3573369,Wattices,,Anguilla,,AI,,,
+removed,3573375,The Quarter,,Anguilla,,AI,,,
+removed,3573376,The Fountain,,Anguilla,,AI,,,
+removed,3573377,The Forest,,Anguilla,,AI,,,
+removed,3573378,Farrington,,Anguilla,,AI,,,
+removed,3573379,The Copse,,Anguilla,,AI,,,
+removed,3573380,Stoney Ground,,Anguilla,,AI,,,
+removed,3573385,South Hill Village,,Anguilla,,AI,,,
+removed,3573390,Shoal Bay Village,,Anguilla,,AI,,,
+removed,3573407,Sandy Ground Village,,Anguilla,,AI,,,
+removed,3573496,Blowing Point Village,,Anguilla,,AI,,,
+new,3573560,,Valencia,,Trinidad and Tobago,,TT,,SGE
+removed,3573840,Rio Claro,,Trinidad and Tobago,,TT,,MRC,
+removed,3573989,Paradise,,Trinidad and Tobago,,TT,,TUP,
+removed,3574116,Mon Repos,,Trinidad and Tobago,,TT,,SFO,
+removed,3574536,Fyzabad,,Trinidad and Tobago,,TT,,SIP,
+removed,3575284,Monkey Hill,,Saint Kitts and Nevis,,KN,,11,
+removed,3576686,Gros Islet,,Saint Lucia,,LC,,06,
+removed,3577058,Westpunt,,Aruba,,AW,,,
+removed,3577060,Wayaca,,Aruba,,AW,,,
+removed,3577061,Washington,,Aruba,,AW,,,
+removed,3577071,Tarabana,,Aruba,,AW,,,
+removed,3577072,Tanki Leendert,,Aruba,,AW,,,
+removed,3577073,Tanki Flip,,Aruba,,AW,,,
+removed,3577075,Tamarijn,,Aruba,,AW,,,
+removed,3577083,Solito,,Aruba,,AW,,,
+removed,3577084,Soledad,,Aruba,,AW,,,
+removed,3577086,Siribana,,Aruba,,AW,,,
+removed,3577089,San Nicolas,,Aruba,,AW,,,
+removed,3577102,Santa Cruz,,Aruba,,AW,,,
+removed,3577107,Savaneta,,Aruba,,AW,,,
+removed,3577150,Paradera,,Aruba,,AW,,,
+removed,3577152,Palm Beach,,Aruba,,AW,,,
+removed,3577311,Wesley Will,,British Virgin Islands,,VG,,,
+removed,3577349,Threllfall,,British Virgin Islands,,VG,,,
+removed,3577351,The Settlement,,British Virgin Islands,,VG,,,
+removed,3577352,The Mill,,British Virgin Islands,,VG,,,
+removed,3577369,Spanish Town,,British Virgin Islands,,VG,,,
+removed,3577371,South Sound,,British Virgin Islands,,VG,,,
+removed,3577498,Maya Cove,,British Virgin Islands,,VG,,,
+removed,3577522,Long Swamp,,British Virgin Islands,,VG,,,
+removed,3577541,Little Harbour,,British Virgin Islands,,VG,,,
+removed,3577545,Little Carrot Bay,,British Virgin Islands,,VG,,,
+removed,3577555,Lettsome Settlement,,British Virgin Islands,,VG,,,
+removed,3577556,Leonards,,British Virgin Islands,,VG,,,
+removed,3577973,Zion Hill,,Montserrat,,MS,,,
+removed,3577978,Woodlands,,Montserrat,,MS,,,
+removed,3577979,Windy Hill,,Montserrat,,MS,,,
+removed,3577987,Weekes,,Montserrat,,MS,,,
+removed,3577989,Webbs,,Montserrat,,MS,,,
+removed,3577992,Virgin Islands,,Montserrat,,MS,,,
+removed,3577993,Victoria,,Montserrat,,MS,,,
+removed,3578000,Tuitt's,,Montserrat,,MS,,,
+removed,3578037,Salem,,Montserrat,,MS,,,
+removed,3578041,Saint John's Village,,Montserrat,,MS,,,
+removed,3578160,Gerald's,,Montserrat,,MS,,,
+removed,3579267,Gourbeyre,,Guadeloupe,,GP,,,
+removed,3580471,Whitehall Estates,,Cayman Islands,,KY,,,
+removed,3580484,Water Ground,,Cayman Islands,,KY,,,
+removed,3580488,Vicksville,,Cayman Islands,,KY,,,
+removed,3580489,Upper Land,,Cayman Islands,,KY,,,
+removed,3580490,Tropical Gardens,,Cayman Islands,,KY,,,
+removed,3580491,Town Hall Crescent,,Cayman Islands,,KY,,,
+removed,3580494,Tibbetts Turn,,Cayman Islands,,KY,,,
+removed,3580497,The Moorings,,Cayman Islands,,KY,,,
+removed,3580510,Spot Bay,,Cayman Islands,,KY,,,
+removed,3580575,North Side,,Cayman Islands,,KY,,,
+removed,3580678,East End,,Cayman Islands,,KY,,,
+removed,3583379,San Rafael Oriente,,El Salvador,,SV,,SM,
+new,3583747,,San Francisco,,El Salvador,,SV,,MO
+removed,3585473,Izalco,,El Salvador,,SV,,SO,
+removed,3585484,Ilopango,,El Salvador,,SV,,SS,
+removed,3587086,Chalchuapa,,El Salvador,,SV,,SA,
+removed,3587308,Ayutuxtepeque,,El Salvador,,SV,,SS,
+removed,3587428,Aguilares,,El Salvador,,SV,,SS,
+removed,3588258,Totonicapán,,Guatemala,,GT,,08,
+removed,3588698,Sololá,,Guatemala,,GT,,07,
+removed,3589404,Santa Cruz del Quiché,,Guatemala,,GT,,14,
+removed,3589801,,,Guatemala,,GT,,12,
+removed,3589977,San José Pinula,,Guatemala,,GT,,01,
+removed,3590616,Salamá,,Guatemala,,GT,,15,
+removed,3590858,Retalhuleu,,Guatemala,,GT,,11,
+removed,3592753,Malacatán,,Guatemala,,GT,,12,
+removed,3598529,Chinautla,,Guatemala,,GT,,01,
+removed,3599735,Amatitlán,,Guatemala,,GT,,01,
+removed,3601517,Santa Rita,,Honduras,,HN,,YO,
+removed,3601691,Santa Bárbara,,Honduras,,HN,,SB,
+removed,3601977,San Lorenzo,,Honduras,,HN,,VA,
+removed,3603330,Potrerillos,,Honduras,,HN,,CR,
+removed,3604251,Olanchito,,Honduras,,HN,,YO,
+removed,3608834,Intibucá,,Honduras,,HN,,IN,
+removed,3609418,Guaimaca,,Honduras,,HN,,FM,
+removed,3610965,El Paraíso,,Honduras,,HN,,EP,
+new,3613230,,Copán,,Honduras,,HN,,CP
+removed,3616594,San Rafael del Sur,,Nicaragua,,NI,,MN,
+removed,3616682,San Marcos,,Nicaragua,,NI,,CA,
+removed,3617095,Rama,,Nicaragua,,NI,,AS,
+removed,3617154,Puerto Cabezas,,Nicaragua,,NI,,AN,
+removed,3617448,Ocotal,,Nicaragua,,NI,,NS,
+removed,3617459,Nueva Guinea,,Nicaragua,,NI,,AS,
+removed,3617513,Nandaime,,Nicaragua,,NI,,GR,
+removed,3617522,Nagarote,,Nicaragua,,NI,,LE,
+removed,3617697,Mateare,,Nicaragua,,NI,,MN,
+removed,3617725,Masatepe,,Nicaragua,,NI,,MS,
+removed,3618411,La Paz Centro,,Nicaragua,,NI,,LE,
+removed,3618954,Jalapa,,Nicaragua,,NI,,NS,
+removed,3619267,El Viejo,,Nicaragua,,NI,,CI,
+removed,3620390,Chichigalpa,,Nicaragua,,NI,,CI,
+removed,3620674,Boaco,,Nicaragua,,NI,,BO,
+new,3621278,,Tilaran,,Costa Rica,,CR,,G
+new,3623601,,Guácimo,,Costa Rica,,CR,,L
+removed,3624184,Playas del Coco,,Costa Rica,,CR,,G,
+new,3626047,,Tovar Municipality,,Venezuela,,VE,,L
+removed,3628411,San Félix,,Venezuela,,VE,,S,
+removed,3630297,Petare,,Venezuela,,VE,,M,
+new,3631247,,Ortiz,,Venezuela,,VE,,J
+new,3632297,,Mesa de Cavacas,,Venezuela,,VE,,P
+new,3632910,,Marigüitar,,Venezuela,,VE,,R
+new,3633376,,Magdaleno,,Venezuela,,VE,,D
+new,3646452,,El Carrizal,,Venezuela,,VE,,K
+removed,3648439,Baruta,,Venezuela,,VE,,M,
+new,3650616,,Tixán,,Ecuador,,EC,,H
+removed,3652257,Rosa Zarate,,Ecuador,,EC,,E,
+new,3652362,,Ricaurte,,Ecuador,,EC,,R
+new,3652583,,Puyo,,Ecuador,,EC,,A
+removed,3653287,Pelileo,,Ecuador,,EC,,T,
+new,3654367,,Marcabelí,,Ecuador,,EC,,O
+new,3655394,,Julio Andrade,,Ecuador,,EC,,C
+removed,3659592,Catarama,,Ecuador,,EC,,R,
+removed,3660211,Biblián,,Ecuador,,EC,,F,
+new,3665689,,Yopal,,Colombia,,CO,,TOL
+removed,3666313,,,Colombia,,CO,,VAC,
+removed,3666381,Urumita,,Colombia,,CO,,LAG,
+removed,3666410,Uribia,,Colombia,,CO,,MAG,
+new,3667286,,Teorama,,Colombia,,CO,,NSA
+new,3667290,,Tenjo,,Colombia,,CO,,CUN
+new,3667473,,Támesis,,Colombia,,CO,,ANT
+new,3667697,,Supía,,Colombia,,CO,,CAL
+removed,3667728,Sucre,,Colombia,,CO,,SUC,
+new,3668175,,Segovia,,Colombia,,CO,,ANT
+new,3670000,,San Carlos,,Colombia,,CO,,ANT
+new,3670260,,San Agustín,,Colombia,,CO,,HUI
+removed,3670447,Saboyá,,Colombia,,CO,,BOY,
+new,3670849,,Retiro,,Colombia,,CO,,ANT
+new,3671047,,Quito,,Colombia,,CO,,CUN
+new,3671540,,Puerto Berrío,,Colombia,,CO,,ANT
+new,3673369,,Paipa,,Colombia,,CO,,BOY
+removed,3673829,Nobsa,,Colombia,,CO,,BOY,
+new,3674572,,Moniquirá,,Colombia,,CO,,BOY
+removed,3674960,Medellín,,Colombia,,CO,,CES,
+removed,3674961,Medellín,,Colombia,,CO,,COR,
+new,3676846,,Vega de Los Padres,,Colombia,,CO,,TOL
+removed,3678510,Puerto Nare,,Colombia,,CO,,ANT,
+new,3680840,,Honda,,Colombia,,CO,,TOL
+removed,3680944,Hatonuevo,,Colombia,,CO,,LAG,
+new,3686233,,Circasia,,Colombia,,CO,,QUI
+new,3686793,,Chaparral,,Colombia,,CO,,TOL
+new,3688466,,Bucaramanga,,Colombia,,CO,,CUN
+removed,3688840,Betulia,,Colombia,,CO,,ANT,
+new,3689819,,Santafé de Antioquia,,Colombia,,CO,,ANT
+removed,3693826,Pátapo,,Peru,,PE,,LAM,
+removed,3701917,Río Abajo,,Panama,,PA,,8,
+removed,3703227,Pedregal,,Panama,,PA,,8,
+removed,3703346,Parque Lefevre,,Panama,,PA,,8,
+removed,3706567,Las Cumbres,,Panama,,PA,,8,
+removed,3712884,Cativá,,Panama,,PA,,3,
+new,3739628,,Puerto Morelos,,Mexico,,MX,,ROO
+removed,3740110,Creek Village,,British Virgin Islands,,VG,,,
+removed,3746181,Ciudad Camilo Cienfuegos,,Cuba,,CU,,03,
+removed,3746183,Centro Habana,,Cuba,,CU,,03,
+removed,3746184,La Habana Vieja,,Cuba,,CU,,03,
+new,3757267,,El Piñal,,Venezuela,,VE,,S
+new,3795620,,La Tendida,,Venezuela,,VE,,S
+new,3801642,,Santa María Jalapa del Marqués,,Mexico,,MX,,OAX
+new,3814972,,Atlangatepec,,Mexico,,MX,,TLA
+removed,3823118,Veracruz,,Mexico,,MX,,ROO,
+removed,3827451,Lomas de Tecamachalco,,Mexico,,MX,,MEX,
+new,3828164,,Arauca,,Colombia,,CO,,HUI
+removed,3828262,Ciudad Sandino,,Nicaragua,,NI,,MN,
+new,3828795,,Calima,,Colombia,,CO,,VAC
+new,3832648,,Villa Reducción,,Argentina,,AR,,X
+removed,3832681,Villa Media Agua,,Argentina,,AR,,J,
+new,3834339,,Tío Pujio,,Argentina,,AR,,X
+removed,3835024,Stroeder,,Argentina,,AR,,B,
+new,3835617,,Sauce Viejo,,Argentina,,AR,,S
+new,3835883,,Santa Trinidad,,Argentina,,AR,,B
+new,3837366,,San José,,Argentina,,AR,,M
+new,3837506,,San Isidro,,Argentina,,AR,,K
+removed,3840080,Puerto San Martín,,Argentina,,AR,,S,
+removed,3841744,Pavón Arriba,,Argentina,,AR,,S,
+removed,3853447,Juan Bautista Alberdi,,Argentina,,AR,,B,
+removed,3853754,Santa Lucía,,Argentina,,AR,,T,
+new,3855131,,General Baldissera,,Argentina,,AR,,X
+removed,3855368,Fray Luis Beltrán,,Argentina,,AR,,R,
+removed,3860217,Coronda,,Argentina,,AR,,S,
+removed,3860810,Colonia Belgrano,,Argentina,,AR,,S,
+new,3863777,,Buenos Aires,,Argentina,,AR,,G
+removed,3866000,Aluminé,,Argentina,,AR,,Q,
+removed,3866465,Aimogasta,,Argentina,,AR,,F,
+removed,3866923,Adolfo Gonzáles Chaves,,Argentina,,AR,,B,
+removed,3868708,Valdivia,,Chile,,CL,,ML,
+removed,3873958,Quirihue,,Chile,,CL,,NB,
+new,3876729,,Pemuco,,Chile,,CL,,NB
+new,3894406,,Coihueco,,Chile,,CL,,NB
+removed,3901178,Yacuiba,,Bolivia,,BO,,T,
+removed,3901435,Vinto,,Bolivia,,BO,,C,
+removed,3901501,Villazón,,Bolivia,,BO,,P,
+removed,3901547,Villamontes,,Bolivia,,BO,,T,
+removed,3901742,Viacha,,Bolivia,,BO,,L,
+removed,3902377,Trinidad,,Bolivia,,BO,,B,
+removed,3902949,Tiquipaya,,Bolivia,,BO,,C,
+removed,3910027,Montero,,Bolivia,,BO,,S,
+removed,3910291,Mizque,,Bolivia,,BO,,C,
+removed,3911409,Llallagua,,Bolivia,,BO,,P,
+removed,3922037,Caranavi,,Bolivia,,BO,,L,
+removed,3923154,Bermejo,,Bolivia,,BO,,T,
+new,3931255,,Punta de Bombón,,Peru,,PE,,ARE
+removed,3935572,Mala,,Peru,,PE,,LIM,
+removed,3942666,Cerro Colorado,,Peru,,PE,,ARE,
+new,3957244,,Lima,,Peru,,PE,,ARE
+removed,3969387,Theobroma,,Brazil,,BR,,RO,
+new,3979666,,Zináparo,,Mexico,,MX,,MIC
+removed,3980125,Villa Unión,,Mexico,,MX,,SIN,
+removed,3980391,San Gabriel,,Mexico,,MX,,JAL,
+removed,3980841,Tuxpan,,Mexico,,MX,,NAY,
+new,3981367,,Tonalá,,Mexico,,MX,,ZAC
+new,3981407,,Tolimán,,Mexico,,MX,,JAL
+new,3981491,,Tizapán el Alto,,Mexico,,MX,,JAL
+removed,3982168,Tecuala,,Mexico,,MX,,NAY,
+new,3982846,,,,Mexico,,MX,,SON
+removed,3984074,Santa María del Río,,Mexico,,MX,,SLP,
+removed,3984629,Santa Bárbara,,Mexico,,MX,,CHH,
+removed,3985846,San Juan de Sabinas,,Mexico,,MX,,COA,
+removed,3987500,San Buenaventura,,Mexico,,MX,,COA,
+new,3993519,,Panindícuaro,,Mexico,,MX,,MIC
+new,3994912,,Nochistlán de Mejía,,Mexico,,MX,,ZAC
+removed,3996956,Madera,,Mexico,,MX,,CHH,
+removed,4001460,La Manzanilla de la Paz,,Mexico,,MX,,JAL,
+new,4003582,,Ascensión,,Mexico,,MX,,CHH
+new,4004092,,Jaral del Progreso,,Mexico,,MX,,GUA
+new,4004529,,Huimilpan,,Mexico,,MX,,QUE
+new,4005857,,Vicente Guerrero,,Mexico,,MX,,DUR
+new,4007858,,El Roble,,Mexico,,MX,,SIN
+new,4009478,,El León,,Mexico,,MX,,CHH
+removed,4010273,El Colomo,,Mexico,,MX,,COL,
+new,4010675,,El Carmen,,Mexico,,MX,,SLP
+new,4011873,,Doctor Arroyo,,Mexico,,MX,,NLE
+removed,4013966,Churintzio,,Mexico,,MX,,MIC,
+removed,4015471,Carácuaro de Morelos,,Mexico,,MX,,MIC,
+new,4019790,,Acatlán de Juárez,,Mexico,,MX,,JAL
+new,4024841,,La Paz,,Mexico,,MX,,GUA
+removed,4025994,Coahuayana de Hidalgo,,Mexico,,MX,,MIC,
+removed,4031112,,,Tokelau,,TK,,F,
+removed,4031141,Omoka,,Cook Islands,,CK,,,
+removed,4032243,Vainī,,Tonga,,TO,,04,
+removed,4032369,Pangai,,Tonga,,TO,,02,
+removed,4032411,Niutoua,,Tonga,,TO,,04,
+removed,4032420,Neiafu,,Tonga,,TO,,05,
+removed,4032496,Malapo,,Tonga,,TO,,04,
+removed,4032543,Lapaha,,Tonga,,TO,,04,
+removed,4032566,Kolonga,,Tonga,,TO,,04,
+removed,4032606,Houma,,Tonga,,TO,,04,
+removed,4032613,Holonga,,Tonga,,TO,,04,
+removed,4032619,Hihifo,,Tonga,,TO,,03,
+removed,4032623,Haveluloto,,Tonga,,TO,,04,
+removed,4032670,Fangale'ounga,,Tonga,,TO,,02,
+removed,4033013,,,New Zealand,,NZ,,CIT,
+removed,4033077,Vaitape,,French Polynesia,,PF,,S,
+removed,4033205,Uturoa,,French Polynesia,,PF,,S,
+removed,4033566,Taunoa,,French Polynesia,,PF,,V,
+removed,4033779,Punaauia,,French Polynesia,,PF,,V,
+removed,4033838,Pirae,,French Polynesia,,PF,,V,
+removed,4033951,Papao,,French Polynesia,,PF,,V,
+removed,4033958,Paopao,,French Polynesia,,PF,,V,
+removed,4034005,Paea,,French Polynesia,,PF,,V,
+removed,4034022,Otutara,,French Polynesia,,PF,,V,
+removed,4034307,Mahina,,French Polynesia,,PF,,V,
+removed,4034438,Haapiti,,French Polynesia,,PF,,V,
+removed,4034636,Arue,,French Polynesia,,PF,,V,
+removed,4034745,Afaahiti,,French Polynesia,,PF,,V,
+removed,4034903,Vaiusu,,Samoa,,WS,,TU,
+removed,4034924,Vailima,,Samoa,,WS,,TU,
+removed,4035013,Solosolo,,Samoa,,WS,,AT,
+removed,4035019,Siusega,,Samoa,,WS,,TU,
+removed,4035059,Satapuala,,Samoa,,WS,,AA,
+removed,4035174,Nofoali`i,,Samoa,,WS,,AA,
+removed,4035196,Mulifanua,,Samoa,,WS,,AL,
+removed,4035217,Matatufu,,Samoa,,WS,,AT,
+removed,4035236,Malie,,Samoa,,WS,,TU,
+removed,4035260,Leulumoega,,Samoa,,WS,,AA,
+removed,4035335,Fasito`outa,,Samoa,,WS,,AA,
+removed,4035345,Faleula,,Samoa,,WS,,,
+removed,4035358,Falefa,,Samoa,,WS,,AT,
+removed,4035432,Afega,,Samoa,,WS,,TU,
+removed,4035447,Vaipae,,Cook Islands,,CK,,,
+removed,4035463,Tukao,,Cook Islands,,CK,,,
+removed,4035481,Titikaveka,,Cook Islands,,CK,,,
+removed,4035494,Tengatangi Village,,Cook Islands,,CK,,,
+removed,4035509,Teenui Village,,Cook Islands,,CK,,,
+removed,4035523,Tauhunu,,Cook Islands,,CK,,,
+removed,4035530,Tamarua Village,,Cook Islands,,CK,,,
+removed,4035601,Oneroa,,Cook Islands,,CK,,,
+removed,4035612,Nukuao,,Cook Islands,,CK,,,
+removed,4035755,Amuri,,Cook Islands,,CK,,,
+removed,4036203,Vili,,Niue,,NU,,,
+removed,4036207,Vahavaha,,Niue,,NU,,,
+removed,4036212,Tuapa,,Niue,,NU,,,
+removed,4036214,Toi,,Niue,,NU,,,
+removed,4036222,Taoli,,Niue,,NU,,,
+removed,4036234,Mutalau,,Niue,,NU,,,
+removed,4036246,Mamakula,,Niue,,NU,,,
+removed,4036247,Makefu,,Niue,,NU,,,
+removed,4036255,Liku Village,,Niue,,NU,,,
+removed,4036261,Lakepa,,Niue,,NU,,,
+removed,4036267,Hikutivake,,Niue,,NU,,,
+removed,4036268,Hakupu,,Niue,,NU,,,
+removed,4036274,Fatiau,,Niue,,NU,,,
+removed,4036279,Avatele,,Niue,,NU,,,
+removed,4036778,Ngchesar Hamlet,,Palau,,PW,,226,
+removed,4038014,Ngerkeai,,Palau,,PW,,228,
+removed,4038170,Mengellang,,Palau,,PW,,218,
+removed,4041552,,,Northern Mariana Islands,,MP,,S,
+removed,4041575,Pagan Village,,Northern Mariana Islands,,MP,,N,
+new,4049908,,Vass,,United States,,US,,NC
+removed,4055294,Chunchula,,United States,,US,,AL,
+removed,4056118,Coffeeville,,United States,,US,,AL,
+new,4058434,,Dawson,,United States,,US,,AL
+new,4059229,,Dozier,,United States,,US,,AL
+removed,4060847,Equality,,United States,,US,,AL,
+removed,4063555,Fulton,,United States,,US,,AL,
+new,4066492,,Hatchechubbee,,United States,,US,,AL
+removed,4071837,Lapine,,United States,,US,,AL,
+new,4073889,,Lowndesboro,,United States,,US,,AL
+removed,4074650,Marion Junction,,United States,,US,,AL,
+new,4078958,,Muscadine,,United States,,US,,AL
+new,4083725,,Pisgah,,United States,,US,,AL
+removed,4088973,Seale,,United States,,US,,AL,
+new,4096497,,Waterloo,,United States,,US,,AL
+new,4103104,,Brockwell,,United States,,US,,AR
+new,4103678,,Bull Shoals,,United States,,US,,AR
+new,4105824,,Clarendon,,United States,,US,,AR
+removed,4106025,Cleveland,,United States,,US,,AR,
+new,4106336,,Colt,,United States,,US,,AR
+removed,4107903,Decatur,,United States,,US,,AR,
+new,4114092,,Hattieville,,United States,,US,,AR
+removed,4116746,Joiner,,United States,,US,,AR,
+new,4119835,,Lonsdale,,United States,,US,,AR
+removed,4120104,Luxora,,United States,,US,,AR,
+new,4121185,,McRae,,United States,,US,,AR
+removed,4123473,New Blaine,,United States,,US,,AR,
+removed,4130357,Scott,,United States,,US,,AR,
+removed,4134993,Waldo,,United States,,US,,AR,
+new,4150411,,Center Hill,,United States,,US,,FL
+new,4152043,,Cottondale,,United States,,US,,FL
+new,4157193,,Graceville,,United States,,US,,FL
+new,4163232,,Malabar,,United States,,US,,FL
+new,4163989,,Melrose,,United States,,US,,FL
+removed,4176407,Vernon,,United States,,US,,FL,
+removed,4178040,Westville,,United States,,US,,FL,
+new,4179213,,Adrian,,United States,,US,,GA
+removed,4188682,Cohutta,,United States,,US,,GA,
+removed,4188852,Collins,,United States,,US,,GA,
+new,4189003,,Comer,,United States,,US,,GA
+new,4189960,,Crawfordville,,United States,,US,,GA
+new,4193464,,Enigma,,United States,,US,,GA
+new,4195511,,Flovilla,,United States,,US,,GA
+new,4205541,,Lexington,,United States,,US,,GA
+removed,4207625,Manchester,,United States,,US,,GA,
+new,4208556,,McIntyre,,United States,,US,,GA
+removed,4213700,Oakfield,,United States,,US,,GA,
+new,4214292,,Omaha,,United States,,US,,GA
+new,4214538,,Oxford,,United States,,US,,GA
+removed,4216398,Pitts,,United States,,US,,GA,
+new,4223871,,Sparks,,United States,,US,,GA
+removed,4225658,Tallapoosa,,United States,,US,,GA,
+new,4227521,,Twin City,,United States,,US,,GA
+removed,4231738,Woodbury,,United States,,US,,GA,
+new,4232522,,Addieville,,United States,,US,,IL
+new,4234125,,Bluffs,,United States,,US,,IL
+new,4234436,,Brighton,,United States,,US,,IL
+removed,4234762,Buffalo,,United States,,US,,IL,
+removed,4235730,Chesterfield,,United States,,US,,IL,
+removed,4236454,Coulterville,,United States,,US,,IL,
+removed,4236768,Cutler,,United States,,US,,IL,
+removed,4238226,Farmersville,,United States,,US,,IL,
+removed,4241607,Irving,,United States,,US,,IL,
+removed,4242062,Kane,,United States,,US,,IL,
+new,4242202,,Keyesport,,United States,,US,,IL
+new,4243740,,Madison,,United States,,US,,IL
+removed,4245490,New Burnside,,United States,,US,,IL,
+new,4247080,,Plainville,,United States,,US,,IL
+removed,4248128,Ridgway,,United States,,US,,IL,
+new,4248341,,Rockport,,United States,,US,,IL
+new,4248437,,Rosamond,,United States,,US,,IL
+new,4251966,,Vergennes,,United States,,US,,IL
+new,4253187,,Willisville,,United States,,US,,IL
+removed,4255571,Cedar Grove,,United States,,US,,IN,
+new,4256583,,Depauw,,United States,,US,,IN
+removed,4256832,Dugger,,United States,,US,,IN,
+removed,4257137,Elnora,,United States,,US,,IN,
+removed,4257731,Fredericksburg,,United States,,US,,IN,
+new,4257790,,Friendship,,United States,,US,,IN
+removed,4257900,Gentryville,,United States,,US,,IN,
+removed,4258799,Henryville,,United States,,US,,IN,
+removed,4261025,Marshall,,United States,,US,,IN,
+removed,4262143,New Ross,,United States,,US,,IN,
+removed,4263523,Ramsey,,United States,,US,,IN,
+removed,4264696,Shelburn,,United States,,US,,IN,
+new,4264755,,Shirley,,United States,,US,,IN
+removed,4268140,Bendena,,United States,,US,,KS,
+removed,4269365,Centralia,,United States,,US,,KS,
+removed,4270911,Elk Falls,,United States,,US,,KS,
+new,4272057,,Geneseo,,United States,,US,,KS
+new,4272369,,Greeley,,United States,,US,,KS
+new,4272573,,Hamilton,,United States,,US,,KS
+removed,4272763,Havana,,United States,,US,,KS,
+new,4275714,,Moran,,United States,,US,,KS
+removed,4276143,Neosho Rapids,,United States,,US,,KS,
+removed,4276588,Ogden,,United States,,US,,KS,
+removed,4276609,Oketo,,United States,,US,,KS,
+removed,4276953,Paradise,,United States,,US,,KS,
+removed,4277911,Reading,,United States,,US,,KS,
+new,4278808,,Saint Paul,,United States,,US,,KS
+removed,4280093,Strong City,,United States,,US,,KS,
+removed,4280296,Sylvia,,United States,,US,,KS,
+new,4281318,,Waterville,,United States,,US,,KS
+new,4283804,,Belfry,,United States,,US,,KY
+new,4283879,,Belton,,United States,,US,,KY
+removed,4288666,Corinth,,United States,,US,,KY,
+new,4288908,,Coxs Creek,,United States,,US,,KY
+removed,4289635,DeMossville,,United States,,US,,KY,
+removed,4292692,Germantown,,United States,,US,,KY,
+removed,4293702,Guston,,United States,,US,,KY,
+removed,4295940,Ironville,,United States,,US,,KY,
+new,4297163,,Knob Lick,,United States,,US,,KY
+new,4297404,,Langley,,United States,,US,,KY
+removed,4297999,Lexington-Fayette,,United States,,US,,KY,
+removed,4300488,Meads,,United States,,US,,KY,
+new,4303223,,Oneida,,United States,,US,,KY
+removed,4303508,Paint Lick,,United States,,US,,KY,
+removed,4304058,Pewee Valley,,United States,,US,,KY,
+new,4307782,,Science Hill,,United States,,US,,KY
+new,4312605,,Wallins Creek,,United States,,US,,KY
+removed,4315350,Ball,,United States,,US,,LA,
+new,4318425,,Bush,,United States,,US,,LA
+new,4319339,,Cecilia,,United States,,US,,LA
+new,4323639,,Elizabeth,,United States,,US,,LA
+new,4325668,,Gilbert,,United States,,US,,LA
+new,4331781,,Loreauville,,United States,,US,,LA
+removed,4331829,Lottie,,United States,,US,,LA,
+removed,4333190,Metairie Terrace,,United States,,US,,LA,
+new,4338064,,Pride,,United States,,US,,LA
+removed,4338235,Quitman,,United States,,US,,LA,
+new,4345498,,Washington,,United States,,US,,LA
+removed,4346053,White Castle,,United States,,US,,LA,
+new,4351659,,Churchville,,United States,,US,,MD
+removed,4354039,Eden,,United States,,US,,MD,
+new,4357764,,Henderson,,United States,,US,,MD
+removed,4364507,Oldtown,,United States,,US,,MD,
+new,4366877,,Riva,,United States,,US,,MD
+new,4369106,,Secretary,,United States,,US,,MD
+new,4369352,,Sharpsburg,,United States,,US,,MD
+new,4375187,,Ashburn,,United States,,US,,MO
+new,4377190,,Birch Tree,,United States,,US,,MO
+new,4377258,,Bixby,,United States,,US,,MO
+new,4377408,,Blackwell,,United States,,US,,MO
+removed,4377542,Bloomsdale,,United States,,US,,MO,
+removed,4380318,Catawissa,,United States,,US,,MO,
+removed,4381063,Cherryville,,United States,,US,,MO,
+new,4383458,,Davisville,,United States,,US,,MO
+new,4385431,,Elkland,,United States,,US,,MO
+removed,4385819,Eugene,,United States,,US,,MO,
+new,4386068,,Fairview,,United States,,US,,MO
+removed,4387302,Freistatt,,United States,,US,,MO,
+removed,4389747,Harviell,,United States,,US,,MO,
+new,4390154,,Henley,,United States,,US,,MO
+new,4393747,,Kissee Mills,,United States,,US,,MO
+new,4394522,,Lanagan,,United States,,US,,MO
+new,4394788,,Leadwood,,United States,,US,,MO
+new,4402637,,Patton,,United States,,US,,MO
+removed,4404748,Protem,,United States,,US,,MO,
+removed,4410428,Stoutsville,,United States,,US,,MO,
+removed,4411207,Taneyville,,United States,,US,,MO,
+new,4412803,,Valles Mines,,United States,,US,,MO
+new,4419330,,Braxton,,United States,,US,,MS
+new,4422899,,Courtland,,United States,,US,,MS
+new,4424891,,Dumas,,United States,,US,,MS
+removed,4425835,Ethel,,United States,,US,,MS,
+new,4430017,,Hollandale,,United States,,US,,MS
+removed,4432921,Lamar,,United States,,US,,MS,
+removed,4434232,Lorman,,United States,,US,,MS,
+new,4436351,,Mize,,United States,,US,,MS
+new,4446429,,Smithdale,,United States,,US,,MS
+new,4446548,,Soso,,United States,,US,,MS
+removed,4447344,Stonewall,,United States,,US,,MS,
+removed,4447433,Stringer,,United States,,US,,MS,
+removed,4448074,Taylorsville,,United States,,US,,MS,
+removed,4453733,Barco,,United States,,US,,NC,
+new,4460659,,Chinquapin,,United States,,US,,NC
+removed,4461263,Coinjock,,United States,,US,,NC,
+new,4463395,,Deep Run,,United States,,US,,NC
+removed,4465364,Enfield,,United States,,US,,NC,
+removed,4466444,Flat Rock,,United States,,US,,NC,
+new,4467856,,Gerton,,United States,,US,,NC
+new,4470032,,Harrells,,United States,,US,,NC
+removed,4471805,Hookerton,,United States,,US,,NC,
+new,4474123,,Kelly,,United States,,US,,NC
+removed,4475057,Landis,,United States,,US,,NC,
+new,4475385,,Lawsonville,,United States,,US,,NC
+removed,4477886,Manns Harbor,,United States,,US,,NC,
+new,4479008,,Merry Hill,,United States,,US,,NC
+removed,4483916,Pantego,,United States,,US,,NC,
+new,4484362,,Peachland,,United States,,US,,NC
+removed,4488954,Rose Hill,,United States,,US,,NC,
+new,4490655,,Scranton,,United States,,US,,NC
+removed,4498303,West Raleigh,,United States,,US,,NC,
+removed,4498571,Whitakers,,United States,,US,,NC,
+removed,4501472,Deepwater,,United States,,US,,NJ,
+removed,4504734,Waterford Works,,United States,,US,,NJ,
+removed,4517030,Long Bottom,,United States,,US,,OH,
+new,4519625,,New Matamoras,,United States,,US,,OH
+new,4522296,,Reedsville,,United States,,US,,OH
+new,4525628,,Stoutsville,,United States,,US,,OH
+new,4529424,,Apache,,United States,,US,,OK
+new,4531143,,Bokoshe,,United States,,US,,OK
+new,4531720,,Burbank,,United States,,US,,OK
+removed,4536996,Fletcher,,United States,,US,,OK,
+new,4537163,,Foster,,United States,,US,,OK
+new,4537510,,Garvin,,United States,,US,,OK
+new,4540858,,Leedey,,United States,,US,,OK
+removed,4551164,Sharon,,United States,,US,,OK,
+removed,4551673,South Coffeyville,,United States,,US,,OK,
+new,4552646,,Sweetwater,,United States,,US,,OK
+new,4554703,,Washington,,United States,,US,,OK
+removed,4556089,Wyandotte,,United States,,US,,OK,
+removed,4556785,Brogue,,United States,,US,,PA,
+removed,4557319,Confluence,,United States,,US,,PA,
+removed,4558506,Harrisonville,,United States,,US,,PA,
+removed,4558995,Kirkwood,,United States,,US,,PA,
+new,4560320,,Pequea,,United States,,US,,PA
+removed,4563122,Candelaria,,Puerto Rico,,PR,,,
+new,4565111,,Guayanilla,,Puerto Rico,,PR,,
+removed,4566002,Levittown,,Puerto Rico,,PR,,,
+removed,4566178,Maricao,,Puerto Rico,,PR,,,
+removed,4566687,Peñuelas,,Puerto Rico,,PR,,,
+removed,4571856,Bonneau,,United States,,US,,SC,
+removed,4575048,Clio,,United States,,US,,SC,
+new,4577941,,Eutawville,,United States,,US,,SC
+new,4580638,,Gresham,,United States,,US,,SC
+new,4580931,,Hamer,,United States,,US,,SC
+new,4581116,,Harleyville,,United States,,US,,SC
+new,4583302,,Jamestown,,United States,,US,,SC
+new,4585791,,Longcreek,,United States,,US,,SC
+removed,4587884,Mount Croghan,,United States,,US,,SC,
+removed,4591411,Pinopolis,,United States,,US,,SC,
+new,4593592,,Rowesville,,United States,,US,,SC
+new,4599951,,Wadmalaw Island,,United States,,US,,SC
+new,4599961,,Wagener,,United States,,US,,SC
+new,4601693,,Yemassee,,United States,,US,,SC
+new,4602270,,Alexandria,,United States,,US,,TN
+new,4609678,,Buffalo Valley,,United States,,US,,TN
+removed,4619947,East Chattanooga,,United States,,US,,TN,
+removed,4645421,New South Memphis,,United States,,US,,TN,
+new,4645791,,Normandy,,United States,,US,,TN
+new,4653451,,Roan Mountain,,United States,,US,,TN
+removed,4662170,Tennessee Ridge,,United States,,US,,TN,
+new,4663258,,Trimble,,United States,,US,,TN
+new,4666982,,Westport,,United States,,US,,TN
+removed,4667505,Whitesburg,,United States,,US,,TN,
+new,4671783,,Axtell,,United States,,US,,TX
+new,4676737,,Brownsboro,,United States,,US,,TX
+removed,4683859,Covington,,United States,,US,,TX,
+new,4684084,,Crawford,,United States,,US,,TX
+new,4685144,,Damon,,United States,,US,,TX
+new,4685912,,Denton,,United States,,US,,TX
+new,4686230,,Dime Box,,United States,,US,,TX
+new,4686434,,Dodd City,,United States,,US,,TX
+removed,4698646,Hooks,,United States,,US,,TX,
+removed,4705953,Leona,,United States,,US,,TX,
+new,4709710,,May,,United States,,US,,TX
+removed,4710317,McQueeney,,United States,,US,,TX,
+new,4712142,,Moore,,United States,,US,,TX
+removed,4720996,Putnam,,United States,,US,,TX,
+removed,4735629,Tarpley,,United States,,US,,TX,
+new,4738908,,Van Vleck,,United States,,US,,TX
+removed,4740489,Weinert,,United States,,US,,TX,
+new,4742562,,Windom,,United States,,US,,TX
+new,4752027,,Charlotte Court House,,United States,,US,,VA
+new,4752861,,Churchville,,United States,,US,,VA
+new,4756706,,Dungannon,,United States,,US,,VA
+removed,4756955,East Hampton,,United States,,US,,VA,
+new,4757475,,Elkwood,,United States,,US,,VA
+new,4759526,,Ford,,United States,,US,,VA
+removed,4759710,Fort Defiance,,United States,,US,,VA,
+new,4760121,,Freeman,,United States,,US,,VA
+removed,4761008,Glasgow,,United States,,US,,VA,
+removed,4762583,Gum Spring,,United States,,US,,VA,
+new,4769557,,Lignum,,United States,,US,,VA
+new,4782137,,Rixeyville,,United States,,US,,VA
+removed,4788451,Sutherland,,United States,,US,,VA,
+removed,4788599,Swoope,,United States,,US,,VA,
+new,4789815,,Topping,,United States,,US,,VA
+removed,4792622,Weems,,United States,,US,,VA,
+removed,4794350,Wolf Trap,,United States,,US,,VA,
+new,4800008,,Brandywine,,United States,,US,,WV
+removed,4803885,Delbarton,,United States,,US,,WV,
+removed,4808078,Hanover,,United States,,US,,WV,
+removed,4809489,Hundred,,United States,,US,,WV,
+removed,4811948,Lenore,,United States,,US,,WV,
+new,4821246,,Salt Rock,,United States,,US,,WV
+removed,4822618,Smithville,,United States,,US,,WV,
+removed,4824597,Thomas,,United States,,US,,WV,
+removed,4827104,White Sulphur Springs,,United States,,US,,WV,
+removed,4828090,Elmore,,United States,,US,,AL,
+removed,4828766,Shaw,,United States,,US,,MS,
+new,4829218,,Gillett,,United States,,US,,TX
+new,4829614,,Addison,,United States,,US,,AL
+new,4830889,,Autaugaville,,United States,,US,,AL
+new,4831976,,Andover,,United States,,US,,IL
+removed,4833990,Willard,,United States,,US,,WI,
+removed,4839745,North Stamford,,United States,,US,,CT,
+new,4839768,,North Windham,,United States,,US,,CT
+removed,4843298,South Kent,,United States,,US,,CT,
+new,4845500,,West Simsbury,,United States,,US,,CT
+new,4852740,,Corwith,,United States,,US,,IA
+new,4853900,,Dewar,,United States,,US,,IA
+removed,4854634,Dunkerton,,United States,,US,,IA,
+removed,4856418,Farmersburg,,United States,,US,,IA,
+removed,4859267,Greenville,,United States,,US,,IA,
+new,4859875,,Harris,,United States,,US,,IA
+removed,4861417,Hutchins,,United States,,US,,IA,
+removed,4866623,McClelland,,United States,,US,,IA,
+new,4869883,,Old Peru,,United States,,US,,IA
+removed,4873714,Rowley,,United States,,US,,IA,
+removed,4877171,Sperry,,United States,,US,,IA,
+removed,4878383,Thayer,,United States,,US,,IA,
+removed,4878795,Traer,,United States,,US,,IA,
+removed,4880386,Wadena,,United States,,US,,IA,
+new,4885403,,Braceville,,United States,,US,,IL
+new,4888032,,Cisco,,United States,,US,,IL
+new,4888692,,Cooksville,,United States,,US,,IL
+removed,4889365,Dallas City,,United States,,US,,IL,
+removed,4891091,Emden,,United States,,US,,IL,
+removed,4895027,Hampton,,United States,,US,,IL,
+new,4895141,,Harmon,,United States,,US,,IL
+new,4897093,,Industry,,United States,,US,,IL
+removed,4901839,Medinah,,United States,,US,,IL,
+removed,4903923,North Henderson,,United States,,US,,IL,
+removed,4903976,North Peoria,,United States,,US,,IL,
+removed,4907611,Rio,,United States,,US,,IL,
+removed,4908819,Saint David,,United States,,US,,IL,
+new,4912725,,Stronghurst,,United States,,US,,IL
+new,4915764,,Wayne,,United States,,US,,IL
+removed,4916878,Winslow,,United States,,US,,IL,
+new,4917576,,Amboy,,United States,,US,,IN
+removed,4919419,Cromwell,,United States,,US,,IN,
+removed,4923118,Macy,,United States,,US,,IN,
+new,4924135,,New Paris,,United States,,US,,IN
+new,4925610,,Rossville,,United States,,US,,IN
+removed,4926434,Silver Lake,,United States,,US,,IN,
+removed,4930431,Berlin,,United States,,US,,MA,
+removed,4935195,Dunstable,,United States,,US,,MA,
+new,4936937,,Florida,,United States,,US,,MA
+new,4940817,,Jefferson,,United States,,US,,MA
+removed,4949344,Sagamore,,United States,,US,,MA,
+new,4955135,,West Warren,,United States,,US,,MA
+removed,4956929,Ashland,,United States,,US,,ME,
+removed,4959497,Bryant Pond,,United States,,US,,ME,
+removed,4960036,Canaan,,United States,,US,,ME,
+removed,4961649,Cranberry Isles,,United States,,US,,ME,
+new,4961905,,Cumberland Foreside,,United States,,US,,ME
+removed,4963905,Exeter Corners,,United States,,US,,ME,
+new,4965101,,Garland,,United States,,US,,ME
+new,4965983,,Greenville Junction,,United States,,US,,ME
+removed,4968141,Islesboro,,United States,,US,,ME,
+new,4974597,,Palmyra,,United States,,US,,ME
+new,4975783,,Porter,,United States,,US,,ME
+removed,4976383,Readfield,,United States,,US,,ME,
+removed,4977779,Sangerville,,United States,,US,,ME,
+new,4984067,,Almont,,United States,,US,,MI
+removed,4984460,Ashley,,United States,,US,,MI,
+new,4984889,,Bannister,,United States,,US,,MI
+new,4987586,,Byron,,United States,,US,,MI
+removed,4988277,Cedar Creek,,United States,,US,,MI,
+new,4989686,,Corunna,,United States,,US,,MI
+removed,4995249,Hanover,,United States,,US,,MI,
+removed,4996308,Holton,,United States,,US,,MI,
+new,4998443,,La Salle,,United States,,US,,MI
+new,4999097,,Leonard,,United States,,US,,MI
+new,5000388,,Lyons,,United States,,US,,MI
+new,5002142,,Minden City,,United States,,US,,MI
+new,5002537,,Morrice,,United States,,US,,MI
+new,5003038,,Muir,,United States,,US,,MI
+removed,5004486,Omer,,United States,,US,,MI,
+new,5004643,,Osseo,,United States,,US,,MI
+removed,5005630,Pierson,,United States,,US,,MI,
+new,5006155,,Pompeii,,United States,,US,,MI
+removed,5006967,Reeman,,United States,,US,,MI,
+new,5009692,,Sherwood,,United States,,US,,MI
+new,5011985,,Tekonsha,,United States,,US,,MI
+removed,5014966,Whittemore,,United States,,US,,MI,
+removed,5015397,Wolf Lake,,United States,,US,,MI,
+new,5023472,,Crosby,,United States,,US,,MN
+removed,5023853,Darfur,,United States,,US,,MN,
+removed,5028454,Graceville,,United States,,US,,MN,
+removed,5029262,Hanley Falls,,United States,,US,,MN,
+removed,5029405,Harris,,United States,,US,,MN,
+new,5040385,,Osage,,United States,,US,,MN
+removed,5042006,Ponemah,,United States,,US,,MN,
+removed,5042431,Puposky,,United States,,US,,MN,
+removed,5042790,Redby,,United States,,US,,MN,
+new,5045079,,Saint Martin,,United States,,US,,MN
+removed,5047090,Shelly,,United States,,US,,MN,
+new,5048161,,Spicer,,United States,,US,,MN
+new,5049843,,Tenstrike,,United States,,US,,MN
+removed,5052666,White Earth,,United States,,US,,MN,
+removed,5053340,Wood Lake,,United States,,US,,MN,
+new,5054670,,Darlington,,United States,,US,,MO
+removed,5055179,Gorin,,United States,,US,,MO,
+removed,5055223,Green Castle,,United States,,US,,MO,
+removed,5055287,Guilford,,United States,,US,,MO,
+removed,5057753,Watson,,United States,,US,,MO,
+new,5059927,,Kathryn,,United States,,US,,ND
+removed,5061310,Saint John,,United States,,US,,ND,
+removed,5062025,Starkweather,,United States,,US,,ND,
+new,5062145,,Sykeston,,United States,,US,,ND
+removed,5063781,Belgrade,,United States,,US,,NE,
+new,5063788,,Beemer,,United States,,US,,NE
+removed,5069068,Giltner,,United States,,US,,NE,
+new,5070125,,Hildreth,,United States,,US,,NE
+removed,5070327,Homer,,United States,,US,,NE,
+new,5072483,,Lynch,,United States,,US,,NE
+removed,5072528,Macy,,United States,,US,,NE,
+new,5073891,,Newport,,United States,,US,,NE
+new,5079637,,Sterling,,United States,,US,,NE
+removed,5083374,Bethlehem,,United States,,US,,NH,
+new,5085222,,Danbury,,United States,,US,,NH
+removed,5085719,East Kingston,,United States,,US,,NH,
+new,5086182,,Fitzwilliam,,United States,,US,,NH
+new,5086383,,Fremont,,United States,,US,,NH
+removed,5089546,Milan,,United States,,US,,NH,
+new,5093012,,Spofford,,United States,,US,,NH
+new,5093630,,Thornton,,United States,,US,,NH
+removed,5094791,Wilmot,,United States,,US,,NH,
+removed,5095278,Asbury,,United States,,US,,NJ,
+removed,5095321,Augusta,,United States,,US,,NJ,
+new,5095786,,Bloomingdale,,United States,,US,,NJ
+removed,5098358,Garwood,,United States,,US,,NJ,
+new,5100001,,Kenvil,,United States,,US,,NJ
+removed,5101699,Neshanic Station,,United States,,US,,NJ,
+new,5102136,,Ocean Grove,,United States,,US,,NJ
+new,5103447,,Roosevelt,,United States,,US,,NJ
+removed,5106719,Accord,,United States,,US,,NY,
+removed,5107273,Aquebogue,,United States,,US,,NY,
+removed,5108875,Bernhards Bay,,United States,,US,,NY,
+removed,5109790,Borough Park,,United States,,US,,NY,
+removed,5109797,Boston,,United States,,US,,NY,
+new,5110239,,Brocton,,United States,,US,,NY
+removed,5110918,Bushwick,,United States,,US,,NY,
+new,5111425,,Canaseraga,,United States,,US,,NY
+new,5111880,,Cayuta,,United States,,US,,NY
+removed,5115685,Earlton,,United States,,US,,NY,
+removed,5115843,East Flatbush,,United States,,US,,NY,
+removed,5115985,East New York,,United States,,US,,NY,
+removed,5116478,Elma,,United States,,US,,NY,
+new,5117685,,Fort Montgomery,,United States,,US,,NY
+removed,5119167,Gravesend,,United States,,US,,NY,
+removed,5120034,Harlem,,United States,,US,,NY,
+new,5120395,,Hector,,United States,,US,,NY
+removed,5122568,Jasper,,United States,,US,,NY,
+new,5122787,,Johnson,,United States,,US,,NY
+new,5126592,,Mendon,,United States,,US,,NY
+removed,5127066,Millerton,,United States,,US,,NY,
+new,5127258,,Moira,,United States,,US,,NY
+removed,5128501,New Hampton,,United States,,US,,NY,
+new,5128862,,Norfolk,,United States,,US,,NY
+removed,5129364,Norwood,,United States,,US,,NY,
+removed,5130402,Palenville,,United States,,US,,NY,
+removed,5132004,Port Crane,,United States,,US,,NY,
+removed,5137849,Sheepshead Bay,,United States,,US,,NY,
+removed,5143308,Washington Heights,,United States,,US,,NY,
+new,5143862,,West Hurley,,United States,,US,,NY
+removed,5143879,West Kill,,United States,,US,,NY,
+new,5144038,,Westbrookville,,United States,,US,,NY
+removed,5144090,Westhampton Beach,,United States,,US,,NY,
+removed,5144830,Winthrop,,United States,,US,,NY,
+removed,5144846,Witherbee,,United States,,US,,NY,
+new,5144973,,Woodgate,,United States,,US,,NY
+new,5148252,,Bristolville,,United States,,US,,OH
+removed,5155195,Freeport,,United States,,US,,OH,
+removed,5160958,Litchfield,,United States,,US,,OH,
+removed,5162297,McDonald,,United States,,US,,OH,
+removed,5163132,Mineral City,,United States,,US,,OH,
+new,5163588,,Mount Blanchard,,United States,,US,,OH
+new,5167166,,Plymouth,,United States,,US,,OH
+new,5167750,,Rawson,,United States,,US,,OH
+new,5168670,,Rossburg,,United States,,US,,OH
+removed,5177082,Windham,,United States,,US,,OH,
+removed,5182026,Brush Valley,,United States,,US,,PA,
+new,5184507,,Claysville,,United States,,US,,PA
+new,5187491,,Duke Center,,United States,,US,,PA
+removed,5188416,Elderton,,United States,,US,,PA,
+removed,5188679,Emeigh,,United States,,US,,PA,
+new,5188708,,Emigsville,,United States,,US,,PA
+new,5194660,,Hyde Park,,United States,,US,,PA
+new,5195399,,Jermyn,,United States,,US,,PA
+new,5197162,,Lanse,,United States,,US,,PA
+removed,5197594,Leetsdale,,United States,,US,,PA,
+removed,5199886,Marion Center,,United States,,US,,PA,
+new,5200170,,Maxatawny,,United States,,US,,PA
+removed,5201004,Middleboro,,United States,,US,,PA,
+removed,5203236,New Millport,,United States,,US,,PA,
+new,5203531,,North Bend,,United States,,US,,PA
+removed,5204542,Orbisonia,,United States,,US,,PA,
+new,5204675,,Ottsville,,United States,,US,,PA
+removed,5205215,Patton,,United States,,US,,PA,
+removed,5205259,Paxinos,,United States,,US,,PA,
+removed,5207263,Prospect,,United States,,US,,PA,
+removed,5207596,Ransom,,United States,,US,,PA,
+removed,5208500,Rixford,,United States,,US,,PA,
+new,5211846,,Shenandoah,,United States,,US,,PA
+new,5213033,,South Heights,,United States,,US,,PA
+new,5214489,,Strattanville,,United States,,US,,PA
+removed,5214747,Summerhill,,United States,,US,,PA,
+removed,5217943,Wapwallopen,,United States,,US,,PA,
+new,5218220,,Waterville,,United States,,US,,PA
+removed,5219025,Westover,,United States,,US,,PA,
+removed,5220705,Ashaway,,United States,,US,,RI,
+new,5226898,,Claremont,,United States,,US,,SD
+removed,5228398,Hecla,,United States,,US,,SD,
+new,5229825,,Monroe,,United States,,US,,SD
+removed,5229975,New Effington,,United States,,US,,SD,
+new,5232899,,White Lake,,United States,,US,,SD
+removed,5236108,Ferrisburgh,,United States,,US,,VT,
+removed,5239040,Newbury,,United States,,US,,VT,
+new,5239997,,Pownal,,United States,,US,,VT
+removed,5240382,Rochester,,United States,,US,,VT,
+new,5241000,,Sheffield,,United States,,US,,VT
+removed,5241297,South Londonderry,,United States,,US,,VT,
+removed,5241507,Starksboro,,United States,,US,,VT,
+removed,5244407,Avoca,,United States,,US,,WI,
+new,5245310,,Beldenville,,United States,,US,,WI
+removed,5246946,Browntown,,United States,,US,,WI,
+removed,5247415,Caledonia,,United States,,US,,WI,
+new,5248362,,Chaseburg,,United States,,US,,WI
+new,5254395,,Glenbeulah,,United States,,US,,WI
+new,5257183,,Hustisford,,United States,,US,,WI
+new,5264336,,Neshkoro,,United States,,US,,WI
+new,5264877,,North Lake,,United States,,US,,WI
+new,5265724,,Oneida,,United States,,US,,WI
+removed,5267769,Port Edwards,,United States,,US,,WI,
+removed,5268482,Readstown,,United States,,US,,WI,
+removed,5273110,Shullsburg,,United States,,US,,WI,
+new,5276016,,Townsend,,United States,,US,,WI
+removed,5279477,Withee,,United States,,US,,WI,
+new,5280769,,Valley Grove,,United States,,US,,WV
+removed,5282825,Bridgewater,,United States,,US,,CT,
+new,5283386,,Canaan,,United States,,US,,CT
+removed,5292387,Deer Valley,,United States,,US,,AZ,
+removed,5293142,Dragoon,,United States,,US,,AZ,
+removed,5295349,Fredonia,,United States,,US,,AZ,
+removed,5298887,Houck,,United States,,US,,AZ,
+removed,5303929,Maryvale,,United States,,US,,AZ,
+removed,5317071,Tempe Junction,,United States,,US,,AZ,
+removed,5327259,Bel Air,,United States,,US,,CA,
+new,5328407,,Big Oak Flat,,United States,,US,,CA
+new,5342254,,Deer Park,,United States,,US,,CA
+new,5352454,,Glenhaven,,United States,,US,,CA
+removed,5363748,Koreatown,,United States,,US,,CA,
+removed,5377797,North San Juan,,United States,,US,,CA,
+new,5383633,,Playa del Rey,,United States,,US,,CA
+new,5392448,,San Miguel,,United States,,US,,CA
+new,5416248,,Cascade,,United States,,US,,CO
+new,5437210,,Rush,,United States,,US,,CO
+removed,5438836,Silver Plume,,United States,,US,,CO,
+removed,5454217,Acoma Pueblo,,United States,,US,,NM,
+new,5457983,,Blanco,,United States,,US,,NM
+removed,5460591,Carson,,United States,,US,,NM,
+removed,5462778,Conchas,,United States,,US,,NM,
+removed,5466535,El Rito,,United States,,US,,NM,
+removed,5466627,Elida,,United States,,US,,NM,
+removed,5468929,Garfield,,United States,,US,,NM,
+new,5478345,,Mayhill,,United States,,US,,NM
+removed,5482270,Ocate,,United States,,US,,NM,
+new,5494156,,Tesuque,,United States,,US,,NM
+removed,5512994,Stateline,,United States,,US,,NV,
+new,5518692,,Channing,,United States,,US,,TX
+new,5520281,,Dodson,,United States,,US,,TX
+removed,5521628,Flomot,,United States,,US,,TX,
+removed,5523798,Iraan,,United States,,US,,TX,
+new,5526907,,Nazareth,,United States,,US,,TX
+new,5528669,,Presidio,,United States,,US,,TX
+new,5528816,,Quitaque,,United States,,US,,TX
+removed,5529379,Roaring Springs,,United States,,US,,TX,
+removed,5532897,Valentine,,United States,,US,,TX,
+removed,5533560,Wheeler,,United States,,US,,TX,
+removed,5533864,Wilson,,United States,,US,,TX,
+removed,5553899,Kingston,,United States,,US,,ID,
+new,5566668,,Lewiston,,United States,,US,,CA
+removed,5572979,Tulelake,,United States,,US,,CA,
+new,5579153,,Livermore,,United States,,US,,CO
+new,5594703,,Greenleaf,,United States,,US,,ID
+new,5650243,,East Glacier Park,,United States,,US,,MT
+new,5652509,,Florence,,United States,,US,,MT
+new,5657386,,Hilger,,United States,,US,,MT
+removed,5674162,Roberts,,United States,,US,,MT,
+new,5678822,,Somers,,United States,,US,,MT
+removed,5686290,Wibaux,,United States,,US,,MT,
+removed,5687258,Worden,,United States,,US,,MT,
+removed,5697275,Madrid,,United States,,US,,NE,
+new,5697851,,Nenzel,,United States,,US,,NE
+new,5698227,,Paxton,,United States,,US,,NE
+removed,5700540,Wellfleet,,United States,,US,,NE,
+new,5704200,,Golconda,,United States,,US,,NV
+new,5705046,,Imlay,,United States,,US,,NV
+removed,5709584,Tuscarora,,United States,,US,,NV,
+removed,5721865,Culver,,United States,,US,,OR,
+removed,5754988,Sublimity,,United States,,US,,OR,
+new,5777855,,Manila,,United States,,US,,UT
+removed,5779594,Peoa,,United States,,US,,UT,
+removed,5783772,Trenton,,United States,,US,,UT,
+removed,5788290,Brush Prairie,,United States,,US,,WA,
+new,5789803,,Chattaroy,,United States,,US,,WA
+removed,5793571,Elk,,United States,,US,,WA,
+new,5804755,,Nine Mile Falls,,United States,,US,,WA
+removed,5805518,Odessa,,United States,,US,,WA,
+removed,5806336,Paterson,,United States,,US,,WA,
+removed,5807169,Pomeroy,,United States,,US,,WA,
+removed,5811211,South Bend,,United States,,US,,WA,
+removed,5820617,Carpenter,,United States,,US,,WY,
+removed,5821877,Cora,,United States,,US,,WY,
+new,5829654,,Kinnear,,United States,,US,,WY
+removed,5854851,Wheeler Army Airfield,,United States,,US,,HI,
+new,5857264,,Captain Cook,,United States,,US,,HI
+new,5875173,,Sterling,,United States,,US,,AK
+removed,5882725,Ahuntsic-Cartierville,,Canada,,CA,,QC,
+removed,5883385,Alert Bay,,Canada,,CA,,BC,
+new,5883752,,Allan,,Canada,,CA,,SK
+removed,5884469,Amherst,,Canada,,CA,,QC,
+removed,5899061,Berwick,,Canada,,CA,,NS,
+removed,5904662,Blyth,,Canada,,CA,,ON,
+new,5905191,,Boissevain,,Canada,,CA,,MB
+new,5906281,,Bouctouche,,Canada,,CA,,NB
+new,5907983,,Brant,,Canada,,CA,,ON
+removed,5908473,Brentwood Bay,,Canada,,CA,,BC,
+removed,5909445,Brookdale,,Canada,,CA,,NS,
+removed,5910429,Bryson,,Canada,,CA,,QC,
+removed,5913174,Caesarea,,Canada,,CA,,ON,
+new,5914778,,Canal Flats,,Canada,,CA,,BC
+removed,5916786,Cardinal,,Canada,,CA,,ON,
+new,5918243,,Catalina,,Canada,,CA,,NL
+new,5919257,,Centreville,,Canada,,CA,,NS
+new,5919678,,Champlain,,Canada,,CA,,QC
+removed,5920470,Chatsworth,,Canada,,CA,,ON,
+removed,5920933,Cherry Grove,,Canada,,CA,,AB,
+removed,5921028,Chester,,Canada,,CA,,NS,
+new,5921527,,Chipman,,Canada,,CA,,NB
+removed,5921530,Chipman,,Canada,,CA,,AB,
+new,5923013,,Clandeboye,,Canada,,CA,,MB
+new,5924297,,Cluny,,Canada,,CA,,AB
+new,5927308,,Coombs,,Canada,,CA,,BC
+new,5930904,,Courtland,,Canada,,CA,,ON
+removed,5931327,Cox's Cove,,Canada,,CA,,NL,
+removed,5931973,Crawford Bay,,Canada,,CA,,BC,
+removed,5932187,Cremona,,Canada,,CA,,AB,
+new,5933070,,Crossfield,,Canada,,CA,,AB
+removed,5934305,Cut Knife,,Canada,,CA,,SK,
+new,5937510,,Déléage,,Canada,,CA,,QC
+removed,5937525,Delia,,Canada,,CA,,AB,
+removed,5938060,Derby Junction,,Canada,,CA,,NB,
+new,5944779,,Eagle Lake,,Canada,,CA,,ON
+removed,5945010,East Amherst,,Canada,,CA,,NS,
+removed,5945732,East Hereford,,Canada,,CA,,QC,
+new,5946604,,Eden Mills,,Canada,,CA,,ON
+removed,5948805,Enfield,,Canada,,CA,,NS,
+new,5950579,,Everett,,Canada,,CA,,ON
+new,5952334,,Fermeuse,,Canada,,CA,,NL
+new,5955498,,Forest,,Canada,,CA,,ON
+new,5958172,,Freshwater,,Canada,,CA,,NL
+new,5958505,,Frontenac,,Canada,,CA,,QC
+removed,5958945,Gagetown,,Canada,,CA,,NB,
+removed,5959170,Galloway,,Canada,,CA,,NB,
+removed,5961153,Gillam,,Canada,,CA,,MB,
+removed,5968992,Haileybury,,Canada,,CA,,ON,
+removed,5970414,Hantsport,,Canada,,CA,,NS,
+new,5971697,,Harvey Station,,Canada,,CA,,NB
+removed,5974085,Hepworth,,Canada,,CA,,ON,
+new,5975309,,Hillsburgh,,Canada,,CA,,ON
+new,5975314,,Hillsdale,,Canada,,CA,,ON
+new,5976393,,Holyrood,,Canada,,CA,,NL
+new,5983086,,Indian River,,Canada,,CA,,ON
+new,5992136,,Kinburn,,Canada,,CA,,ON
+removed,5993774,Knutsford,,Canada,,CA,,BC,
+removed,5999042,Lac-aux-Sables,,Canada,,CA,,QC,
+removed,6041177,Lac-Sainte-Marie,,Canada,,CA,,QC,
+new,6048316,,Lake Cowichan,,Canada,,CA,,BC
+removed,6048347,Lake Echo,,Canada,,CA,,NS,
+removed,6048678,Lakeside,,Canada,,CA,,NB,
+removed,6049667,La Patrie,,Canada,,CA,,QC,
+new,6052861,,Magdalen Islands,,Canada,,CA,,QC
+removed,6054578,Lions Bay,,Canada,,CA,,BC,
+removed,6058415,Logan Lake,,Canada,,CA,,BC,
+removed,6062430,Lyons Brook,,Canada,,CA,,NS,
+removed,6062527,Maberly,,Canada,,CA,,ON,
+removed,6065476,Mansonville,,Canada,,CA,,QC,
+new,6067033,,Martensville,,Canada,,CA,,SK
+new,6067710,,Masson-Angers,,Canada,,CA,,QC
+new,6075370,,Mississippi Mills,,Canada,,CA,,ON
+new,6078359,,Moosomin,,Canada,,CA,,SK
+new,6083052,,Mount Uniacke,,Canada,,CA,,NS
+removed,6087421,New Bothwell,,Canada,,CA,,MB,
+new,6090515,,North River,,Canada,,CA,,NS
+removed,6090516,North River,,Canada,,CA,,NS,
+removed,6091333,Notre-Dame-de-la-Merci,,Canada,,CA,,QC,
+removed,6091422,Notre-Dame-des-Prairies,,Canada,,CA,,QC,
+removed,6094454,Orton,,Canada,,CA,,ON,
+removed,6096327,Palgrave,,Canada,,CA,,ON,
+removed,6096426,Palmer Rapids,,Canada,,CA,,ON,
+new,6098378,,Parisville,,Canada,,CA,,QC
+removed,6101041,Pennfield,,Canada,,CA,,NB,
+new,6104764,,Pilot Mound,,Canada,,CA,,MB
+new,6106526,,Plympton-Wyoming,,Canada,,CA,,ON
+removed,6112046,Port Union,,Canada,,CA,,NL,
+new,6112681,,Powerview,,Canada,,CA,,MB
+new,6112876,,Preissac,,Canada,,CA,,QC
+removed,6115125,Queensland,,Canada,,CA,,NS,
+removed,6115944,Ragueneau,,Canada,,CA,,QC,
+removed,6116615,Rapid City,,Canada,,CA,,MB,
+new,6127775,,Rosewood,,Canada,,CA,,MB
+new,6136437,,Rusagonis,,Canada,,CA,,NB
+removed,6136875,Rycroft,,Canada,,CA,,AB,
+new,6137130,,Saddle Lake,,Canada,,CA,,AB
+removed,6137415,Saint-Anicet,,Canada,,CA,,QC,
+new,6137417,,Saint-Anicet,,Canada,,CA,,QC
+removed,6137539,Saint-Bruno-de-Guigues,,Canada,,CA,,QC,
+removed,6137550,Saint-Camille,,Canada,,CA,,QC,
+removed,6137860,Sainte-Edwidge,,Canada,,CA,,QC,
+new,6137875,,Sainte-Émélie-de-l'Énergie,,Canada,,CA,,QC
+new,6138095,,Sainte-Sabine,,Canada,,CA,,QC
+removed,6138405,Saint-Isidore-de-Clifton,,Canada,,CA,,QC,
+new,6138446,,Saint-Jean-Baptiste,,Canada,,CA,,QC
+removed,6138520,Saint John East,,Canada,,CA,,NB,
+removed,6138759,Saint-Mathieu-de-Beloeil,,Canada,,CA,,QC,
+removed,6138869,Saint-Paul,,Canada,,CA,,QC,
+new,6138883,,Saint-Paul,,Canada,,CA,,QC
+removed,6138884,Saint-Paul-d'Abbotsford,,Canada,,CA,,QC,
+new,6138918,,Saint-Pie-de-Guire,,Canada,,CA,,QC
+new,6138968,,Saint-Prime,,Canada,,CA,,QC
+new,6139050,,Saint-Sébastien,,Canada,,CA,,QC
+removed,6139051,Saint-Sébastien,,Canada,,CA,,QC,
+removed,6139085,Saint-Stanislas,,Canada,,CA,,QC,
+new,6139088,,Saint-Stanislas,,Canada,,CA,,QC
+new,6139161,,Saint-Urbain-Premier,,Canada,,CA,,QC
+removed,6142478,Scotland,,Canada,,CA,,ON,
+removed,6142498,Scotstown,,Canada,,CA,,QC,
+removed,6145579,Shea Heights,,Canada,,CA,,NL,
+new,6145815,,Sheet Harbour,,Canada,,CA,,NS
+new,6151026,,Sointula,,Canada,,CA,,BC
+removed,6154899,Staffa,,Canada,,CA,,ON,
+removed,6155092,Stanbridge East,,Canada,,CA,,QC,
+removed,6155094,Stanbridge Station,,Canada,,CA,,QC,
+new,6156877,,St. Joachim,,Canada,,CA,,ON
+removed,6157795,St. Paul,,Canada,,CA,,AB,
+removed,6159219,Summerford,,Canada,,CA,,NL,
+new,6159256,,Summerstown,,Canada,,CA,,ON
+removed,6159980,Sussex,,Canada,,CA,,NB,
+new,6160771,,Sydney River,,Canada,,CA,,NS
+new,6162647,,Temagami,,Canada,,CA,,ON
+removed,6165741,Thorsby,,Canada,,CA,,AB,
+new,6173769,,Verdun,,Canada,,CA,,ON
+new,6177154,,Waverley,,Canada,,CA,,NS
+removed,6178429,West Brome,,Canada,,CA,,QC,
+removed,6182305,Willingdon,,Canada,,CA,,AB,
+removed,6182892,Windham Centre,,Canada,,CA,,ON,
+removed,6225996,Greytown,,New Zealand,,NZ,,WGN,
+new,6244787,,Miramar,,New Zealand,,NZ,,WGN
+new,6293772,,Widen,,Switzerland,,CH,,ZH
+removed,6294734,Dättlikon,,Switzerland,,CH,,ZH,
+removed,6295513,Zürich (Kreis 9) / Altstetten,,Switzerland,,CH,,ZH,
+removed,6295523,Zürich (Kreis 12),,Switzerland,,CH,,ZH,
+removed,6295539,Zürich (Kreis 10),,Switzerland,,CH,,ZH,
+removed,6295548,Zürich (Kreis 7),,Switzerland,,CH,,ZH,
+removed,6295550,Zürich (Kreis 6),,Switzerland,,CH,,ZH,
+removed,6301965,Palmerston,,Australia,,AU,,NT,
+new,6316399,,Antônio Cardoso,,Brazil,,BR,,BA
+new,6316462,,Aurelino Leal,,Brazil,,BR,,BA
+removed,6316465,Aurora do Pará,,Brazil,,BR,,PA,
+removed,6316497,Barão de Monte Alto,,Brazil,,BR,,MG,
+new,6316788,,Capitão Enéas,,Brazil,,BR,,MG
+removed,6316789,Capitão Gervásio Oliveira,,Brazil,,BR,,PI,
+new,6316861,,Chapada Gaúcha,,Brazil,,BR,,MG
+removed,6316956,Cristal do Sul,,Brazil,,BR,,RS,
+removed,6317128,Feira da Mata,,Brazil,,BR,,BA,
+removed,6317156,Formosa do Oeste,,Brazil,,BR,,PR,
+new,6317161,,Fortaleza,,Brazil,,BR,,RS
+new,6317193,,General Maynard,,Brazil,,BR,,SE
+removed,6317374,Jatobá,,Brazil,,BR,,MA,
+removed,6317413,Juvenília,,Brazil,,BR,,MG,
+removed,6317461,Laranjal do Jari,,Brazil,,BR,,AP,
+new,6317750,,Nova Maringá,,Brazil,,BR,,MT
+new,6317832,,Ouroeste,,Brazil,,BR,,SP
+removed,6317867,Paraná,,Brazil,,BR,,RN,
+removed,6318017,Ponto Belo,,Brazil,,BR,,ES,
+removed,6318093,Quintão,,Brazil,,BR,,RS,
+new,6318120,,Riachinho,,Brazil,,BR,,MG
+removed,6318128,Ribeirão do Sul,,Brazil,,BR,,SP,
+new,6318222,,Santa Cecília,,Brazil,,BR,,PB
+removed,6318284,Santa Maria do Tocantins,,Brazil,,BR,,TO,
+removed,6318327,Santana do Maranhão,,Brazil,,BR,,MA,
+removed,6318381,Santópolis do Aguapeí,,Brazil,,BR,,SP,
+removed,6318410,São Domingos do Cariri,,Brazil,,BR,,PB,
+removed,6318617,São Sebastião do Oeste,,Brazil,,BR,,MG,
+removed,6318654,Senador La Rocque,,Brazil,,BR,,MA,
+removed,6318794,Três Palmeiras,,Brazil,,BR,,RS,
+new,6318861,,Vargem Bonita,,Brazil,,BR,,SC
+new,6318863,,Vargem Grande do Rio Pardo,,Brazil,,BR,,MG
+removed,6318927,Vila Propício,,Brazil,,BR,,GO,
+new,6320191,,Olho-d'Água do Borges,,Brazil,,BR,,RN
+removed,6332428,East Harlem,,United States,,US,,NY,
+removed,6354900,Saint-André,,Canada,,CA,,QC,
+removed,6356027,"Zarza, La",,Spain,,ES,,"EX,BA",
+removed,6359249,El Boalo,,Spain,,ES,,"MD,M",
+new,6359874,,Parada de Sil,,Spain,,ES,,"GA,OR"
+removed,6360633,"Orotava, La",,Spain,,ES,,"CN,TF",
+removed,6361057,"Viso del Alcor, El",,Spain,,ES,,"AN,SE",
+new,6361885,,"Alcúdia de Crespins, l'",,Spain,,ES,,"VC,V"
+removed,6361889,Alfara de la Baronia,,Spain,,ES,,"VC,V",
+new,6394540,,Daeguri,,South Korea,,KR,,46
+new,6419798,,Imai,,Japan,,JP,,12
+removed,6420509,Shirogane,,Japan,,JP,,12,
+removed,6424360,,,Spain,,ES,,"IB,PM",
+new,6427400,,Castine-en-Plaine,,France,,FR,,"NOR,14"
+new,6430698,,Cloyes-les-Trois-Rivières,,France,,FR,,"CVL,28"
+new,6435470,,Montsenelle,,France,,FR,,"NOR,50"
+removed,6436421,Loiron-Ruillé,,France,,FR,,"PDL,53",
+new,6439328,,Tourouvre au Perche,,France,,FR,,"NOR,61"
+new,6450957,,Entrelacs,,France,,FR,,"ARA,73"
+removed,6456243,La Drenne,,France,,FR,,"HDF,60",
+removed,6456934,Mont Lozère et Goulet,,France,,FR,,"OCC,48",
+new,6457269,,Fontwell,,United Kingdom,,GB,,"ENG,WSX"
+new,6458638,,Gennes-Val-de-Loire,,France,,FR,,"PDL,49"
+new,6534201,,Villa de Mazo,,Spain,,ES,,"CN,TF"
+new,6534210,,Saint-Michel-de-Bellechasse,,Canada,,CA,,QC
+removed,6534303,Rodello,,Italy,,IT,,"21,CN",
+removed,6534512,Spinone al Lago,,Italy,,IT,,"25,BG",
+new,6534539,,Collebeato,,Italy,,IT,,"25,BS"
+removed,6534625,Villanova,,Italy,,IT,,"34,PD",
+removed,6534826,Castello di Brianza,,Italy,,IT,,"25,LC",
+removed,6534943,Lesmo,,Italy,,IT,,"25,MB",
+new,6534961,,Colzate,,Italy,,IT,,"25,BG"
+new,6535009,,Montecchio Precalcino,,Italy,,IT,,"34,VI"
+new,6535010,,Montegalda,,Italy,,IT,,"34,VI"
+new,6535176,,Morengo,,Italy,,IT,,"25,BG"
+removed,6535519,Rocchetta Tanaro,,Italy,,IT,,"21,AT",
+new,6535637,,Massa di Somma,,Italy,,IT,,"72,NA"
+removed,6535653,Gagliato,,Italy,,IT,,"78,CZ",
+removed,6535694,Cesana Brianza,,Italy,,IT,,"25,LC",
+new,6535739,,Trontano,,Italy,,IT,,"21,VB"
+new,6535769,,Cerro al Lambro,,Italy,,IT,,"25,MI"
+removed,6535819,Torrazza Piemonte,,Italy,,IT,,"21,TO",
+new,6535833,,Massino Visconti,,Italy,,IT,,"21,NO"
+new,6535893,,Chiusa/Klausen,,Italy,,IT,,"32,BZ"
+removed,6536011,Funes/Villnöß,,Italy,,IT,,"32,BZ",
+removed,6536226,Sermide e Felonica,,Italy,,IT,,"25,MN",
+new,6542168,,Credera Rubbiano,,Italy,,IT,,"25,CR"
+new,6542378,,Pinasca,,Italy,,IT,,"21,TO"
+removed,6544100,Eixample,,Spain,,ES,,"CT,B",
+removed,6544221,Pijnacker-Nootdorp Municipality,,Netherlands,,NL,,ZH,
+removed,6544489,Latina,,Spain,,ES,,"MD,M",
+removed,6544493,Carabanchel,,Spain,,ES,,"MD,M",
+new,6545317,,Purbrook,,United Kingdom,,GB,,"ENG,HAM"
+removed,6545409,Malbun,,Liechtenstein,,LI,,10,
+removed,6545410,Steg,,Liechtenstein,,LI,,10,
+removed,6547590,Dallgow-Döberitz,,Germany,,DE,,BB,
+new,6547657,,Sieversdorf-Hohenofen,,Germany,,DE,,BB
+removed,6551095,Neißemünde,,Germany,,DE,,BB,
+removed,6552129,Rohlstorf,,Germany,,DE,,SH,
+new,6555485,,Möglingen,,Germany,,DE,,BW
+removed,6555720,Eutingen im Gäu,,Germany,,DE,,BW,
+removed,6556771,Dörfles-Esbach,,Germany,,DE,,BY,
+removed,6559140,Rotenburg a.d. Fulda,,Germany,,DE,,HE,
+removed,6559168,Laufenburg (Baden),,Germany,,DE,,BW,
+new,6559214,,Saal a.d.Donau,,Germany,,DE,,BY
+removed,6608633,La Seigneurie,,Guernsey,,GG,,,
+removed,6611390,Jiu'ao,,Macao,,MO,,,
+new,6613957,,Illtal,,France,,FR,,"GES,68"
+new,6615976,,Terres-de-Haute-Charente,,France,,FR,,"NAQ,16"
+removed,6618486,Dainava (Kaunas),,Lithuania,,LT,,"KU,15",
+new,6620364,,Nethy Bridge,,United Kingdom,,GB,,"SCT,HLD"
+removed,6620452,Rushyford,,United Kingdom,,GB,,"ENG,DUR",
+removed,6639684,Heuvelland,,Belgium,,BE,,"VLG,VWV",
+removed,6690580,Knightsbridge,,United Kingdom,,GB,,"ENG,WSM",
+new,6690870,,Becontree,,United Kingdom,,GB,,"ENG,BDG"
+removed,6692148,Benzdorp (Monte Hermon),,Suriname,,SR,,SI,
+new,6692466,,Brixton Hill,,United Kingdom,,GB,,"ENG,LBH"
+removed,6692975,Vidyaranyapura,,India,,IN,,KA,
+new,6692998,,Calabogie,,Canada,,CA,,ON
+removed,6695595,Czarny Las,,Poland,,PL,,14,
+removed,6696201,Sark,,Guernsey,,GG,,,
+new,6697155,,Heathridge,,Australia,,AU,,WA
+removed,6697759,South Dublin,,Ireland,,IE,,L,
+new,6698709,,Yan Nawa,,Thailand,,TH,,10
+new,6761284,,Malang,,Indonesia,,ID,,JB
+removed,6787122,Daboua,,Chad,,TD,,LC,
+new,6803178,,Yeongcheon,,South Korea,,KR,,41
+new,6819209,,Kampung Hutan Arau,,Malaysia,,MY,,09
+new,6822121,,Kitakōriyamachō,,Japan,,JP,,29
+removed,6822164,Kitamoto,,Japan,,JP,,11,
+new,6825501,,Shijōnawate,,Japan,,JP,,27
+new,6826913,,Tanjung Bungah,,Malaysia,,MY,,07
+new,6854542,,Zhoushan,,China,,CN,,GD
+new,6856383,,Tianjin,,China,,CN,,GD
+new,6935405,,Oppligen,,Switzerland,,CH,,BE
+new,6942350,,Fixby,,United Kingdom,,GB,,"ENG,KIR"
+removed,6942803,Caraquet,,Canada,,CA,,NB,
+removed,6947752,Les Platons,,Jersey,,JE,,,
+removed,6947753,Trinity,,Jersey,,JE,,,
+removed,6950950,St Mary's Village,,Jersey,,JE,,,
+removed,6950955,St Brelade,,Jersey,,JE,,,
+removed,6950957,St Lawrence,,Jersey,,JE,,,
+removed,6955408,Naujininkai,,Lithuania,,LT,,"VL,57",
+removed,6956647,Boyeros,,Cuba,,CU,,03,
+removed,6956648,Diez de Octubre,,Cuba,,CU,,03,
+new,7001663,,Dābar,,India,,IN,,RJ
+new,7009352,,Yongzhou,,China,,CN,,GD
+removed,7062967,Nyanza,,Rwanda,,RW,,05,
+removed,7114060,Hell's Gate,,Montserrat,,MS,,,
+new,7115314,,Villamartin,,Spain,,ES,,"VC,A"
+removed,7234896,Cross Roads,,United States,,US,,TX,
+removed,7261098,Edwards Air Force Base,,United States,,US,,CA,
+new,7262027,,Ohkay Owingeh,,United States,,US,,NM
+removed,7267949,San Jose,,Northern Mariana Islands,,MP,,T,
+removed,7284824,Újbuda,,Hungary,,HU,,BU,
+removed,7284842,Óbuda-Békásmegyer,,Hungary,,HU,,BU,
+removed,7287481,Villorsonnens,,Switzerland,,CH,,FR,
+new,7287540,,Wangen bei Olten,,Switzerland,,CH,,SO
+removed,7287755,St Clement,,Jersey,,JE,,,
+removed,7289169,Tri-Cities,,United States,,US,,WA,
+removed,7290052,Pfarrwerfen,,Austria,,AT,,5,
+new,7290536,,,,United Kingdom,,GB,,"ENG,CHE"
+removed,7302102,La Margineda,,Andorra,,AD,,07,
+removed,7302628,Adelaide Hills,,Australia,,AU,,SA,
+removed,7302854,Morigaon,,India,,IN,,AS,
+removed,7303138,Kirishima,,Japan,,JP,,46,
+removed,7304467,Ebaye,,Marshall Islands,,MH,,KWA,
+removed,7306512,Ebon,,Marshall Islands,,MH,,EBO,
+removed,7306513,Aur,,Marshall Islands,,MH,,AUR,
+removed,7306514,Arno,,Marshall Islands,,MH,,ARN,
+removed,7306516,Mili,,Marshall Islands,,MH,,MIL,
+removed,7306517,Lae,,Marshall Islands,,MH,,LAE,
+removed,7306518,Utrik,,Marshall Islands,,MH,,UTI,
+removed,7306519,Ujae,,Marshall Islands,,MH,,UJA,
+removed,7306522,Namdrik,,Marshall Islands,,MH,,NMK,
+removed,7306525,Kili,,Marshall Islands,,MH,,KIL,
+removed,7306528,Wotje,,Marshall Islands,,MH,,WTJ,
+new,7370810,,Sumoto Shi,,Japan,,JP,,28
+new,7370811,,Miki Shi,,Japan,,JP,,28
+new,7370814,,Kasai Shi,,Japan,,JP,,28
+new,7370816,,Tanba Shi,,Japan,,JP,,28
+removed,7391655,Rang Pur,,Pakistan,,PK,,PB,
+new,7407420,,Ukiha Shi,,Japan,,JP,,40
+new,7414050,,Beppu Shi,,Japan,,JP,,44
+new,7417112,,Iizuna Machi,,Japan,,JP,,20
+new,7418806,,Minamishimabara Shi,,Japan,,JP,,42
+new,7452803,,Miho Mura,,Japan,,JP,,08
+removed,7453840,Meiwa Machi,,Japan,,JP,,10,
+new,7467838,,Hakui Gun,,Japan,,JP,,17
+new,7472191,,Chengdu,,China,,CN,,JX
+new,7521541,,Trieste,,Italy,,IT,,"62,RM"
+removed,7521902,Tabwakea Village,,Kiribati,,KI,,L,
+new,7522390,,,,Estonia,,EE,,"60,792"
+new,7526919,,Cartagena,,Colombia,,CO,,MET
+removed,7535941,Olonkinbyen,,Svalbard and Jan Mayen,,SJ,,22,
+new,7548903,,Karakaya,,Türkiye,,TR,,61
+removed,7576787,Borowina,,Poland,,PL,,14,
+removed,7576909,Makin Village,,Kiribati,,KI,,G,
+removed,7601762,Bairiki Village,,Kiribati,,KI,,G,
+removed,7601765,Ambo Village,,Kiribati,,KI,,G,
+removed,7601767,Taborio Village,,Kiribati,,KI,,G,
+removed,7601768,Bonriki Village,,Kiribati,,KI,,G,
+removed,7601770,Temaiku Village,,Kiribati,,KI,,G,
+removed,7601771,Nawerewere Village,,Kiribati,,KI,,G,
+removed,7601774,Bikenibeu Village,,Kiribati,,KI,,G,
+removed,7601776,Eita Village,,Kiribati,,KI,,G,
+removed,7601977,Vaiaku Village,,Tuvalu,,TV,,FUN,
+removed,7601981,,,Tuvalu,,TV,,VAI,
+new,7602008,,Sichon,,Thailand,,TH,,80
+removed,7602180,Tokelau Village,,Tuvalu,,TV,,NMG,
+removed,7602201,Teava Village,,Tuvalu,,TV,,NIT,
+removed,7602271,Motufoua School,,Tuvalu,,TV,,VAI,
+new,7602470,,Neukirchen,,Germany,,DE,,SN
+removed,7602506,Alapi Village,,Tuvalu,,TV,,FUN,
+removed,7602507,Senala Village,,Tuvalu,,TV,,FUN,
+removed,7602508,Fakaifou Village,,Tuvalu,,TV,,FUN,
+removed,7602533,Lofeagai Village,,Tuvalu,,TV,,FUN,
+removed,7602537,Teone Village,,Tuvalu,,TV,,FUN,
+removed,7602599,Dobin am See,,Germany,,DE,,MV,
+removed,7602616,Finne,,Germany,,DE,,ST,
+removed,7603117,Fenua Fala New Settlement,,Tokelau,,TK,,F,
+removed,7603129,Motuhaga,,Tokelau,,TK,,N,
+removed,7626342,Lampeland,,Norway,,NO,,06,
+new,7626393,,Hattfjelldal,,Norway,,NO,,18
+removed,7626485,Arijejen,,Nauru,,NR,,01,
+removed,7626489,Arenibek,,Nauru,,NR,,07,
+new,7641122,,Campo Grande,,Brazil,,BR,,PR
+new,7646573,,Las Grutas,,Argentina,,AR,,R
+removed,7656357,Nyamata,,Rwanda,,RW,,02,
+new,7657030,,Taizhou,,China,,CN,,JX
+removed,7669500,Chavannes-les-Forts,,Switzerland,,CH,,FR,
+new,7669516,,Courtaman,,Switzerland,,CH,,FR
+removed,7669717,Leontica,,Switzerland,,CH,,TI,
+removed,7669737,Lobsigen,,Switzerland,,CH,,BE,
+new,7669778,,Montet,,Switzerland,,CH,,FR
+removed,7669851,Promasens,,Switzerland,,CH,,FR,
+new,7670181,,Gillarens,,Switzerland,,CH,,FR
+removed,7670251,Lavadina,,Liechtenstein,,LI,,10,
+removed,7670994,Kayangel,,Palau,,PW,,100,
+removed,7671047,,,Philippines,,PH,,"12,SAR",
+removed,7671223,Kloulklubed,,Palau,,PW,,350,
+removed,7701332,Basaboo,,Bangladesh,,BD,,"C,13",
+removed,7732297,Ngardmau,,Palau,,PW,,222,
+removed,7761258,Rantalapye,,Botswana,,BW,,ST,
+new,7778651,,Los Palacios,,Spain,,ES,,"VC,A"
+removed,7778779,Agrihan Village,,Northern Mariana Islands,,MP,,N,
+removed,7778853,Alamagan Village,,Northern Mariana Islands,,MP,,N,
+removed,7779000,Les Avanchets,,Switzerland,,CH,,GE,
+removed,7798575,Carolinas Heights,,Northern Mariana Islands,,MP,,T,
+removed,7828768,Capitol Hill Village,,Northern Mariana Islands,,MP,,S,
+removed,7838654,Kagman Village,,Northern Mariana Islands,,MP,,S,
+removed,7838658,Puerto Rico Village,,Northern Mariana Islands,,MP,,S,
+removed,7838874,Achugao Hamlet,,Northern Mariana Islands,,MP,,S,
+removed,7838875,As Lito Hamlet,,Northern Mariana Islands,,MP,,S,
+removed,7838876,As Perdido Hamlet,,Northern Mariana Islands,,MP,,S,
+removed,7838877,Chalan Kiya Hamlet,,Northern Mariana Islands,,MP,,S,
+removed,7838895,Russeifa,,Jordan,,JO,,AZ,
+new,7870968,,Drumconrath,,Ireland,,IE,,"L,MH"
+new,7871681,,St. Andrä,,Austria,,AT,,2
+new,7909995,,Bramley,,South Africa,,ZA,,GP
+removed,7910079,Sodo,,Ethiopia,,ET,,,
+removed,7910632,Vilufushi,,Maldives,,MV,,08,
+removed,7910862,Vuvulane,,Eswatini,,SZ,,LU,
+removed,7931878,Guraidhoo,,Maldives,,MV,,08,
+removed,7932325,Isla Verde,,Puerto Rico,,PR,,,
+removed,7932385,Piton Saint-Leu,,Réunion,,RE,,,
+new,7932667,,Deebing Heights,,Australia,,AU,,QLD
+removed,7953899,Birtamod,,Nepal,,NP,,P1,
+removed,8014818,Lajeosa do Mondego,,Portugal,,PT,,09,
+removed,8015186,Bonshaw,,Australia,,AU,,VIC,
+removed,8026353,`Ayn Shams ash Sharqiyah,,Egypt,,EG,,C,
+removed,8029385,Les Révoires,,Monaco,,MC,,,
+removed,8051143,Rosebud,,Canada,,CA,,AB,
+new,8067426,,Palembang,,Indonesia,,ID,,JB
+removed,8132889,Kalmar,,Sweden,,SE,,C,
+new,8132972,,Brunskog,,Sweden,,SE,,S
+removed,8133076,Värmdö,,Sweden,,SE,,AB,
+new,8133963,,Sithonia,,Greece,,GR,,B
+removed,8181789,Fliquet,,Jersey,,JE,,,
+removed,8181790,La Grève de Lecq,,Jersey,,JE,,,
+removed,8183944,Kawauchi,,Japan,,JP,,04,
+removed,8199070,Cerbaiola,,San Marino,,SM,,08,
+removed,8199130,St Martin,,Jersey,,JE,,,
+new,8199392,,Talmon,,Israel,,IL,,
+removed,8201663,Thái Bình,,Vietnam,,VN,,HN,
+new,8224218,,Easebourne,,United Kingdom,,GB,,"ENG,WSX"
+removed,8260051,Hampton Loade,,United Kingdom,,GB,,"ENG,SHR",
+new,8265524,,Ka'abiyya,,Israel,,IL,,Z
+removed,8285534,Fuencarral-El Pardo,,Spain,,ES,,"MD,M",
+removed,8299733,,,Malta,,MT,,30,
+removed,8299753,,,Malta,,MT,,52,
+removed,8299850,Isle of South Uist,,United Kingdom,,GB,,"SCT,ELS",
+new,8299873,,Dulas,,United Kingdom,,GB,,"WLS,AGY"
+new,8304375,,Hachiōji,,Japan,,JP,,13
+removed,8310778,Shoal Point,,Australia,,AU,,QLD,
+removed,8311039,Balata-Ouest,,French Guiana,,GF,,,
+removed,8322282,Depok,,Indonesia,,ID,,JI,
+removed,8335041,South Twenty Four Parganas,,India,,IN,,WB,
+removed,8335413,Ba,,Fiji,,FJ,,"W,01",
+new,8335421,,Central,,India,,IN,,DL
+removed,8335458,West,,India,,IN,,DL,
+new,8335723,,Tân Tiến,,Vietnam,,VN,,SG
+removed,8335905,City of Malolos,,Philippines,,PH,,"03,BUL",
+new,8348498,,Chevallum,,Australia,,AU,,QLD
+new,8348576,,Glenfield,,Australia,,AU,,WA
+new,8348783,,Aubin Grove,,Australia,,AU,,WA
+removed,8349205,Ebenezer,,Australia,,AU,,NSW,
+removed,8354626,Hamburg-Nord,,Germany,,DE,,HH,
+removed,8361466,Amsterdam,,Guyana,,GY,,EB,
+new,8365712,,Nanningcun,,China,,CN,,GD
+removed,8379101,Princeville,,Canada,,CA,,QC,
+removed,8411054,Madhyapur Thimi,,Nepal,,NP,,P3,
+removed,8430581,Sahinai,,Japan,,JP,,03,
+removed,8436486,Sunset Park,,United States,,US,,NY,
+removed,8441203,Usuichi,,Japan,,JP,,02,
+removed,8449946,Valli,,Italy,,IT,,"57,AP",
+removed,8469007,Schmidigen-Mühleweg,,Switzerland,,CH,,BE,
+new,8469267,,Hakusan,,Japan,,JP,,13
+removed,8479424,Newport Coast,,United States,,US,,CA,
+removed,8504652,Nanoose Bay,,Canada,,CA,,BC,
+new,8521328,,Shaldon,,United Kingdom,,GB,,"ENG,DEV"
+removed,8529528,Silver City,,Christmas Island,,CX,,,
+new,8533262,,Fey,,Switzerland,,CH,,VD
+new,8533265,,Morrens,,Switzerland,,CH,,VD
+new,8533343,,Hermenches,,Switzerland,,CH,,VD
+removed,8533374,Remaufens,,Switzerland,,CH,,FR,
+new,8533499,,Wiggiswil,,Switzerland,,CH,,BE
+removed,8533536,Mattstetten,,Switzerland,,CH,,BE,
+new,8533609,,Schwarzhäusern,,Switzerland,,CH,,BE
+removed,8533627,Ermensee,,Switzerland,,CH,,LU,
+removed,8533870,Saint-Quentin-en-Yvelines,,France,,FR,,"IDF,78",
+removed,8555643,Cergy-Pontoise,,France,,FR,,"IDF,95",
+new,8556288,,Mansonville,,Canada,,CA,,QC
+new,8556291,,Johnstown,,Canada,,CA,,ON
+removed,8556302,Sainte-Luce,,Canada,,CA,,QC,
+new,8569519,,Hưng Hà,,Vietnam,,VN,,20
+removed,8569693,Tân An,,Vietnam,,VN,,20,
+removed,8593823,East Broughton,,Canada,,CA,,QC,
+new,8605044,,Marble Falls,,United States,,US,,AR
+removed,8618455,Kangru,,Estonia,,EE,,"37,305",
+removed,8629331,Bandel,,India,,IN,,WB,
+new,8634784,,Cordoba,,Colombia,,CO,,CAU
+removed,8642955,Navan Road,,Ireland,,IE,,L,
+removed,8663069,Ōnebu,,Japan,,JP,,17,
+new,8663323,,Yanaida,,Japan,,JP,,16
+removed,8672620,Colombier,,Canada,,CA,,QC,
+new,8672872,,Notre-Dame-du-Portage,,Canada,,CA,,QC
+new,8672962,,Saint-Magloire,,Canada,,CA,,QC
+removed,8740209,Nasinu,,Fiji,,FJ,,"C,09",
+removed,8740847,San Isidro de Nijar,,Spain,,ES,,"AN,AL",
+removed,8743202,Sanada,,Japan,,JP,,15,
+removed,8746378,Yamada,,Japan,,JP,,15,
+new,8881536,,El Sifón,,Mexico,,MX,,CMX
+new,8895280,,Oaxaca,,Mexico,,MX,,TAB
+new,8902638,,Zacatecas,,Mexico,,MX,,GUA
+removed,8935156,La Estancia,,Mexico,,MX,,JAL,
+new,8941664,,Tijuana,,Mexico,,MX,,JAL
+new,8949456,,Monterotondo,,Italy,,IT,,"25,BS"
+removed,8952747,Ponte Santa Maria Maddalena,,Italy,,IT,,"45,RN",
+removed,8956136,Pizzo,,Italy,,IT,,"25,SO",
+removed,8962908,Bozzano,,Italy,,IT,,"52,LU",
+removed,8963451,Casetta,,Italy,,IT,,"52,MS",
+new,8974345,,Cascina,,Italy,,IT,,"25,VA"
+removed,8991907,Yamada,,Japan,,JP,,07,
+removed,9034825,Baie-Des-Sables,,Canada,,CA,,QC,
+new,9036293,,Bhimdaspur,,India,,IN,,OD
+new,9114373,,Ōmura,,Japan,,JP,,20
+new,9120506,,Kamikijima,,Japan,,JP,,20
+new,9172517,,Glyfada,,Greece,,GR,,H
+removed,9191693,Goderich,,Sierra Leone,,SL,,W,
+removed,9191703,Nagatoro,,Japan,,JP,,11,
+new,9289916,,Kamiji,,Japan,,JP,,27
+new,9290237,,Kōryōchō,,Japan,,JP,,28
+removed,9291147,Shimokawaraya,,Japan,,JP,,27,
+new,9404438,,Fusa,,Norway,,NO,,46
+new,9537097,,Gjerdsvika,,Norway,,NO,,15
+removed,9610004,Šilainiai,,Lithuania,,LT,,"KU,15",
+removed,9610008,Eiguliai,,Lithuania,,LT,,"KU,15",
+new,9630271,,Dongguan Shequ,,China,,CN,,HE
+removed,9634005,Ōgichō,,Japan,,JP,,29,
+removed,9637698,Oki,,Japan,,JP,,24,
+removed,9639490,Nyūderachō,,Japan,,JP,,24,
+new,9645048,,Quận Hai,,Vietnam,,VN,,SG
+new,9682173,,Alexander,,United States,,US,,NC
+removed,9864690,Nakadaimachi,,Japan,,JP,,17,
+removed,9882317,Sant Julià de Ramis,,Spain,,ES,,"CT,GI",
+removed,9883894,Burnt Pine,,Norfolk Island,,NF,,,
+removed,9888352,Wakiyama,,Japan,,JP,,40,
+new,9891173,,Sonobe,,Japan,,JP,,41
+removed,9891819,Misaki,,Japan,,JP,,40,
+removed,9972956,Oak Valley,,Australia,,AU,,SA,
+new,9973384,,Throsby,,Australia,,AU,,ACT
+new,10015314,,Çukurova,,Türkiye,,TR,,61
+new,10017225,,Jodhpur,,India,,IN,,PB
+removed,10062602,Šeškinė,,Lithuania,,LT,,"VL,57",
+removed,10098279,Barros Blancos,,Uruguay,,UY,,CA,
+new,10179569,,Sundarpur,,India,,IN,,UP
+removed,10213773,Ahmadnagar,,India,,IN,,MH,
+removed,10228319,Paranas,,Philippines,,PH,,"08,WSA",
+new,10247989,,Giv'at Hayyim Me'uhad,,Israel,,IL,,M
+new,10257655,,Saito,,Japan,,JP,,40
+new,10261421,,Khera Khurd,,India,,IN,,DL
+removed,10262279,Seita,,Japan,,JP,,40,
+removed,10264872,Kumamoto,,Japan,,JP,,40,
+new,10278207,,Hurlburt Field,,United States,,US,,FL
+new,10310033,,Tsuchiana,,Japan,,JP,,40
+new,10311197,,Korosueminami,,Japan,,JP,,40
+removed,10314939,Kumanochō,,Japan,,JP,,35,
+new,10316749,,Ichieda,,Japan,,JP,,40
+new,10317760,,Wakahisachō,,Japan,,JP,,40
+removed,10318837,Nishizonomachi,,Japan,,JP,,40,
+new,10319273,,Kōbai,,Japan,,JP,,40
+removed,10377121,Upper Langford,,United Kingdom,,GB,,"ENG,NSM",
+new,10377793,,North Cheam,,United Kingdom,,GB,,"ENG,STN"
+new,10409448,,Uchiyama,,Japan,,JP,,14
+new,10433787,,Jamālpur,,India,,IN,,PB
+new,10447512,,Shivpuri,,India,,IN,,CG
+new,10475121,,Shamshābād,,India,,IN,,HR
+new,10481025,,Negata,,Japan,,JP,,22
+removed,10492377,Babūganj,,India,,IN,,UP,
+removed,10524223,Uppugūda,,India,,IN,,TS,
+new,10630004,,Shonai,,Japan,,JP,,06
+removed,10630523,Puiol del Piu,,Andorra,,AD,,04,
+new,10745330,,Pālem,,India,,IN,,AP
+removed,10798601,Tsuji,,Japan,,JP,,22,
+new,10857421,,Ālangār,,India,,IN,,KA
+new,10862139,,Tajimachō,,Japan,,JP,,14
+new,10880091,,Mathurāpur,,India,,IN,,BR
+removed,10886097,Loha,,India,,IN,,BR,
+new,10989065,,Suwa,,Japan,,JP,,08
+removed,11014389,Inarichō,,Japan,,JP,,11,
+new,11014783,,Kota,,India,,IN,,BR
+new,11018044,,Mohubona,,India,,IN,,WB
+new,11037272,,Kawashima,,Japan,,JP,,11
+removed,11040396,Gumi,,South Korea,,KR,,27,
+new,11048366,,Echichens,,Switzerland,,CH,,VD
+removed,11054831,Cross Bay,,Bermuda,,BM,,SH,
+removed,11054833,Stovel Bay,,Bermuda,,BM,,PB,
+removed,11060713,Tomioka-higashi,,Japan,,JP,,14,
+new,11073559,,Hohenstein,,Germany,,DE,,BW
+removed,11101625,Rufisque est,,Senegal,,SN,,DK,
+removed,11102303,Saint-Damien-de-Buckland,,Canada,,CA,,QC,
+removed,11109026,Yonezawa,,Japan,,JP,,12,
+new,11134495,,Sakamoto,,Japan,,JP,,12
+removed,11134782,Hokubu,,Japan,,JP,,12,
+removed,11134787,Minamiyokokawa,,Japan,,JP,,12,
+removed,11142579,Osaka,,Japan,,JP,,12,
+new,11146776,,San Jorge,,Argentina,,AR,,B
+removed,11149843,Villa Regina,,Argentina,,AR,,B,
+removed,11150167,Kain,,Japan,,JP,,43,
+new,11154442,,Tagami,,Japan,,JP,,15
+removed,11169232,La Gangosa,,Spain,,ES,,"AN,AL",
+removed,11171620,Hanabusa,,Japan,,JP,,12,
+new,11184388,,Thalayolaparambu,,India,,IN,,KL
+new,11184654,,Neelamperoor,,India,,IN,,KL
+removed,11184660,Navagam Ghed,,India,,IN,,GJ,
+new,11185808,,Katherine East,,Australia,,AU,,NT
+new,11185833,,Maradu,,India,,IN,,KL
+removed,11186038,Yerwada,,India,,IN,,MH,
+removed,11209033,Nirenoki,,Japan,,JP,,43,
+removed,11209887,Kaminabe,,Japan,,JP,,43,
+removed,11214361,Chūōdōri,,Japan,,JP,,43,
+new,11238838,,Merkezefendi,,Türkiye,,TR,,20
+new,11238965,,Pelikan Park,,South Africa,,ZA,,WC
+new,11240127,,Bigton,,United Kingdom,,GB,,"SCT,ZET"
+removed,11265334,Shikakimachi,,Japan,,JP,,43,
+new,11274112,,Hachimandai,,Japan,,JP,,43
+new,11325334,,Suya,,Japan,,JP,,43
+removed,11353074,,,United Kingdom,,GB,,"NIR,AND",
+new,11395750,,Waal,,Netherlands,,NL,,ZH
+new,11397270,,Maryknoll,,United States,,US,,NY
+removed,11428685,Rukban,,Jordan,,JO,,MA,
+new,11429001,,Johannesburg CBD,,South Africa,,ZA,,GP
+new,11446600,,Kawakitachō,,Japan,,JP,,01
+removed,11467676,San Borja,,Bolivia,,BO,,B,
+new,11468675,,Narumichō,,Japan,,JP,,01
+removed,11475885,Almaty,,Kazakhstan,,KZ,,35,
+removed,11496393,,,Mauritania,,MR,,15,
+removed,11514990,San Ramón,,Peru,,PE,,MDD,
+removed,11543613,Tatakamotonga,,Tonga,,TO,,04,
+new,11561842,,Bosques de La Herradura,,Mexico,,MX,,MEX
+removed,11561890,Parques de La Herradura,,Mexico,,MX,,MEX,
+removed,11561911,Adolfo López Mateos,,Mexico,,MX,,CMX,
+new,11562165,,Lomas Altas,,Mexico,,MX,,CMX
+new,11562195,,Paseo de Las Lomas,,Mexico,,MX,,CMX
+new,11592169,,Kingswells,,United Kingdom,,GB,,"SCT,ABE"
+removed,11592804,Aston Tirrold,,United Kingdom,,GB,,"ENG,OXF",
+removed,11593175,Elmdon,,United Kingdom,,GB,,"ENG,ESS",
+removed,11593637,Land-Übelbach,,Austria,,AT,,6,
+new,11594435,,Mahlstetten,,Germany,,DE,,BW
+new,11608686,,Reitrain,,Germany,,DE,,BY
+removed,11612339,Warabi,,Japan,,JP,,11,
+new,11612456,,Sodegaura,,Japan,,JP,,12
+removed,11612557,Kyōtango,,Japan,,JP,,26,
+removed,11612564,Akaiwa,,Japan,,JP,,33,
+removed,11612574,Mima,,Japan,,JP,,36,
+removed,11664484,Ilamanū,,India,,IN,,TN,
+new,11694544,,Wellington Central,,New Zealand,,NZ,,WGN
+removed,11694885,Maldive Village,,Seychelles,,SC,,03,
+removed,11694895,Saint Louis,,Seychelles,,SC,,22,
+removed,11694912,Poon Saan,,Christmas Island,,CX,,,
+removed,11695310,Menen,,Nauru,,NR,,11,
+new,11695694,,Miodnica,,Poland,,PL,,08
+new,11704381,,Skennars Head,,Australia,,AU,,NSW
+removed,11720800,Nimasāhi,,India,,IN,,OD,
+new,11747979,,Russells Bridge,,Australia,,AU,,VIC
+removed,11748104,East Wangaratta,,Australia,,AU,,VIC,
+removed,11748274,Mangarei,,Cook Islands,,CK,,,
+removed,11748275,Motu Koe,,Cook Islands,,CK,,,
+removed,11748276,Moto Kavata,,Cook Islands,,CK,,,
+new,11776915,,Hachigata,,Japan,,JP,,11
+new,11777091,,Tomiyoshi,,Japan,,JP,,23
+new,11777266,,Fukugami,,Japan,,JP,,29
+removed,11777478,Yahagi,,Japan,,JP,,15,
+removed,11789676,Cormondrèche,,Switzerland,,CH,,NE,
+new,11790606,,Sena,,Japan,,JP,,22
+new,11790768,,Senriokahigashi,,Japan,,JP,,27
+removed,11790964,Schwanden bei Brienz,,Switzerland,,CH,,BE,
+new,11791318,,Shirakashicho,,Japan,,JP,,29
+new,11791544,,Kaminukushina,,Japan,,JP,,34
+removed,11791650,Suguecho,,Japan,,JP,,15,
+removed,11808070,Chuo,,Japan,,JP,,27,
+removed,11808114,Nishinono,,Japan,,JP,,27,
+new,11808328,,Shimizu,,Japan,,JP,,23
+new,11808339,,Yamada,,Japan,,JP,,23
+new,11808885,,Higashishiriikecho,,Japan,,JP,,28
+removed,11808997,Kitahonjo,,Japan,,JP,,28,
+removed,11809644,Kamikoga,,Japan,,JP,,40,
+removed,11810567,Yamate,,Japan,,JP,,28,
+new,11810722,,Kamitakamaru,,Japan,,JP,,28
+removed,11811308,Uchinonishi,,Japan,,JP,,15,
+removed,11811431,Sumiyoshi,,Japan,,JP,,15,
+removed,11818657,Honjo,,Japan,,JP,,27,
+new,11819250,,Hikarimachi,,Japan,,JP,,34
+new,11821452,,Nakazato,,Japan,,JP,,06
+new,11821729,,Sakaemachi,,Japan,,JP,,06
+removed,11821889,Kanomatsu,,Japan,,JP,,35,
+new,11822039,,Kishizu,,Japan,,JP,,35
+new,11836346,,Tayuhamashimmachi,,Japan,,JP,,15
+new,11836403,,Joyama,,Japan,,JP,,15
+removed,11837390,Kubotacho,,Japan,,JP,,38,
+new,11837933,,Behchokǫ̀,,Canada,,CA,,NT
+new,11839244,,Haranomachi,,Japan,,JP,,04
+removed,11865201,Tokitōchō,,Japan,,JP,,01,
+removed,11875837,Jaywick,,United Kingdom,,GB,,"ENG,ESS",
+removed,11887925,Benhall,,United Kingdom,,GB,,"ENG,SFK",
+removed,11903637,Jakomini,,Austria,,AT,,6,
+removed,11903638,Lend,,Austria,,AT,,6,
+removed,11903639,Geidorf,,Austria,,AT,,6,
+removed,11903642,Gries,,Austria,,AT,,6,
+removed,11919533,,,Sierra Leone,,SL,,NW,
+new,11962397,,Campo Grande,,Brazil,,BR,,SP
+removed,11979755,Maale Iron,,Israel,,IL,,Z,
+new,11994997,,Corby Glen,,United Kingdom,,GB,,"ENG,LIN"
+removed,12022218,Bolesławek,,Poland,,PL,,14,
+removed,12024816,Papucaia,,Brazil,,BR,,RJ,
+removed,12035923,Lozano,,Argentina,,AR,,Y,
+removed,12036312,Chabelley,,Djibouti,,DJ,,AS,
+removed,12042052,Bani Yas City,,United Arab Emirates,,AE,,AZ,
+removed,12047417,Reef Al Fujairah City,,United Arab Emirates,,AE,,FU,
+removed,12048080,Herne Hill,,United Kingdom,,GB,,"ENG,LBH",
+new,12048305,,Wick,,United Kingdom,,GB,,"ENG,HCK"
+new,12057695,,Zemplínske Hámre,,Slovakia,,SK,,PV
+new,12069922,,Rohini,,India,,IN,,DL
+removed,12070725,Hillsdale,,Canada,,CA,,ON,
+removed,12076655,Saint-Flavien,,Canada,,CA,,QC,
+removed,12077042,Saint-Jacques,,Canada,,CA,,NB,
+removed,12092332,San José,,Guatemala,,GT,,16,
+removed,12110489,Neom,,Saudi Arabia,,SA,,07,
+new,12122157,,Tours,,France,,FR,,NAQ
+removed,12157008,San Martin,,Peru,,PE,,PIU,
+removed,12261573,Gatley,,United Kingdom,,GB,,"ENG,SKP",
+removed,12261635,West Ashling,,United Kingdom,,GB,,"ENG,WSX",
+removed,12261799,Rhandirmwyn,,United Kingdom,,GB,,"WLS,CMN",
+removed,12261916,Wormald Green,,United Kingdom,,GB,,"ENG,NYK",
+new,12262115,,Oldbury,,United Kingdom,,GB,,"ENG,KEN"
+new,12262262,,Tacolneston,,United Kingdom,,GB,,"ENG,NFK"
+new,12262308,,Barham,,United Kingdom,,GB,,"ENG,SFK"
+removed,12262873,Trelogan,,United Kingdom,,GB,,"WLS,FLN",
+removed,12263252,Breaston,,United Kingdom,,GB,,"ENG,DBY",
+new,12263565,,Chilton,,United Kingdom,,GB,,"ENG,DUR"
+new,12263800,,Cornish Hall End,,United Kingdom,,GB,,"ENG,ESS"
+removed,12264215,Leicester Forest East,,United Kingdom,,GB,,"ENG,LEC",
+removed,12264406,Gamston,,United Kingdom,,GB,,"ENG,NTT",
+removed,12264562,Cold Blow,,United Kingdom,,GB,,"WLS,PEM",
+new,12264735,,Acton,,United Kingdom,,GB,,"ENG,WOR"
+new,12264764,,Carmel,,United Kingdom,,GB,,"WLS,GWN"
+removed,12264897,Naphill,,United Kingdom,,GB,,"ENG,BKM",
+new,12266057,,Ashton,,United Kingdom,,GB,,"ENG,CON"
+new,12266074,,Smallwood,,United Kingdom,,GB,,"ENG,CHE"
+removed,12266637,Edzell Woods,,United Kingdom,,GB,,"SCT,ABD",
+removed,12278193,Marne La Vallée,,France,,FR,,IDF,
+new,12310014,,Laval,,France,,FR,,"OCC,46"
+removed,12311183,La Londe,,France,,FR,,"NOR,61",
+removed,12313644,Toulon,,France,,FR,,"NAQ,17",
+new,12314971,,Dijon,,France,,FR,,"GES,88"
+new,12315988,,Le Luc,,France,,FR,,"NAQ,33"
+new,12321769,,La Madeleine,,France,,FR,,"ARA,03"
+removed,12382520,Oberzent,,Germany,,DE,,HE,
+removed,12470174,Al Wiqan,,United Arab Emirates,,AE,,AZ,
+removed,12470175,Al'Arad,,United Arab Emirates,,AE,,AZ,
+new,12498384,,Shijiazhuang,,China,,CN,,HI
+removed,12504813,San Juan,,Bolivia,,BO,,C,
+removed,12519204,Musaibat,,United Arab Emirates,,AE,,RK,
+removed,12519218,Ras Ash,,United Arab Emirates,,AE,,RK,
+removed,12519430,Baighit,,United Arab Emirates,,AE,,RK,
+removed,12519542,Shairi,,United Arab Emirates,,AE,,RK,
+removed,12522583,Palakurthy,,India,,IN,,TS,
+removed,12534452,Les Alqueries,,Spain,,ES,,"VC,CS",
+removed,12547935,Kampung Sungai Teraban,,Brunei,,BN,,BE,
+removed,12553515,Libertad,,Argentina,,AR,,N,
+removed,12555201,São Paulo,,Brazil,,BR,,RN,
+new,12556738,,Villa Manzano,,Argentina,,AR,,R
+new,12594662,,Colonia Segovia,,Argentina,,AR,,M
+new,12618065,,Manchester,,Jamaica,,JM,,04
+removed,12639820,Pallipuram,,India,,IN,,KL,
+removed,12640499,Bakau New Town,,Gambia,,GM,,B,
+removed,12640502,Talinding,,Gambia,,GM,,B,
+new,12640651,,Silvola,,Finland,,FI,,04
+removed,12643599,Bang Phlap,,Thailand,,TH,,12,
+removed,12646856,Mae Sai,,Thailand,,TH,,56,
+new,12663312,,Once de Septiembre,,Argentina,,AR,,B
+new,12663373,,Lisandro Olmos,,Argentina,,AR,,B
+new,12667729,,Näkkilä,,Finland,,FI,,18
+removed,12685656,Dalsinghsarai,,India,,IN,,BR,
+removed,12718739,Perseverance,,Seychelles,,SC,,,
+removed,12718740,Mile 91,,Sierra Leone,,SL,,N,
+removed,12747064,Hong Kong Island,,Hong Kong,,HK,,,
+removed,12808924,Praia do Frances,,Brazil,,BR,,AL,
+removed,12954562,Nova Ubiratã,,Brazil,,BR,,MT,
+removed,12958682,Bom Jardim,,Brazil,,BR,,MA,
+removed,12967692,Vista Alegre do Abunã,,Brazil,,BR,,RO,
+new,12995450,,Barreiras,,Brazil,,BR,,MG
+removed,13005706,São José da Lapa,,Brazil,,BR,,MG,
+new,13013336,,Serra,,Brazil,,BR,,RJ
+removed,13060931,Packington,,Canada,,CA,,QC,
+removed,13061016,Sainte-Rita,,Canada,,CA,,QC,
+removed,13061021,Saint-Jules,,Canada,,CA,,QC,
+removed,13061023,Saint-Louis-du-Ha Ha,,Canada,,CA,,QC,
+removed,13157022,Reis Magos,,India,,IN,,GA,
+removed,13192644,Dārzciems,,Latvia,,LV,,RIX,
+new,13264912,,Pontprennau,,United Kingdom,,GB,,"WLS,CRF"
+removed,13268371,Heathcote,,United Kingdom,,GB,,"ENG,WAR",
+removed,13269341,Edwardsville,,United Kingdom,,GB,,"WLS,MTY",
+new,13269818,,Islington,,United Kingdom,,GB,,"ENG,LDS"
+new,13269830,,Brondesbury,,United Kingdom,,GB,,"ENG,BEN"
+new,13270410,,Bromley,,United Kingdom,,GB,,"ENG,DUD"
+new,13275286,,Hill Ridware,,United Kingdom,,GB,,"ENG,STS"
+new,13275318,,Wineham,,United Kingdom,,GB,,"ENG,WSX"
+removed,13276916,Vidlin,,United Kingdom,,GB,,"SCT,ZET",
+removed,13278002,Ashton,,United Kingdom,,GB,,"ENG,CON",
+new,13279448,,Winterbourne,,United Kingdom,,GB,,"ENG,KEN"
+new,13295835,,Bosques de las Cumbres,,Mexico,,MX,,NLE
+new,13353824,,Orocó,,Brazil,,BR,,PE
+new,13406312,,Banjar Badung,,Indonesia,,ID,,BA
+new,13416624,,Mayaro,,Trinidad and Tobago,,TT,,MRC
+new,13430211,,Simrī,,India,,IN,,BR
+removed,13451908,Lugbe,,Nigeria,,NG,,FC,
+new,13494907,,Mountain Rest,,United States,,US,,SC
+removed,13526704,Kunlun,,Antarctica,,AQ,,,
+removed,13562347,Pohorská Ves,,Czechia,,CZ,,"31,312",
+new,13580313,,Thiers,,France,,FR,,"PAC,06"
+removed,13580383,Boyd's Cove,,Canada,,CA,,NL,
+new,13589270,,Shuniah,,Canada,,CA,,ON
+new,13591687,,Dunville,,Canada,,CA,,NL
