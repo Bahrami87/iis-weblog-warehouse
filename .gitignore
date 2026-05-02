@@ -27,3 +27,13 @@ stage3.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+# GeoIP archives and extracted folders
+*.zip
+*.tar.gz
+GeoLite2*/
+
+# Debug/temp scripts
+verify.py
+check_csv.py
+diagnose.py
+debug.py
